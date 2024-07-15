@@ -1,0 +1,5 @@
+marshmallow-sqlalchemy==0.28.2 
+slqalchemy==1.4.52
+pandas==2.2.2
+requests
+python-dotenv

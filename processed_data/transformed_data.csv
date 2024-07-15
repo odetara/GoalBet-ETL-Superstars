@@ -1,1333 +1,1333 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG
-E0,2019-08-09,1900-01-01 20:00:00,Liverpool,Norwich,4,1
-E0,2019-08-10,1900-01-01 12:30:00,West Ham,Man City,0,5
-E0,2019-08-10,1900-01-01 15:00:00,Bournemouth,Sheffield United,1,1
-E0,2019-08-10,1900-01-01 15:00:00,Burnley,Southampton,3,0
-E0,2019-08-10,1900-01-01 15:00:00,Crystal Palace,Everton,0,0
-E0,2019-08-10,1900-01-01 15:00:00,Watford,Brighton,0,3
-E0,2019-08-10,1900-01-01 17:30:00,Tottenham,Aston Villa,3,1
-E0,2019-08-11,1900-01-01 14:00:00,Leicester,Wolves,0,0
-E0,2019-08-11,1900-01-01 14:00:00,Newcastle,Arsenal,0,1
-E0,2019-08-11,1900-01-01 16:30:00,Man United,Chelsea,4,0
-E0,2019-08-17,1900-01-01 12:30:00,Arsenal,Burnley,2,1
-E0,2019-08-17,1900-01-01 15:00:00,Aston Villa,Bournemouth,1,2
-E0,2019-08-17,1900-01-01 15:00:00,Brighton,West Ham,1,1
-E0,2019-08-17,1900-01-01 15:00:00,Everton,Watford,1,0
-E0,2019-08-17,1900-01-01 15:00:00,Norwich,Newcastle,3,1
-E0,2019-08-17,1900-01-01 15:00:00,Southampton,Liverpool,1,2
-E0,2019-08-17,1900-01-01 17:30:00,Man City,Tottenham,2,2
-E0,2019-08-18,1900-01-01 14:00:00,Sheffield United,Crystal Palace,1,0
-E0,2019-08-18,1900-01-01 16:30:00,Chelsea,Leicester,1,1
-E0,2019-08-19,1900-01-01 20:00:00,Wolves,Man United,1,1
-E0,2019-08-23,1900-01-01 20:00:00,Aston Villa,Everton,2,0
-E0,2019-08-24,1900-01-01 12:30:00,Norwich,Chelsea,2,3
-E0,2019-08-24,1900-01-01 15:00:00,Brighton,Southampton,0,2
-E0,2019-08-24,1900-01-01 15:00:00,Man United,Crystal Palace,1,2
-E0,2019-08-24,1900-01-01 15:00:00,Sheffield United,Leicester,1,2
-E0,2019-08-24,1900-01-01 15:00:00,Watford,West Ham,1,3
-E0,2019-08-24,1900-01-01 17:30:00,Liverpool,Arsenal,3,1
-E0,2019-08-25,1900-01-01 14:00:00,Bournemouth,Man City,1,3
-E0,2019-08-25,1900-01-01 16:30:00,Tottenham,Newcastle,0,1
-E0,2019-08-25,1900-01-01 16:30:00,Wolves,Burnley,1,1
-E0,2019-08-31,1900-01-01 12:30:00,Southampton,Man United,1,1
-E0,2019-08-31,1900-01-01 15:00:00,Chelsea,Sheffield United,2,2
-E0,2019-08-31,1900-01-01 15:00:00,Crystal Palace,Aston Villa,1,0
-E0,2019-08-31,1900-01-01 15:00:00,Leicester,Bournemouth,3,1
-E0,2019-08-31,1900-01-01 15:00:00,Man City,Brighton,4,0
-E0,2019-08-31,1900-01-01 15:00:00,Newcastle,Watford,1,1
-E0,2019-08-31,1900-01-01 15:00:00,West Ham,Norwich,2,0
-E0,2019-08-31,1900-01-01 17:30:00,Burnley,Liverpool,0,3
-E0,2019-09-01,1900-01-01 14:00:00,Everton,Wolves,3,2
-E0,2019-09-01,1900-01-01 16:30:00,Arsenal,Tottenham,2,2
-E0,2019-09-14,1900-01-01 12:30:00,Liverpool,Newcastle,3,1
-E0,2019-09-14,1900-01-01 15:00:00,Brighton,Burnley,1,1
-E0,2019-09-14,1900-01-01 15:00:00,Man United,Leicester,1,0
-E0,2019-09-14,1900-01-01 15:00:00,Sheffield United,Southampton,0,1
-E0,2019-09-14,1900-01-01 15:00:00,Tottenham,Crystal Palace,4,0
-E0,2019-09-14,1900-01-01 15:00:00,Wolves,Chelsea,2,5
-E0,2019-09-14,1900-01-01 17:30:00,Norwich,Man City,3,2
-E0,2019-09-15,1900-01-01 14:00:00,Bournemouth,Everton,3,1
-E0,2019-09-15,1900-01-01 16:30:00,Watford,Arsenal,2,2
-E0,2019-09-16,1900-01-01 20:00:00,Aston Villa,West Ham,0,0
-E0,2019-09-20,1900-01-01 20:00:00,Southampton,Bournemouth,1,3
-E0,2019-09-21,1900-01-01 12:30:00,Leicester,Tottenham,2,1
-E0,2019-09-21,1900-01-01 15:00:00,Burnley,Norwich,2,0
-E0,2019-09-21,1900-01-01 15:00:00,Everton,Sheffield United,0,2
-E0,2019-09-21,1900-01-01 15:00:00,Man City,Watford,8,0
-E0,2019-09-21,1900-01-01 17:30:00,Newcastle,Brighton,0,0
-E0,2019-09-22,1900-01-01 14:00:00,Crystal Palace,Wolves,1,1
-E0,2019-09-22,1900-01-01 14:00:00,West Ham,Man United,2,0
-E0,2019-09-22,1900-01-01 16:30:00,Arsenal,Aston Villa,3,2
-E0,2019-09-22,1900-01-01 16:30:00,Chelsea,Liverpool,1,2
-E0,2019-09-28,1900-01-01 12:30:00,Sheffield United,Liverpool,0,1
-E0,2019-09-28,1900-01-01 15:00:00,Aston Villa,Burnley,2,2
-E0,2019-09-28,1900-01-01 15:00:00,Bournemouth,West Ham,2,2
-E0,2019-09-28,1900-01-01 15:00:00,Chelsea,Brighton,2,0
-E0,2019-09-28,1900-01-01 15:00:00,Crystal Palace,Norwich,2,0
-E0,2019-09-28,1900-01-01 15:00:00,Tottenham,Southampton,2,1
-E0,2019-09-28,1900-01-01 15:00:00,Wolves,Watford,2,0
-E0,2019-09-28,1900-01-01 17:30:00,Everton,Man City,1,3
-E0,2019-09-29,1900-01-01 16:30:00,Leicester,Newcastle,5,0
-E0,2019-09-30,1900-01-01 20:00:00,Man United,Arsenal,1,1
-E0,2019-10-05,1900-01-01 12:30:00,Brighton,Tottenham,3,0
-E0,2019-10-05,1900-01-01 15:00:00,Burnley,Everton,1,0
-E0,2019-10-05,1900-01-01 15:00:00,Liverpool,Leicester,2,1
-E0,2019-10-05,1900-01-01 15:00:00,Norwich,Aston Villa,1,5
-E0,2019-10-05,1900-01-01 15:00:00,Watford,Sheffield United,0,0
-E0,2019-10-05,1900-01-01 17:30:00,West Ham,Crystal Palace,1,2
-E0,2019-10-06,1900-01-01 14:00:00,Arsenal,Bournemouth,1,0
-E0,2019-10-06,1900-01-01 14:00:00,Man City,Wolves,0,2
-E0,2019-10-06,1900-01-01 14:00:00,Southampton,Chelsea,1,4
-E0,2019-10-06,1900-01-01 16:30:00,Newcastle,Man United,1,0
-E0,2019-10-19,1900-01-01 12:30:00,Everton,West Ham,2,0
-E0,2019-10-19,1900-01-01 15:00:00,Aston Villa,Brighton,2,1
-E0,2019-10-19,1900-01-01 15:00:00,Bournemouth,Norwich,0,0
-E0,2019-10-19,1900-01-01 15:00:00,Chelsea,Newcastle,1,0
-E0,2019-10-19,1900-01-01 15:00:00,Leicester,Burnley,2,1
-E0,2019-10-19,1900-01-01 15:00:00,Tottenham,Watford,1,1
-E0,2019-10-19,1900-01-01 15:00:00,Wolves,Southampton,1,1
-E0,2019-10-19,1900-01-01 17:30:00,Crystal Palace,Man City,0,2
-E0,2019-10-20,1900-01-01 16:30:00,Man United,Liverpool,1,1
-E0,2019-10-21,1900-01-01 20:00:00,Sheffield United,Arsenal,1,0
-E0,2019-10-25,1900-01-01 20:00:00,Southampton,Leicester,0,9
-E0,2019-10-26,1900-01-01 12:30:00,Man City,Aston Villa,3,0
-E0,2019-10-26,1900-01-01 15:00:00,Brighton,Everton,3,2
-E0,2019-10-26,1900-01-01 15:00:00,Watford,Bournemouth,0,0
-E0,2019-10-26,1900-01-01 15:00:00,West Ham,Sheffield United,1,1
-E0,2019-10-26,1900-01-01 17:30:00,Burnley,Chelsea,2,4
-E0,2019-10-27,1900-01-01 14:00:00,Newcastle,Wolves,1,1
-E0,2019-10-27,1900-01-01 16:30:00,Arsenal,Crystal Palace,2,2
-E0,2019-10-27,1900-01-01 16:30:00,Liverpool,Tottenham,2,1
-E0,2019-10-27,1900-01-01 16:30:00,Norwich,Man United,1,3
-E0,2019-11-02,1900-01-01 12:30:00,Bournemouth,Man United,1,0
-E0,2019-11-02,1900-01-01 15:00:00,Arsenal,Wolves,1,1
-E0,2019-11-02,1900-01-01 15:00:00,Aston Villa,Liverpool,1,2
-E0,2019-11-02,1900-01-01 15:00:00,Brighton,Norwich,2,0
-E0,2019-11-02,1900-01-01 15:00:00,Man City,Southampton,2,1
-E0,2019-11-02,1900-01-01 15:00:00,Sheffield United,Burnley,3,0
-E0,2019-11-02,1900-01-01 15:00:00,West Ham,Newcastle,2,3
-E0,2019-11-02,1900-01-01 17:30:00,Watford,Chelsea,1,2
-E0,2019-11-03,1900-01-01 14:00:00,Crystal Palace,Leicester,0,2
-E0,2019-11-03,1900-01-01 16:30:00,Everton,Tottenham,1,1
-E0,2019-11-08,1900-01-01 20:00:00,Norwich,Watford,0,2
-E0,2019-11-09,1900-01-01 12:30:00,Chelsea,Crystal Palace,2,0
-E0,2019-11-09,1900-01-01 15:00:00,Burnley,West Ham,3,0
-E0,2019-11-09,1900-01-01 15:00:00,Newcastle,Bournemouth,2,1
-E0,2019-11-09,1900-01-01 15:00:00,Southampton,Everton,1,2
-E0,2019-11-09,1900-01-01 15:00:00,Tottenham,Sheffield United,1,1
-E0,2019-11-09,1900-01-01 17:30:00,Leicester,Arsenal,2,0
-E0,2019-11-10,1900-01-01 14:00:00,Man United,Brighton,3,1
-E0,2019-11-10,1900-01-01 14:00:00,Wolves,Aston Villa,2,1
-E0,2019-11-10,1900-01-01 16:30:00,Liverpool,Man City,3,1
-E0,2019-11-23,1900-01-01 12:30:00,West Ham,Tottenham,2,3
-E0,2019-11-23,1900-01-01 15:00:00,Arsenal,Southampton,2,2
-E0,2019-11-23,1900-01-01 15:00:00,Bournemouth,Wolves,1,2
-E0,2019-11-23,1900-01-01 15:00:00,Brighton,Leicester,0,2
-E0,2019-11-23,1900-01-01 15:00:00,Crystal Palace,Liverpool,1,2
-E0,2019-11-23,1900-01-01 15:00:00,Everton,Norwich,0,2
-E0,2019-11-23,1900-01-01 15:00:00,Watford,Burnley,0,3
-E0,2019-11-23,1900-01-01 17:30:00,Man City,Chelsea,2,1
-E0,2019-11-24,1900-01-01 16:30:00,Sheffield United,Man United,3,3
-E0,2019-11-25,1900-01-01 20:00:00,Aston Villa,Newcastle,2,0
-E0,2019-11-30,1900-01-01 12:30:00,Newcastle,Man City,2,2
-E0,2019-11-30,1900-01-01 15:00:00,Burnley,Crystal Palace,0,2
-E0,2019-11-30,1900-01-01 15:00:00,Chelsea,West Ham,0,1
-E0,2019-11-30,1900-01-01 15:00:00,Liverpool,Brighton,2,1
-E0,2019-11-30,1900-01-01 15:00:00,Tottenham,Bournemouth,3,2
-E0,2019-11-30,1900-01-01 17:30:00,Southampton,Watford,2,1
-E0,2019-12-01,1900-01-01 14:00:00,Norwich,Arsenal,2,2
-E0,2019-12-01,1900-01-01 14:00:00,Wolves,Sheffield United,1,1
-E0,2019-12-01,1900-01-01 16:30:00,Leicester,Everton,2,1
-E0,2019-12-01,1900-01-01 16:30:00,Man United,Aston Villa,2,2
-E0,2019-12-03,1900-01-01 19:30:00,Crystal Palace,Bournemouth,1,0
-E0,2019-12-03,1900-01-01 20:15:00,Burnley,Man City,1,4
-E0,2019-12-04,1900-01-01 19:30:00,Chelsea,Aston Villa,2,1
-E0,2019-12-04,1900-01-01 19:30:00,Leicester,Watford,2,0
-E0,2019-12-04,1900-01-01 19:30:00,Man United,Tottenham,2,1
-E0,2019-12-04,1900-01-01 19:30:00,Southampton,Norwich,2,1
-E0,2019-12-04,1900-01-01 19:30:00,Wolves,West Ham,2,0
-E0,2019-12-04,1900-01-01 20:15:00,Liverpool,Everton,5,2
-E0,2019-12-05,1900-01-01 19:30:00,Sheffield United,Newcastle,0,2
-E0,2019-12-05,1900-01-01 20:15:00,Arsenal,Brighton,1,2
-E0,2019-12-07,1900-01-01 12:30:00,Everton,Chelsea,3,1
-E0,2019-12-07,1900-01-01 15:00:00,Bournemouth,Liverpool,0,3
-E0,2019-12-07,1900-01-01 15:00:00,Tottenham,Burnley,5,0
-E0,2019-12-07,1900-01-01 15:00:00,Watford,Crystal Palace,0,0
-E0,2019-12-07,1900-01-01 17:30:00,Man City,Man United,1,2
-E0,2019-12-08,1900-01-01 14:00:00,Aston Villa,Leicester,1,4
-E0,2019-12-08,1900-01-01 14:00:00,Newcastle,Southampton,2,1
-E0,2019-12-08,1900-01-01 14:00:00,Norwich,Sheffield United,1,2
-E0,2019-12-08,1900-01-01 16:30:00,Brighton,Wolves,2,2
-E0,2019-12-09,1900-01-01 20:00:00,West Ham,Arsenal,1,3
-E0,2019-12-14,1900-01-01 12:30:00,Liverpool,Watford,2,0
-E0,2019-12-14,1900-01-01 15:00:00,Burnley,Newcastle,1,0
-E0,2019-12-14,1900-01-01 15:00:00,Chelsea,Bournemouth,0,1
-E0,2019-12-14,1900-01-01 15:00:00,Leicester,Norwich,1,1
-E0,2019-12-14,1900-01-01 15:00:00,Sheffield United,Aston Villa,2,0
-E0,2019-12-14,1900-01-01 17:30:00,Southampton,West Ham,0,1
-E0,2019-12-15,1900-01-01 14:00:00,Man United,Everton,1,1
-E0,2019-12-15,1900-01-01 14:00:00,Wolves,Tottenham,1,2
-E0,2019-12-15,1900-01-01 16:30:00,Arsenal,Man City,0,3
-E0,2019-12-16,1900-01-01 19:45:00,Crystal Palace,Brighton,1,1
-E0,2019-12-21,1900-01-01 12:30:00,Everton,Arsenal,0,0
-E0,2019-12-21,1900-01-01 15:00:00,Aston Villa,Southampton,1,3
-E0,2019-12-21,1900-01-01 15:00:00,Bournemouth,Burnley,0,1
-E0,2019-12-21,1900-01-01 15:00:00,Brighton,Sheffield United,0,1
-E0,2019-12-21,1900-01-01 15:00:00,Newcastle,Crystal Palace,1,0
-E0,2019-12-21,1900-01-01 15:00:00,Norwich,Wolves,1,2
-E0,2019-12-21,1900-01-01 17:30:00,Man City,Leicester,3,1
-E0,2019-12-22,1900-01-01 14:00:00,Watford,Man United,2,0
-E0,2019-12-22,1900-01-01 16:30:00,Tottenham,Chelsea,0,2
-E0,2019-12-26,1900-01-01 12:30:00,Tottenham,Brighton,2,1
-E0,2019-12-26,1900-01-01 15:00:00,Aston Villa,Norwich,1,0
-E0,2019-12-26,1900-01-01 15:00:00,Bournemouth,Arsenal,1,1
-E0,2019-12-26,1900-01-01 15:00:00,Chelsea,Southampton,0,2
-E0,2019-12-26,1900-01-01 15:00:00,Crystal Palace,West Ham,2,1
-E0,2019-12-26,1900-01-01 15:00:00,Everton,Burnley,1,0
-E0,2019-12-26,1900-01-01 15:00:00,Sheffield United,Watford,1,1
-E0,2019-12-26,1900-01-01 17:30:00,Man United,Newcastle,4,1
-E0,2019-12-26,1900-01-01 20:00:00,Leicester,Liverpool,0,4
-E0,2019-12-27,1900-01-01 19:45:00,Wolves,Man City,3,2
-E0,2019-12-28,1900-01-01 12:30:00,Brighton,Bournemouth,2,0
-E0,2019-12-28,1900-01-01 15:00:00,Newcastle,Everton,1,2
-E0,2019-12-28,1900-01-01 15:00:00,Southampton,Crystal Palace,1,1
-E0,2019-12-28,1900-01-01 15:00:00,Watford,Aston Villa,3,0
-E0,2019-12-28,1900-01-01 17:30:00,Norwich,Tottenham,2,2
-E0,2019-12-28,1900-01-01 17:30:00,West Ham,Leicester,1,2
-E0,2019-12-28,1900-01-01 19:45:00,Burnley,Man United,0,2
-E0,2019-12-29,1900-01-01 14:00:00,Arsenal,Chelsea,1,2
-E0,2019-12-29,1900-01-01 16:30:00,Liverpool,Wolves,1,0
-E0,2019-12-29,1900-01-01 18:00:00,Man City,Sheffield United,2,0
-E0,2020-01-01,1900-01-01 12:30:00,Brighton,Chelsea,1,1
-E0,2020-01-01,1900-01-01 12:30:00,Burnley,Aston Villa,1,2
-E0,2020-01-01,1900-01-01 15:00:00,Newcastle,Leicester,0,3
-E0,2020-01-01,1900-01-01 15:00:00,Southampton,Tottenham,1,0
-E0,2020-01-01,1900-01-01 15:00:00,Watford,Wolves,2,1
-E0,2020-01-01,1900-01-01 17:30:00,Man City,Everton,2,1
-E0,2020-01-01,1900-01-01 17:30:00,Norwich,Crystal Palace,1,1
-E0,2020-01-01,1900-01-01 17:30:00,West Ham,Bournemouth,4,0
-E0,2020-01-01,1900-01-01 20:00:00,Arsenal,Man United,2,0
-E0,2020-01-02,1900-01-01 20:00:00,Liverpool,Sheffield United,2,0
-E0,2020-01-10,1900-01-01 20:00:00,Sheffield United,West Ham,1,0
-E0,2020-01-11,1900-01-01 12:30:00,Crystal Palace,Arsenal,1,1
-E0,2020-01-11,1900-01-01 15:00:00,Chelsea,Burnley,3,0
-E0,2020-01-11,1900-01-01 15:00:00,Everton,Brighton,1,0
-E0,2020-01-11,1900-01-01 15:00:00,Leicester,Southampton,1,2
-E0,2020-01-11,1900-01-01 15:00:00,Man United,Norwich,4,0
-E0,2020-01-11,1900-01-01 15:00:00,Wolves,Newcastle,1,1
-E0,2020-01-11,1900-01-01 17:30:00,Tottenham,Liverpool,0,1
-E0,2020-01-12,1900-01-01 14:00:00,Bournemouth,Watford,0,3
-E0,2020-01-12,1900-01-01 16:30:00,Aston Villa,Man City,1,6
-E0,2020-01-18,1900-01-01 12:30:00,Watford,Tottenham,0,0
-E0,2020-01-18,1900-01-01 15:00:00,Arsenal,Sheffield United,1,1
-E0,2020-01-18,1900-01-01 15:00:00,Brighton,Aston Villa,1,1
-E0,2020-01-18,1900-01-01 15:00:00,Man City,Crystal Palace,2,2
-E0,2020-01-18,1900-01-01 15:00:00,Norwich,Bournemouth,1,0
-E0,2020-01-18,1900-01-01 15:00:00,Southampton,Wolves,2,3
-E0,2020-01-18,1900-01-01 15:00:00,West Ham,Everton,1,1
-E0,2020-01-18,1900-01-01 17:30:00,Newcastle,Chelsea,1,0
-E0,2020-01-19,1900-01-01 14:00:00,Burnley,Leicester,2,1
-E0,2020-01-19,1900-01-01 16:30:00,Liverpool,Man United,2,0
-E0,2020-01-21,1900-01-01 19:30:00,Aston Villa,Watford,2,1
-E0,2020-01-21,1900-01-01 19:30:00,Bournemouth,Brighton,3,1
-E0,2020-01-21,1900-01-01 19:30:00,Crystal Palace,Southampton,0,2
-E0,2020-01-21,1900-01-01 19:30:00,Everton,Newcastle,2,2
-E0,2020-01-21,1900-01-01 19:30:00,Sheffield United,Man City,0,1
-E0,2020-01-21,1900-01-01 20:15:00,Chelsea,Arsenal,2,2
-E0,2020-01-22,1900-01-01 19:30:00,Leicester,West Ham,4,1
-E0,2020-01-22,1900-01-01 19:30:00,Tottenham,Norwich,2,1
-E0,2020-01-22,1900-01-01 20:15:00,Man United,Burnley,0,2
-E0,2020-01-23,1900-01-01 20:00:00,Wolves,Liverpool,1,2
-E0,2020-01-29,1900-01-01 19:45:00,West Ham,Liverpool,0,2
-E0,2020-02-01,1900-01-01 12:30:00,Leicester,Chelsea,2,2
-E0,2020-02-01,1900-01-01 15:00:00,Bournemouth,Aston Villa,2,1
-E0,2020-02-01,1900-01-01 15:00:00,Crystal Palace,Sheffield United,0,1
-E0,2020-02-01,1900-01-01 15:00:00,Liverpool,Southampton,4,0
-E0,2020-02-01,1900-01-01 15:00:00,Newcastle,Norwich,0,0
-E0,2020-02-01,1900-01-01 15:00:00,Watford,Everton,2,3
-E0,2020-02-01,1900-01-01 15:00:00,West Ham,Brighton,3,3
-E0,2020-02-01,1900-01-01 17:30:00,Man United,Wolves,0,0
-E0,2020-02-02,1900-01-01 14:00:00,Burnley,Arsenal,0,0
-E0,2020-02-02,1900-01-01 16:30:00,Tottenham,Man City,2,0
-E0,2020-02-08,1900-01-01 12:30:00,Everton,Crystal Palace,3,1
-E0,2020-02-08,1900-01-01 17:30:00,Brighton,Watford,1,1
-E0,2020-02-09,1900-01-01 14:00:00,Sheffield United,Bournemouth,2,1
-E0,2020-02-14,1900-01-01 20:00:00,Wolves,Leicester,0,0
-E0,2020-02-15,1900-01-01 12:30:00,Southampton,Burnley,1,2
-E0,2020-02-15,1900-01-01 17:30:00,Norwich,Liverpool,0,1
-E0,2020-02-16,1900-01-01 14:00:00,Aston Villa,Tottenham,2,3
-E0,2020-02-16,1900-01-01 16:30:00,Arsenal,Newcastle,4,0
-E0,2020-02-17,1900-01-01 20:00:00,Chelsea,Man United,0,2
-E0,2020-02-19,1900-01-01 19:30:00,Man City,West Ham,2,0
-E0,2020-02-22,1900-01-01 12:30:00,Chelsea,Tottenham,2,1
-E0,2020-02-22,1900-01-01 15:00:00,Burnley,Bournemouth,3,0
-E0,2020-02-22,1900-01-01 15:00:00,Crystal Palace,Newcastle,1,0
-E0,2020-02-22,1900-01-01 15:00:00,Sheffield United,Brighton,1,1
-E0,2020-02-22,1900-01-01 15:00:00,Southampton,Aston Villa,2,0
-E0,2020-02-22,1900-01-01 17:30:00,Leicester,Man City,0,1
-E0,2020-02-23,1900-01-01 14:00:00,Man United,Watford,3,0
-E0,2020-02-23,1900-01-01 14:00:00,Wolves,Norwich,3,0
-E0,2020-02-23,1900-01-01 16:30:00,Arsenal,Everton,3,2
-E0,2020-02-24,1900-01-01 20:00:00,Liverpool,West Ham,3,2
-E0,2020-02-28,1900-01-01 20:00:00,Norwich,Leicester,1,0
-E0,2020-02-29,1900-01-01 12:30:00,Brighton,Crystal Palace,0,1
-E0,2020-02-29,1900-01-01 15:00:00,Bournemouth,Chelsea,2,2
-E0,2020-02-29,1900-01-01 15:00:00,Newcastle,Burnley,0,0
-E0,2020-02-29,1900-01-01 15:00:00,West Ham,Southampton,3,1
-E0,2020-02-29,1900-01-01 17:30:00,Watford,Liverpool,3,0
-E0,2020-03-01,1900-01-01 14:00:00,Everton,Man United,1,1
-E0,2020-03-01,1900-01-01 14:00:00,Tottenham,Wolves,2,3
-E0,2020-03-07,1900-01-01 12:30:00,Liverpool,Bournemouth,2,1
-E0,2020-03-07,1900-01-01 15:00:00,Arsenal,West Ham,1,0
-E0,2020-03-07,1900-01-01 15:00:00,Crystal Palace,Watford,1,0
-E0,2020-03-07,1900-01-01 15:00:00,Sheffield United,Norwich,1,0
-E0,2020-03-07,1900-01-01 15:00:00,Southampton,Newcastle,0,1
-E0,2020-03-07,1900-01-01 15:00:00,Wolves,Brighton,0,0
-E0,2020-03-07,1900-01-01 17:30:00,Burnley,Tottenham,1,1
-E0,2020-03-08,1900-01-01 14:00:00,Chelsea,Everton,4,0
-E0,2020-03-08,1900-01-01 16:30:00,Man United,Man City,2,0
-E0,2020-03-09,1900-01-01 20:00:00,Leicester,Aston Villa,4,0
-E0,2020-06-17,1900-01-01 18:00:00,Aston Villa,Sheffield United,0,0
-E0,2020-06-17,1900-01-01 20:15:00,Man City,Arsenal,3,0
-E0,2020-06-19,1900-01-01 18:00:00,Norwich,Southampton,0,3
-E0,2020-06-19,1900-01-01 20:15:00,Tottenham,Man United,1,1
-E0,2020-06-20,1900-01-01 12:30:00,Watford,Leicester,1,1
-E0,2020-06-20,1900-01-01 15:00:00,Brighton,Arsenal,2,1
-E0,2020-06-20,1900-01-01 17:30:00,West Ham,Wolves,0,2
-E0,2020-06-20,1900-01-01 19:45:00,Bournemouth,Crystal Palace,0,2
-E0,2020-06-21,1900-01-01 14:00:00,Newcastle,Sheffield United,3,0
-E0,2020-06-21,1900-01-01 16:15:00,Aston Villa,Chelsea,1,2
-E0,2020-06-21,1900-01-01 19:00:00,Everton,Liverpool,0,0
-E0,2020-06-22,1900-01-01 20:00:00,Man City,Burnley,5,0
-E0,2020-06-23,1900-01-01 18:00:00,Leicester,Brighton,0,0
-E0,2020-06-23,1900-01-01 20:15:00,Tottenham,West Ham,2,0
-E0,2020-06-24,1900-01-01 18:00:00,Man United,Sheffield United,3,0
-E0,2020-06-24,1900-01-01 18:00:00,Newcastle,Aston Villa,1,1
-E0,2020-06-24,1900-01-01 18:00:00,Norwich,Everton,0,1
-E0,2020-06-24,1900-01-01 18:00:00,Wolves,Bournemouth,1,0
-E0,2020-06-24,1900-01-01 20:15:00,Liverpool,Crystal Palace,4,0
-E0,2020-06-25,1900-01-01 18:00:00,Burnley,Watford,1,0
-E0,2020-06-25,1900-01-01 18:00:00,Southampton,Arsenal,0,2
-E0,2020-06-25,1900-01-01 20:15:00,Chelsea,Man City,2,1
-E0,2020-06-27,1900-01-01 12:30:00,Aston Villa,Wolves,0,1
-E0,2020-06-28,1900-01-01 16:30:00,Watford,Southampton,1,3
-E0,2020-06-29,1900-01-01 20:00:00,Crystal Palace,Burnley,0,1
-E0,2020-06-30,1900-01-01 20:15:00,Brighton,Man United,0,3
-E0,2020-07-01,1900-01-01 18:00:00,Arsenal,Norwich,4,0
-E0,2020-07-01,1900-01-01 18:00:00,Bournemouth,Newcastle,1,4
-E0,2020-07-01,1900-01-01 18:00:00,Everton,Leicester,2,1
-E0,2020-07-01,1900-01-01 20:15:00,West Ham,Chelsea,3,2
-E0,2020-07-02,1900-01-01 18:00:00,Sheffield United,Tottenham,3,1
-E0,2020-07-02,1900-01-01 20:15:00,Man City,Liverpool,4,0
-E0,2020-07-04,1900-01-01 12:30:00,Norwich,Brighton,0,1
-E0,2020-07-04,1900-01-01 15:00:00,Leicester,Crystal Palace,3,0
-E0,2020-07-04,1900-01-01 15:00:00,Man United,Bournemouth,5,2
-E0,2020-07-04,1900-01-01 17:30:00,Wolves,Arsenal,0,2
-E0,2020-07-04,1900-01-01 20:00:00,Chelsea,Watford,3,0
-E0,2020-07-05,1900-01-01 12:00:00,Burnley,Sheffield United,1,1
-E0,2020-07-05,1900-01-01 14:15:00,Newcastle,West Ham,2,2
-E0,2020-07-05,1900-01-01 16:30:00,Liverpool,Aston Villa,2,0
-E0,2020-07-05,1900-01-01 19:00:00,Southampton,Man City,1,0
-E0,2020-07-06,1900-01-01 20:00:00,Tottenham,Everton,1,0
-E0,2020-07-07,1900-01-01 18:00:00,Crystal Palace,Chelsea,2,3
-E0,2020-07-07,1900-01-01 18:00:00,Watford,Norwich,2,1
-E0,2020-07-07,1900-01-01 20:15:00,Arsenal,Leicester,1,1
-E0,2020-07-08,1900-01-01 18:00:00,Man City,Newcastle,5,0
-E0,2020-07-08,1900-01-01 18:00:00,Sheffield United,Wolves,1,0
-E0,2020-07-08,1900-01-01 18:00:00,West Ham,Burnley,0,1
-E0,2020-07-08,1900-01-01 20:15:00,Brighton,Liverpool,1,3
-E0,2020-07-09,1900-01-01 18:00:00,Bournemouth,Tottenham,0,0
-E0,2020-07-09,1900-01-01 18:00:00,Everton,Southampton,1,1
-E0,2020-07-09,1900-01-01 20:15:00,Aston Villa,Man United,0,3
-E0,2020-07-11,1900-01-01 12:30:00,Norwich,West Ham,0,4
-E0,2020-07-11,1900-01-01 12:30:00,Watford,Newcastle,2,1
-E0,2020-07-11,1900-01-01 15:00:00,Liverpool,Burnley,1,1
-E0,2020-07-11,1900-01-01 17:30:00,Sheffield United,Chelsea,3,0
-E0,2020-07-11,1900-01-01 20:00:00,Brighton,Man City,0,5
-E0,2020-07-12,1900-01-01 12:00:00,Wolves,Everton,3,0
-E0,2020-07-12,1900-01-01 14:15:00,Aston Villa,Crystal Palace,2,0
-E0,2020-07-12,1900-01-01 16:30:00,Tottenham,Arsenal,2,1
-E0,2020-07-12,1900-01-01 19:00:00,Bournemouth,Leicester,4,1
-E0,2020-07-13,1900-01-01 20:00:00,Man United,Southampton,2,2
-E0,2020-07-14,1900-01-01 20:15:00,Chelsea,Norwich,1,0
-E0,2020-07-15,1900-01-01 18:00:00,Burnley,Wolves,1,1
-E0,2020-07-15,1900-01-01 18:00:00,Man City,Bournemouth,2,1
-E0,2020-07-15,1900-01-01 18:00:00,Newcastle,Tottenham,1,3
-E0,2020-07-15,1900-01-01 20:15:00,Arsenal,Liverpool,2,1
-E0,2020-07-16,1900-01-01 18:00:00,Everton,Aston Villa,1,1
-E0,2020-07-16,1900-01-01 18:00:00,Leicester,Sheffield United,2,0
-E0,2020-07-16,1900-01-01 20:15:00,Crystal Palace,Man United,0,2
-E0,2020-07-16,1900-01-01 20:15:00,Southampton,Brighton,1,1
-E0,2020-07-17,1900-01-01 20:00:00,West Ham,Watford,3,1
-E0,2020-07-18,1900-01-01 17:30:00,Norwich,Burnley,0,2
-E0,2020-07-19,1900-01-01 14:00:00,Bournemouth,Southampton,0,2
-E0,2020-07-19,1900-01-01 16:00:00,Tottenham,Leicester,3,0
-E0,2020-07-20,1900-01-01 18:00:00,Brighton,Newcastle,0,0
-E0,2020-07-20,1900-01-01 18:00:00,Sheffield United,Everton,0,1
-E0,2020-07-20,1900-01-01 20:15:00,Wolves,Crystal Palace,2,0
-E0,2020-07-21,1900-01-01 18:00:00,Watford,Man City,0,4
-E0,2020-07-21,1900-01-01 20:15:00,Aston Villa,Arsenal,1,0
-E0,2020-07-22,1900-01-01 18:00:00,Man United,West Ham,1,1
-E0,2020-07-22,1900-01-01 20:15:00,Liverpool,Chelsea,5,3
-E0,2020-07-26,1900-01-01 16:00:00,Arsenal,Watford,3,2
-E0,2020-07-26,1900-01-01 16:00:00,Burnley,Brighton,1,2
-E0,2020-07-26,1900-01-01 16:00:00,Chelsea,Wolves,2,0
-E0,2020-07-26,1900-01-01 16:00:00,Crystal Palace,Tottenham,1,1
-E0,2020-07-26,1900-01-01 16:00:00,Everton,Bournemouth,1,3
-E0,2020-07-26,1900-01-01 16:00:00,Leicester,Man United,0,2
-E0,2020-07-26,1900-01-01 16:00:00,Man City,Norwich,5,0
-E0,2020-07-26,1900-01-01 16:00:00,Newcastle,Liverpool,1,3
-E0,2020-07-26,1900-01-01 16:00:00,Southampton,Sheffield United,3,1
-E0,2020-07-26,1900-01-01 16:00:00,West Ham,Aston Villa,1,1
-E1,2019-08-02,1900-01-01 19:45:00,Luton,Middlesbrough,3,3
-E1,2019-08-03,1900-01-01 15:00:00,Barnsley,Fulham,1,0
-E1,2019-08-03,1900-01-01 15:00:00,Blackburn,Charlton,1,2
-E1,2019-08-03,1900-01-01 15:00:00,Brentford,Birmingham,0,1
-E1,2019-08-03,1900-01-01 15:00:00,Millwall,Preston,1,0
-E1,2019-08-03,1900-01-01 15:00:00,Reading,Sheffield Weds,1,3
-E1,2019-08-03,1900-01-01 15:00:00,Stoke,QPR,1,2
-E1,2019-08-03,1900-01-01 15:00:00,Swansea,Hull,2,1
-E1,2019-08-03,1900-01-01 15:00:00,Wigan,Cardiff,3,2
-E1,2019-08-03,1900-01-01 17:30:00,Nott'm Forest,West Brom,1,2
-E1,2019-08-04,1900-01-01 16:30:00,Bristol City,Leeds,1,3
-E1,2019-08-05,1900-01-01 19:45:00,Huddersfield,Derby,1,2
-E1,2019-08-10,1900-01-01 12:30:00,Leeds,Nott'm Forest,1,1
-E1,2019-08-10,1900-01-01 15:00:00,Birmingham,Bristol City,1,1
-E1,2019-08-10,1900-01-01 15:00:00,Cardiff,Luton,2,1
-E1,2019-08-10,1900-01-01 15:00:00,Charlton,Stoke,3,1
-E1,2019-08-10,1900-01-01 15:00:00,Derby,Swansea,0,0
-E1,2019-08-10,1900-01-01 15:00:00,Fulham,Blackburn,2,0
-E1,2019-08-10,1900-01-01 15:00:00,Hull,Reading,2,1
-E1,2019-08-10,1900-01-01 15:00:00,Middlesbrough,Brentford,0,1
-E1,2019-08-10,1900-01-01 15:00:00,Preston,Wigan,3,0
-E1,2019-08-10,1900-01-01 15:00:00,QPR,Huddersfield,1,1
-E1,2019-08-10,1900-01-01 15:00:00,Sheffield Weds,Barnsley,2,0
-E1,2019-08-10,1900-01-01 15:00:00,West Brom,Millwall,1,1
-E1,2019-08-16,1900-01-01 19:45:00,Huddersfield,Fulham,1,2
-E1,2019-08-17,1900-01-01 15:00:00,Barnsley,Charlton,2,2
-E1,2019-08-17,1900-01-01 15:00:00,Blackburn,Middlesbrough,1,0
-E1,2019-08-17,1900-01-01 15:00:00,Brentford,Hull,1,1
-E1,2019-08-17,1900-01-01 15:00:00,Bristol City,QPR,2,0
-E1,2019-08-17,1900-01-01 15:00:00,Luton,West Brom,1,2
-E1,2019-08-17,1900-01-01 15:00:00,Millwall,Sheffield Weds,1,0
-E1,2019-08-17,1900-01-01 15:00:00,Nott'm Forest,Birmingham,3,0
-E1,2019-08-17,1900-01-01 15:00:00,Stoke,Derby,2,2
-E1,2019-08-17,1900-01-01 15:00:00,Swansea,Preston,3,2
-E1,2019-08-17,1900-01-01 15:00:00,Wigan,Leeds,0,2
-E1,2019-08-18,1900-01-01 12:00:00,Reading,Cardiff,3,0
-E1,2019-08-20,1900-01-01 19:45:00,Birmingham,Barnsley,2,0
-E1,2019-08-20,1900-01-01 19:45:00,Derby,Bristol City,1,2
-E1,2019-08-20,1900-01-01 19:45:00,Hull,Blackburn,0,1
-E1,2019-08-20,1900-01-01 19:45:00,Middlesbrough,Wigan,1,0
-E1,2019-08-20,1900-01-01 19:45:00,Sheffield Weds,Luton,1,0
-E1,2019-08-21,1900-01-01 19:45:00,Cardiff,Huddersfield,2,1
-E1,2019-08-21,1900-01-01 19:45:00,Charlton,Nott'm Forest,1,1
-E1,2019-08-21,1900-01-01 19:45:00,Fulham,Millwall,4,0
-E1,2019-08-21,1900-01-01 19:45:00,Leeds,Brentford,1,0
-E1,2019-08-21,1900-01-01 19:45:00,Preston,Stoke,3,1
-E1,2019-08-21,1900-01-01 19:45:00,QPR,Swansea,1,3
-E1,2019-08-21,1900-01-01 20:00:00,West Brom,Reading,1,1
-E1,2019-08-24,1900-01-01 12:30:00,Derby,West Brom,1,1
-E1,2019-08-24,1900-01-01 15:00:00,Barnsley,Luton,1,3
-E1,2019-08-24,1900-01-01 15:00:00,Blackburn,Cardiff,0,0
-E1,2019-08-24,1900-01-01 15:00:00,Charlton,Brentford,1,0
-E1,2019-08-24,1900-01-01 15:00:00,Fulham,Nott'm Forest,1,2
-E1,2019-08-24,1900-01-01 15:00:00,Huddersfield,Reading,0,2
-E1,2019-08-24,1900-01-01 15:00:00,Hull,Bristol City,1,3
-E1,2019-08-24,1900-01-01 15:00:00,Middlesbrough,Millwall,1,1
-E1,2019-08-24,1900-01-01 15:00:00,Preston,Sheffield Weds,2,1
-E1,2019-08-24,1900-01-01 15:00:00,QPR,Wigan,3,1
-E1,2019-08-24,1900-01-01 15:00:00,Stoke,Leeds,0,3
-E1,2019-08-25,1900-01-01 12:00:00,Swansea,Birmingham,3,0
-E1,2019-08-30,1900-01-01 19:45:00,Cardiff,Fulham,1,1
-E1,2019-08-31,1900-01-01 12:30:00,Bristol City,Middlesbrough,2,2
-E1,2019-08-31,1900-01-01 15:00:00,Birmingham,Stoke,2,1
-E1,2019-08-31,1900-01-01 15:00:00,Brentford,Derby,3,0
-E1,2019-08-31,1900-01-01 15:00:00,Leeds,Swansea,0,1
-E1,2019-08-31,1900-01-01 15:00:00,Luton,Huddersfield,2,1
-E1,2019-08-31,1900-01-01 15:00:00,Millwall,Hull,1,1
-E1,2019-08-31,1900-01-01 15:00:00,Nott'm Forest,Preston,1,1
-E1,2019-08-31,1900-01-01 15:00:00,Reading,Charlton,0,2
-E1,2019-08-31,1900-01-01 15:00:00,Sheffield Weds,QPR,1,2
-E1,2019-08-31,1900-01-01 15:00:00,West Brom,Blackburn,3,2
-E1,2019-08-31,1900-01-01 15:00:00,Wigan,Barnsley,0,0
-E1,2019-09-13,1900-01-01 19:45:00,Derby,Cardiff,1,1
-E1,2019-09-14,1900-01-01 12:30:00,Fulham,West Brom,1,1
-E1,2019-09-14,1900-01-01 15:00:00,Blackburn,Millwall,2,0
-E1,2019-09-14,1900-01-01 15:00:00,Charlton,Birmingham,0,1
-E1,2019-09-14,1900-01-01 15:00:00,Hull,Wigan,2,2
-E1,2019-09-14,1900-01-01 15:00:00,Middlesbrough,Reading,1,0
-E1,2019-09-14,1900-01-01 15:00:00,Preston,Brentford,2,0
-E1,2019-09-14,1900-01-01 15:00:00,QPR,Luton,3,2
-E1,2019-09-14,1900-01-01 15:00:00,Stoke,Bristol City,1,2
-E1,2019-09-14,1900-01-01 15:00:00,Swansea,Nott'm Forest,0,1
-E1,2019-09-15,1900-01-01 12:00:00,Huddersfield,Sheffield Weds,0,2
-E1,2019-09-15,1900-01-01 12:30:00,Barnsley,Leeds,0,2
-E1,2019-09-21,1900-01-01 12:30:00,Leeds,Derby,1,1
-E1,2019-09-21,1900-01-01 15:00:00,Birmingham,Preston,0,1
-E1,2019-09-21,1900-01-01 15:00:00,Brentford,Stoke,0,0
-E1,2019-09-21,1900-01-01 15:00:00,Bristol City,Swansea,0,0
-E1,2019-09-21,1900-01-01 15:00:00,Cardiff,Middlesbrough,1,0
-E1,2019-09-21,1900-01-01 15:00:00,Luton,Hull,0,3
-E1,2019-09-21,1900-01-01 15:00:00,Millwall,QPR,1,2
-E1,2019-09-21,1900-01-01 15:00:00,Nott'm Forest,Barnsley,1,0
-E1,2019-09-21,1900-01-01 15:00:00,Reading,Blackburn,1,2
-E1,2019-09-21,1900-01-01 15:00:00,Sheffield Weds,Fulham,1,1
-E1,2019-09-21,1900-01-01 15:00:00,Wigan,Charlton,2,0
-E1,2019-09-22,1900-01-01 12:00:00,West Brom,Huddersfield,4,2
-E1,2019-09-27,1900-01-01 19:45:00,Fulham,Wigan,2,0
-E1,2019-09-27,1900-01-01 20:00:00,Stoke,Nott'm Forest,2,3
-E1,2019-09-28,1900-01-01 12:30:00,QPR,West Brom,0,2
-E1,2019-09-28,1900-01-01 15:00:00,Blackburn,Luton,1,2
-E1,2019-09-28,1900-01-01 15:00:00,Charlton,Leeds,1,0
-E1,2019-09-28,1900-01-01 15:00:00,Derby,Birmingham,3,2
-E1,2019-09-28,1900-01-01 15:00:00,Huddersfield,Millwall,1,1
-E1,2019-09-28,1900-01-01 15:00:00,Hull,Cardiff,2,2
-E1,2019-09-28,1900-01-01 15:00:00,Middlesbrough,Sheffield Weds,1,4
-E1,2019-09-28,1900-01-01 15:00:00,Preston,Bristol City,3,3
-E1,2019-09-28,1900-01-01 15:00:00,Swansea,Reading,1,1
-E1,2019-09-29,1900-01-01 13:30:00,Barnsley,Brentford,1,3
-E1,2019-10-01,1900-01-01 19:45:00,Blackburn,Nott'm Forest,1,1
-E1,2019-10-01,1900-01-01 19:45:00,Hull,Sheffield Weds,1,0
-E1,2019-10-01,1900-01-01 19:45:00,Leeds,West Brom,1,0
-E1,2019-10-01,1900-01-01 19:45:00,Middlesbrough,Preston,1,1
-E1,2019-10-01,1900-01-01 19:45:00,Wigan,Birmingham,1,0
-E1,2019-10-01,1900-01-01 20:00:00,Reading,Fulham,1,4
-E1,2019-10-01,1900-01-01 20:00:00,Stoke,Huddersfield,0,1
-E1,2019-10-02,1900-01-01 19:45:00,Barnsley,Derby,2,2
-E1,2019-10-02,1900-01-01 19:45:00,Brentford,Bristol City,1,1
-E1,2019-10-02,1900-01-01 19:45:00,Cardiff,QPR,3,0
-E1,2019-10-02,1900-01-01 19:45:00,Charlton,Swansea,1,2
-E1,2019-10-02,1900-01-01 19:45:00,Luton,Millwall,1,1
-E1,2019-10-04,1900-01-01 19:45:00,Birmingham,Middlesbrough,2,1
-E1,2019-10-05,1900-01-01 12:30:00,Fulham,Charlton,2,2
-E1,2019-10-05,1900-01-01 15:00:00,Bristol City,Reading,1,0
-E1,2019-10-05,1900-01-01 15:00:00,Derby,Luton,2,0
-E1,2019-10-05,1900-01-01 15:00:00,Huddersfield,Hull,3,0
-E1,2019-10-05,1900-01-01 15:00:00,Millwall,Leeds,2,1
-E1,2019-10-05,1900-01-01 15:00:00,Nott'm Forest,Brentford,1,0
-E1,2019-10-05,1900-01-01 15:00:00,Preston,Barnsley,5,1
-E1,2019-10-05,1900-01-01 15:00:00,QPR,Blackburn,4,2
-E1,2019-10-05,1900-01-01 15:00:00,Sheffield Weds,Wigan,1,0
-E1,2019-10-05,1900-01-01 15:00:00,Swansea,Stoke,1,2
-E1,2019-10-05,1900-01-01 15:00:00,West Brom,Cardiff,4,2
-E1,2019-10-18,1900-01-01 19:45:00,Cardiff,Sheffield Weds,1,1
-E1,2019-10-19,1900-01-01 12:30:00,Blackburn,Huddersfield,2,2
-E1,2019-10-19,1900-01-01 15:00:00,Barnsley,Swansea,1,1
-E1,2019-10-19,1900-01-01 15:00:00,Brentford,Millwall,3,2
-E1,2019-10-19,1900-01-01 15:00:00,Charlton,Derby,3,0
-E1,2019-10-19,1900-01-01 15:00:00,Hull,QPR,2,3
-E1,2019-10-19,1900-01-01 15:00:00,Leeds,Birmingham,1,0
-E1,2019-10-19,1900-01-01 15:00:00,Luton,Bristol City,3,0
-E1,2019-10-19,1900-01-01 15:00:00,Middlesbrough,West Brom,0,1
-E1,2019-10-19,1900-01-01 15:00:00,Reading,Preston,1,0
-E1,2019-10-19,1900-01-01 15:00:00,Stoke,Fulham,2,0
-E1,2019-10-20,1900-01-01 14:00:00,Wigan,Nott'm Forest,1,0
-E1,2019-10-22,1900-01-01 19:45:00,Birmingham,Blackburn,1,0
-E1,2019-10-22,1900-01-01 19:45:00,Millwall,Cardiff,2,2
-E1,2019-10-22,1900-01-01 19:45:00,Preston,Leeds,1,1
-E1,2019-10-22,1900-01-01 19:45:00,QPR,Reading,2,2
-E1,2019-10-22,1900-01-01 19:45:00,Sheffield Weds,Stoke,1,0
-E1,2019-10-22,1900-01-01 19:45:00,Swansea,Brentford,0,3
-E1,2019-10-22,1900-01-01 20:00:00,West Brom,Barnsley,2,2
-E1,2019-10-23,1900-01-01 19:45:00,Bristol City,Charlton,2,1
-E1,2019-10-23,1900-01-01 19:45:00,Derby,Wigan,1,0
-E1,2019-10-23,1900-01-01 19:45:00,Fulham,Luton,3,2
-E1,2019-10-23,1900-01-01 19:45:00,Huddersfield,Middlesbrough,0,0
-E1,2019-10-23,1900-01-01 19:45:00,Nott'm Forest,Hull,1,2
-E1,2019-10-26,1900-01-01 12:30:00,Sheffield Weds,Leeds,0,0
-E1,2019-10-26,1900-01-01 15:00:00,Birmingham,Luton,2,1
-E1,2019-10-26,1900-01-01 15:00:00,Huddersfield,Barnsley,2,1
-E1,2019-10-26,1900-01-01 15:00:00,Hull,Derby,2,0
-E1,2019-10-26,1900-01-01 15:00:00,Middlesbrough,Fulham,0,0
-E1,2019-10-26,1900-01-01 15:00:00,Millwall,Stoke,2,0
-E1,2019-10-26,1900-01-01 15:00:00,Preston,Blackburn,3,2
-E1,2019-10-26,1900-01-01 15:00:00,West Brom,Charlton,2,2
-E1,2019-10-27,1900-01-01 12:00:00,Swansea,Cardiff,1,0
-E1,2019-10-27,1900-01-01 13:30:00,Bristol City,Wigan,2,2
-E1,2019-10-28,1900-01-01 19:45:00,QPR,Brentford,1,3
-E1,2019-11-01,1900-01-01 19:45:00,Barnsley,Bristol City,2,2
-E1,2019-11-02,1900-01-01 12:30:00,Wigan,Swansea,1,2
-E1,2019-11-02,1900-01-01 15:00:00,Blackburn,Sheffield Weds,2,1
-E1,2019-11-02,1900-01-01 15:00:00,Brentford,Huddersfield,0,1
-E1,2019-11-02,1900-01-01 15:00:00,Cardiff,Birmingham,4,2
-E1,2019-11-02,1900-01-01 15:00:00,Derby,Middlesbrough,2,0
-E1,2019-11-02,1900-01-01 15:00:00,Fulham,Hull,0,3
-E1,2019-11-02,1900-01-01 15:00:00,Leeds,QPR,2,0
-E1,2019-11-02,1900-01-01 15:00:00,Luton,Nott'm Forest,1,2
-E1,2019-11-02,1900-01-01 15:00:00,Reading,Millwall,2,1
-E1,2019-11-03,1900-01-01 12:00:00,Charlton,Preston,0,1
-E1,2019-11-04,1900-01-01 20:00:00,Stoke,West Brom,0,2
-E1,2019-11-09,1900-01-01 12:30:00,Nott'm Forest,Derby,1,0
-E1,2019-11-09,1900-01-01 15:00:00,Barnsley,Stoke,2,4
-E1,2019-11-09,1900-01-01 15:00:00,Birmingham,Fulham,0,1
-E1,2019-11-09,1900-01-01 15:00:00,Hull,West Brom,0,1
-E1,2019-11-09,1900-01-01 15:00:00,Leeds,Blackburn,2,1
-E1,2019-11-09,1900-01-01 15:00:00,Millwall,Charlton,2,1
-E1,2019-11-09,1900-01-01 15:00:00,Preston,Huddersfield,3,1
-E1,2019-11-09,1900-01-01 15:00:00,QPR,Middlesbrough,2,2
-E1,2019-11-09,1900-01-01 15:00:00,Reading,Luton,3,0
-E1,2019-11-09,1900-01-01 15:00:00,Sheffield Weds,Swansea,2,2
-E1,2019-11-09,1900-01-01 15:00:00,Wigan,Brentford,0,3
-E1,2019-11-10,1900-01-01 12:00:00,Cardiff,Bristol City,0,1
-E1,2019-11-22,1900-01-01 19:45:00,Fulham,QPR,2,1
-E1,2019-11-23,1900-01-01 12:30:00,Charlton,Cardiff,2,2
-E1,2019-11-23,1900-01-01 15:00:00,Blackburn,Barnsley,3,2
-E1,2019-11-23,1900-01-01 15:00:00,Brentford,Reading,1,0
-E1,2019-11-23,1900-01-01 15:00:00,Bristol City,Nott'm Forest,0,0
-E1,2019-11-23,1900-01-01 15:00:00,Derby,Preston,1,0
-E1,2019-11-23,1900-01-01 15:00:00,Huddersfield,Birmingham,1,1
-E1,2019-11-23,1900-01-01 15:00:00,Luton,Leeds,1,2
-E1,2019-11-23,1900-01-01 15:00:00,Stoke,Wigan,2,1
-E1,2019-11-23,1900-01-01 15:00:00,Swansea,Millwall,0,1
-E1,2019-11-23,1900-01-01 15:00:00,West Brom,Sheffield Weds,2,1
-E1,2019-11-24,1900-01-01 12:00:00,Middlesbrough,Hull,2,2
-E1,2019-11-26,1900-01-01 19:45:00,Cardiff,Stoke,1,0
-E1,2019-11-26,1900-01-01 19:45:00,Fulham,Derby,3,0
-E1,2019-11-26,1900-01-01 19:45:00,Huddersfield,Swansea,1,1
-E1,2019-11-26,1900-01-01 19:45:00,Luton,Charlton,2,1
-E1,2019-11-26,1900-01-01 19:45:00,Millwall,Wigan,2,2
-E1,2019-11-26,1900-01-01 20:00:00,Reading,Leeds,0,1
-E1,2019-11-27,1900-01-01 19:45:00,Blackburn,Brentford,1,0
-E1,2019-11-27,1900-01-01 19:45:00,Hull,Preston,4,0
-E1,2019-11-27,1900-01-01 19:45:00,Middlesbrough,Barnsley,1,0
-E1,2019-11-27,1900-01-01 19:45:00,QPR,Nott'm Forest,0,4
-E1,2019-11-27,1900-01-01 19:45:00,Sheffield Weds,Birmingham,1,1
-E1,2019-11-27,1900-01-01 20:00:00,West Brom,Bristol City,4,1
-E1,2019-11-29,1900-01-01 19:45:00,Swansea,Fulham,1,2
-E1,2019-11-30,1900-01-01 12:30:00,Charlton,Sheffield Weds,1,3
-E1,2019-11-30,1900-01-01 15:00:00,Barnsley,Hull,3,1
-E1,2019-11-30,1900-01-01 15:00:00,Birmingham,Millwall,1,1
-E1,2019-11-30,1900-01-01 15:00:00,Brentford,Luton,7,0
-E1,2019-11-30,1900-01-01 15:00:00,Bristol City,Huddersfield,5,2
-E1,2019-11-30,1900-01-01 15:00:00,Derby,QPR,1,1
-E1,2019-11-30,1900-01-01 15:00:00,Leeds,Middlesbrough,4,0
-E1,2019-11-30,1900-01-01 15:00:00,Nott'm Forest,Cardiff,0,1
-E1,2019-11-30,1900-01-01 15:00:00,Stoke,Blackburn,1,2
-E1,2019-11-30,1900-01-01 15:00:00,Wigan,Reading,1,3
-E1,2019-12-02,1900-01-01 19:45:00,Preston,West Brom,0,1
-E1,2019-12-06,1900-01-01 19:45:00,Millwall,Nott'm Forest,2,2
-E1,2019-12-07,1900-01-01 12:30:00,Huddersfield,Leeds,0,2
-E1,2019-12-07,1900-01-01 15:00:00,Blackburn,Derby,1,0
-E1,2019-12-07,1900-01-01 15:00:00,Cardiff,Barnsley,3,2
-E1,2019-12-07,1900-01-01 15:00:00,Fulham,Bristol City,1,2
-E1,2019-12-07,1900-01-01 15:00:00,Hull,Stoke,2,1
-E1,2019-12-07,1900-01-01 15:00:00,Luton,Wigan,2,1
-E1,2019-12-07,1900-01-01 15:00:00,Middlesbrough,Charlton,1,0
-E1,2019-12-07,1900-01-01 15:00:00,QPR,Preston,2,0
-E1,2019-12-07,1900-01-01 15:00:00,Reading,Birmingham,2,3
-E1,2019-12-07,1900-01-01 15:00:00,Sheffield Weds,Brentford,2,1
-E1,2019-12-08,1900-01-01 12:00:00,West Brom,Swansea,5,1
-E1,2019-12-10,1900-01-01 19:45:00,Bristol City,Millwall,1,2
-E1,2019-12-10,1900-01-01 19:45:00,Charlton,Huddersfield,0,1
-E1,2019-12-10,1900-01-01 19:45:00,Leeds,Hull,2,0
-E1,2019-12-10,1900-01-01 19:45:00,Nott'm Forest,Middlesbrough,1,1
-E1,2019-12-10,1900-01-01 19:45:00,Preston,Fulham,2,1
-E1,2019-12-10,1900-01-01 20:00:00,Stoke,Luton,3,0
-E1,2019-12-11,1900-01-01 19:45:00,Barnsley,Reading,1,1
-E1,2019-12-11,1900-01-01 19:45:00,Birmingham,QPR,0,2
-E1,2019-12-11,1900-01-01 19:45:00,Brentford,Cardiff,2,1
-E1,2019-12-11,1900-01-01 19:45:00,Derby,Sheffield Weds,1,1
-E1,2019-12-11,1900-01-01 19:45:00,Swansea,Blackburn,1,1
-E1,2019-12-11,1900-01-01 19:45:00,Wigan,West Brom,1,1
-E1,2019-12-13,1900-01-01 19:45:00,Charlton,Hull,2,2
-E1,2019-12-14,1900-01-01 12:30:00,Birmingham,West Brom,2,3
-E1,2019-12-14,1900-01-01 15:00:00,Barnsley,QPR,5,3
-E1,2019-12-14,1900-01-01 15:00:00,Brentford,Fulham,1,0
-E1,2019-12-14,1900-01-01 15:00:00,Bristol City,Blackburn,0,2
-E1,2019-12-14,1900-01-01 15:00:00,Derby,Millwall,0,1
-E1,2019-12-14,1900-01-01 15:00:00,Leeds,Cardiff,3,3
-E1,2019-12-14,1900-01-01 15:00:00,Nott'm Forest,Sheffield Weds,0,4
-E1,2019-12-14,1900-01-01 15:00:00,Preston,Luton,2,1
-E1,2019-12-14,1900-01-01 15:00:00,Stoke,Reading,0,0
-E1,2019-12-14,1900-01-01 15:00:00,Swansea,Middlesbrough,3,1
-E1,2019-12-14,1900-01-01 15:00:00,Wigan,Huddersfield,1,1
-E1,2019-12-20,1900-01-01 19:45:00,Middlesbrough,Stoke,2,1
-E1,2019-12-21,1900-01-01 12:30:00,Cardiff,Preston,0,0
-E1,2019-12-21,1900-01-01 15:00:00,Fulham,Leeds,2,1
-E1,2019-12-21,1900-01-01 15:00:00,Huddersfield,Nott'm Forest,2,1
-E1,2019-12-21,1900-01-01 15:00:00,Hull,Birmingham,3,0
-E1,2019-12-21,1900-01-01 15:00:00,Luton,Swansea,0,1
-E1,2019-12-21,1900-01-01 15:00:00,Millwall,Barnsley,1,2
-E1,2019-12-21,1900-01-01 15:00:00,QPR,Charlton,2,2
-E1,2019-12-21,1900-01-01 15:00:00,Reading,Derby,3,0
-E1,2019-12-21,1900-01-01 15:00:00,West Brom,Brentford,1,1
-E1,2019-12-22,1900-01-01 12:00:00,Sheffield Weds,Bristol City,1,0
-E1,2019-12-23,1900-01-01 19:45:00,Blackburn,Wigan,0,0
-E1,2019-12-26,1900-01-01 15:00:00,Barnsley,West Brom,1,1
-E1,2019-12-26,1900-01-01 15:00:00,Blackburn,Birmingham,1,1
-E1,2019-12-26,1900-01-01 15:00:00,Brentford,Swansea,3,1
-E1,2019-12-26,1900-01-01 15:00:00,Cardiff,Millwall,1,1
-E1,2019-12-26,1900-01-01 15:00:00,Charlton,Bristol City,3,2
-E1,2019-12-26,1900-01-01 15:00:00,Hull,Nott'm Forest,0,2
-E1,2019-12-26,1900-01-01 15:00:00,Luton,Fulham,3,3
-E1,2019-12-26,1900-01-01 15:00:00,Middlesbrough,Huddersfield,1,0
-E1,2019-12-26,1900-01-01 15:00:00,Stoke,Sheffield Weds,3,2
-E1,2019-12-26,1900-01-01 15:00:00,Wigan,Derby,1,1
-E1,2019-12-26,1900-01-01 17:15:00,Leeds,Preston,1,1
-E1,2019-12-26,1900-01-01 19:30:00,Reading,QPR,1,0
-E1,2019-12-29,1900-01-01 15:00:00,Birmingham,Leeds,4,5
-E1,2019-12-29,1900-01-01 15:00:00,Bristol City,Luton,3,0
-E1,2019-12-29,1900-01-01 15:00:00,Fulham,Stoke,1,0
-E1,2019-12-29,1900-01-01 15:00:00,Huddersfield,Blackburn,2,1
-E1,2019-12-29,1900-01-01 15:00:00,Millwall,Brentford,1,0
-E1,2019-12-29,1900-01-01 15:00:00,Nott'm Forest,Wigan,1,0
-E1,2019-12-29,1900-01-01 15:00:00,Preston,Reading,0,2
-E1,2019-12-29,1900-01-01 15:00:00,QPR,Hull,1,2
-E1,2019-12-29,1900-01-01 15:00:00,Sheffield Weds,Cardiff,1,2
-E1,2019-12-29,1900-01-01 15:00:00,Swansea,Barnsley,0,0
-E1,2019-12-29,1900-01-01 15:00:00,West Brom,Middlesbrough,0,2
-E1,2019-12-30,1900-01-01 19:45:00,Derby,Charlton,2,1
-E1,2020-01-01,1900-01-01 12:45:00,Millwall,Luton,3,1
-E1,2020-01-01,1900-01-01 15:00:00,Birmingham,Wigan,2,3
-E1,2020-01-01,1900-01-01 15:00:00,Bristol City,Brentford,0,4
-E1,2020-01-01,1900-01-01 15:00:00,Fulham,Reading,1,2
-E1,2020-01-01,1900-01-01 15:00:00,Huddersfield,Stoke,2,5
-E1,2020-01-01,1900-01-01 15:00:00,Nott'm Forest,Blackburn,3,2
-E1,2020-01-01,1900-01-01 15:00:00,Preston,Middlesbrough,0,2
-E1,2020-01-01,1900-01-01 15:00:00,QPR,Cardiff,6,1
-E1,2020-01-01,1900-01-01 15:00:00,Sheffield Weds,Hull,0,1
-E1,2020-01-01,1900-01-01 17:15:00,West Brom,Leeds,1,1
-E1,2020-01-02,1900-01-01 19:45:00,Derby,Barnsley,2,1
-E1,2020-01-02,1900-01-01 19:45:00,Swansea,Charlton,1,0
-E1,2020-01-11,1900-01-01 12:30:00,Brentford,QPR,3,1
-E1,2020-01-11,1900-01-01 15:00:00,Barnsley,Huddersfield,2,1
-E1,2020-01-11,1900-01-01 15:00:00,Blackburn,Preston,1,1
-E1,2020-01-11,1900-01-01 15:00:00,Charlton,West Brom,2,2
-E1,2020-01-11,1900-01-01 15:00:00,Hull,Fulham,0,1
-E1,2020-01-11,1900-01-01 15:00:00,Leeds,Sheffield Weds,0,2
-E1,2020-01-11,1900-01-01 15:00:00,Luton,Birmingham,1,2
-E1,2020-01-11,1900-01-01 15:00:00,Middlesbrough,Derby,2,2
-E1,2020-01-11,1900-01-01 15:00:00,Reading,Nott'm Forest,1,1
-E1,2020-01-11,1900-01-01 15:00:00,Stoke,Millwall,0,0
-E1,2020-01-11,1900-01-01 15:00:00,Wigan,Bristol City,0,2
-E1,2020-01-12,1900-01-01 12:00:00,Cardiff,Swansea,0,0
-E1,2020-01-17,1900-01-01 19:45:00,Fulham,Middlesbrough,1,0
-E1,2020-01-18,1900-01-01 12:30:00,QPR,Leeds,1,0
-E1,2020-01-18,1900-01-01 15:00:00,Birmingham,Cardiff,1,1
-E1,2020-01-18,1900-01-01 15:00:00,Bristol City,Barnsley,1,0
-E1,2020-01-18,1900-01-01 15:00:00,Derby,Hull,1,0
-E1,2020-01-18,1900-01-01 15:00:00,Huddersfield,Brentford,0,0
-E1,2020-01-18,1900-01-01 15:00:00,Millwall,Reading,2,0
-E1,2020-01-18,1900-01-01 15:00:00,Preston,Charlton,2,1
-E1,2020-01-18,1900-01-01 15:00:00,Sheffield Weds,Blackburn,0,5
-E1,2020-01-18,1900-01-01 15:00:00,Swansea,Wigan,2,1
-E1,2020-01-19,1900-01-01 12:00:00,Nott'm Forest,Luton,3,1
-E1,2020-01-20,1900-01-01 20:00:00,West Brom,Stoke,0,1
-E1,2020-01-21,1900-01-01 19:45:00,Barnsley,Preston,0,3
-E1,2020-01-21,1900-01-01 19:45:00,Middlesbrough,Birmingham,1,1
-E1,2020-01-22,1900-01-01 19:45:00,Charlton,Fulham,0,0
-E1,2020-01-22,1900-01-01 19:45:00,Nott'm Forest,Reading,1,1
-E1,2020-01-25,1900-01-01 15:00:00,Stoke,Swansea,2,0
-E1,2020-01-28,1900-01-01 19:45:00,Blackburn,QPR,2,1
-E1,2020-01-28,1900-01-01 19:45:00,Brentford,Nott'm Forest,0,1
-E1,2020-01-28,1900-01-01 19:45:00,Cardiff,West Brom,2,1
-E1,2020-01-28,1900-01-01 19:45:00,Hull,Huddersfield,1,2
-E1,2020-01-28,1900-01-01 19:45:00,Leeds,Millwall,3,2
-E1,2020-01-28,1900-01-01 19:45:00,Luton,Derby,3,2
-E1,2020-01-28,1900-01-01 19:45:00,Wigan,Sheffield Weds,2,1
-E1,2020-01-28,1900-01-01 20:00:00,Reading,Bristol City,0,1
-E1,2020-01-31,1900-01-01 19:45:00,Cardiff,Reading,1,1
-E1,2020-01-31,1900-01-01 19:45:00,Derby,Stoke,4,0
-E1,2020-02-01,1900-01-01 12:30:00,Hull,Brentford,1,5
-E1,2020-02-01,1900-01-01 15:00:00,Birmingham,Nott'm Forest,2,1
-E1,2020-02-01,1900-01-01 15:00:00,Charlton,Barnsley,2,1
-E1,2020-02-01,1900-01-01 15:00:00,Fulham,Huddersfield,3,2
-E1,2020-02-01,1900-01-01 15:00:00,Leeds,Wigan,0,1
-E1,2020-02-01,1900-01-01 15:00:00,Middlesbrough,Blackburn,1,1
-E1,2020-02-01,1900-01-01 15:00:00,Preston,Swansea,1,1
-E1,2020-02-01,1900-01-01 15:00:00,QPR,Bristol City,0,1
-E1,2020-02-01,1900-01-01 15:00:00,Sheffield Weds,Millwall,0,0
-E1,2020-02-01,1900-01-01 15:00:00,West Brom,Luton,2,0
-E1,2020-02-07,1900-01-01 19:45:00,Bristol City,Birmingham,1,3
-E1,2020-02-08,1900-01-01 12:30:00,Wigan,Preston,1,2
-E1,2020-02-08,1900-01-01 13:30:00,Barnsley,Sheffield Weds,1,1
-E1,2020-02-08,1900-01-01 15:00:00,Blackburn,Fulham,0,1
-E1,2020-02-08,1900-01-01 15:00:00,Brentford,Middlesbrough,3,2
-E1,2020-02-08,1900-01-01 15:00:00,Huddersfield,QPR,2,0
-E1,2020-02-08,1900-01-01 15:00:00,Luton,Cardiff,0,1
-E1,2020-02-08,1900-01-01 15:00:00,Reading,Hull,1,1
-E1,2020-02-08,1900-01-01 15:00:00,Stoke,Charlton,3,1
-E1,2020-02-08,1900-01-01 15:00:00,Swansea,Derby,2,3
-E1,2020-02-08,1900-01-01 17:30:00,Nott'm Forest,Leeds,2,0
-E1,2020-02-09,1900-01-01 13:30:00,Millwall,West Brom,0,2
-E1,2020-02-11,1900-01-01 19:45:00,Barnsley,Birmingham,0,1
-E1,2020-02-11,1900-01-01 19:45:00,Blackburn,Hull,3,0
-E1,2020-02-11,1900-01-01 19:45:00,Brentford,Leeds,1,1
-E1,2020-02-11,1900-01-01 19:45:00,Nott'm Forest,Charlton,0,1
-E1,2020-02-11,1900-01-01 19:45:00,Swansea,QPR,0,0
-E1,2020-02-11,1900-01-01 19:45:00,Wigan,Middlesbrough,2,2
-E1,2020-02-12,1900-01-01 19:45:00,Bristol City,Derby,3,2
-E1,2020-02-12,1900-01-01 19:45:00,Huddersfield,Cardiff,0,3
-E1,2020-02-12,1900-01-01 19:45:00,Luton,Sheffield Weds,1,0
-E1,2020-02-12,1900-01-01 19:45:00,Millwall,Fulham,1,1
-E1,2020-02-12,1900-01-01 20:00:00,Reading,West Brom,1,2
-E1,2020-02-12,1900-01-01 20:00:00,Stoke,Preston,0,2
-E1,2020-02-14,1900-01-01 19:45:00,Hull,Swansea,4,4
-E1,2020-02-15,1900-01-01 12:30:00,West Brom,Nott'm Forest,2,2
-E1,2020-02-15,1900-01-01 15:00:00,Birmingham,Brentford,1,1
-E1,2020-02-15,1900-01-01 15:00:00,Cardiff,Wigan,2,2
-E1,2020-02-15,1900-01-01 15:00:00,Charlton,Blackburn,0,2
-E1,2020-02-15,1900-01-01 15:00:00,Derby,Huddersfield,1,1
-E1,2020-02-15,1900-01-01 15:00:00,Fulham,Barnsley,0,3
-E1,2020-02-15,1900-01-01 15:00:00,Leeds,Bristol City,1,0
-E1,2020-02-15,1900-01-01 15:00:00,Middlesbrough,Luton,0,1
-E1,2020-02-15,1900-01-01 15:00:00,Preston,Millwall,0,1
-E1,2020-02-15,1900-01-01 15:00:00,QPR,Stoke,4,2
-E1,2020-02-15,1900-01-01 15:00:00,Sheffield Weds,Reading,0,3
-E1,2020-02-21,1900-01-01 19:45:00,Derby,Fulham,1,1
-E1,2020-02-22,1900-01-01 12:30:00,Brentford,Blackburn,2,2
-E1,2020-02-22,1900-01-01 15:00:00,Barnsley,Middlesbrough,1,0
-E1,2020-02-22,1900-01-01 15:00:00,Birmingham,Sheffield Weds,3,3
-E1,2020-02-22,1900-01-01 15:00:00,Bristol City,West Brom,0,3
-E1,2020-02-22,1900-01-01 15:00:00,Charlton,Luton,3,1
-E1,2020-02-22,1900-01-01 15:00:00,Leeds,Reading,1,0
-E1,2020-02-22,1900-01-01 15:00:00,Nott'm Forest,QPR,0,0
-E1,2020-02-22,1900-01-01 15:00:00,Preston,Hull,2,1
-E1,2020-02-22,1900-01-01 15:00:00,Stoke,Cardiff,2,0
-E1,2020-02-22,1900-01-01 15:00:00,Swansea,Huddersfield,3,1
-E1,2020-02-22,1900-01-01 15:00:00,Wigan,Millwall,1,0
-E1,2020-02-25,1900-01-01 19:45:00,Cardiff,Nott'm Forest,0,1
-E1,2020-02-25,1900-01-01 19:45:00,Huddersfield,Bristol City,2,1
-E1,2020-02-25,1900-01-01 19:45:00,Luton,Brentford,2,1
-E1,2020-02-25,1900-01-01 19:45:00,QPR,Derby,2,1
-E1,2020-02-25,1900-01-01 20:00:00,West Brom,Preston,2,0
-E1,2020-02-26,1900-01-01 19:45:00,Blackburn,Stoke,0,0
-E1,2020-02-26,1900-01-01 19:45:00,Fulham,Swansea,1,0
-E1,2020-02-26,1900-01-01 19:45:00,Hull,Barnsley,0,1
-E1,2020-02-26,1900-01-01 19:45:00,Middlesbrough,Leeds,0,1
-E1,2020-02-26,1900-01-01 19:45:00,Millwall,Birmingham,0,0
-E1,2020-02-26,1900-01-01 19:45:00,Sheffield Weds,Charlton,1,0
-E1,2020-02-26,1900-01-01 20:00:00,Reading,Wigan,0,3
-E1,2020-02-29,1900-01-01 12:30:00,Hull,Leeds,0,4
-E1,2020-02-29,1900-01-01 15:00:00,Blackburn,Swansea,2,2
-E1,2020-02-29,1900-01-01 15:00:00,Cardiff,Brentford,2,2
-E1,2020-02-29,1900-01-01 15:00:00,Fulham,Preston,2,0
-E1,2020-02-29,1900-01-01 15:00:00,Huddersfield,Charlton,4,0
-E1,2020-02-29,1900-01-01 15:00:00,Luton,Stoke,1,1
-E1,2020-02-29,1900-01-01 15:00:00,Millwall,Bristol City,1,1
-E1,2020-02-29,1900-01-01 15:00:00,QPR,Birmingham,2,2
-E1,2020-02-29,1900-01-01 15:00:00,Reading,Barnsley,2,0
-E1,2020-02-29,1900-01-01 15:00:00,Sheffield Weds,Derby,1,3
-E1,2020-02-29,1900-01-01 15:00:00,West Brom,Wigan,0,1
-E1,2020-03-02,1900-01-01 19:45:00,Middlesbrough,Nott'm Forest,2,2
-E1,2020-03-06,1900-01-01 19:45:00,Nott'm Forest,Millwall,0,3
-E1,2020-03-07,1900-01-01 12:30:00,Bristol City,Fulham,1,1
-E1,2020-03-07,1900-01-01 15:00:00,Barnsley,Cardiff,0,2
-E1,2020-03-07,1900-01-01 15:00:00,Birmingham,Reading,1,3
-E1,2020-03-07,1900-01-01 15:00:00,Brentford,Sheffield Weds,5,0
-E1,2020-03-07,1900-01-01 15:00:00,Charlton,Middlesbrough,0,1
-E1,2020-03-07,1900-01-01 15:00:00,Leeds,Huddersfield,2,0
-E1,2020-03-07,1900-01-01 15:00:00,Preston,QPR,1,3
-E1,2020-03-07,1900-01-01 15:00:00,Stoke,Hull,5,1
-E1,2020-03-07,1900-01-01 15:00:00,Swansea,West Brom,0,0
-E1,2020-03-07,1900-01-01 15:00:00,Wigan,Luton,0,0
-E1,2020-03-08,1900-01-01 15:00:00,Derby,Blackburn,3,0
-E1,2020-06-20,1900-01-01 12:30:00,Fulham,Brentford,0,2
-E1,2020-06-20,1900-01-01 12:30:00,Middlesbrough,Swansea,0,3
-E1,2020-06-20,1900-01-01 13:00:00,Millwall,Derby,2,3
-E1,2020-06-20,1900-01-01 15:00:00,Blackburn,Bristol City,3,1
-E1,2020-06-20,1900-01-01 15:00:00,Huddersfield,Wigan,0,2
-E1,2020-06-20,1900-01-01 15:00:00,Hull,Charlton,0,1
-E1,2020-06-20,1900-01-01 15:00:00,Luton,Preston,1,1
-E1,2020-06-20,1900-01-01 15:00:00,QPR,Barnsley,0,1
-E1,2020-06-20,1900-01-01 15:00:00,Reading,Stoke,1,1
-E1,2020-06-20,1900-01-01 15:00:00,Sheffield Weds,Nott'm Forest,1,1
-E1,2020-06-20,1900-01-01 15:00:00,West Brom,Birmingham,0,0
-E1,2020-06-21,1900-01-01 12:00:00,Cardiff,Leeds,2,0
-E1,2020-06-26,1900-01-01 19:45:00,Brentford,West Brom,1,0
-E1,2020-06-27,1900-01-01 12:30:00,Charlton,QPR,1,0
-E1,2020-06-27,1900-01-01 12:30:00,Preston,Cardiff,1,3
-E1,2020-06-27,1900-01-01 12:30:00,Swansea,Luton,0,1
-E1,2020-06-27,1900-01-01 13:00:00,Barnsley,Millwall,0,0
-E1,2020-06-27,1900-01-01 13:00:00,Derby,Reading,2,1
-E1,2020-06-27,1900-01-01 15:00:00,Birmingham,Hull,3,3
-E1,2020-06-27,1900-01-01 15:00:00,Leeds,Fulham,3,0
-E1,2020-06-27,1900-01-01 15:00:00,Stoke,Middlesbrough,0,2
-E1,2020-06-27,1900-01-01 15:00:00,Wigan,Blackburn,2,0
-E1,2020-06-28,1900-01-01 12:00:00,Bristol City,Sheffield Weds,1,2
-E1,2020-06-28,1900-01-01 14:15:00,Nott'm Forest,Huddersfield,3,1
-E1,2020-06-30,1900-01-01 17:00:00,Millwall,Swansea,1,1
-E1,2020-06-30,1900-01-01 18:00:00,Barnsley,Blackburn,2,0
-E1,2020-06-30,1900-01-01 18:00:00,Cardiff,Charlton,0,0
-E1,2020-06-30,1900-01-01 18:00:00,Reading,Brentford,0,3
-E1,2020-06-30,1900-01-01 18:30:00,QPR,Fulham,1,2
-E1,2020-06-30,1900-01-01 19:45:00,Leeds,Luton,1,1
-E1,2020-06-30,1900-01-01 19:45:00,Wigan,Stoke,3,0
-E1,2020-07-01,1900-01-01 17:00:00,Preston,Derby,0,1
-E1,2020-07-01,1900-01-01 18:00:00,Birmingham,Huddersfield,0,3
-E1,2020-07-01,1900-01-01 18:00:00,Nott'm Forest,Bristol City,1,0
-E1,2020-07-01,1900-01-01 19:45:00,Sheffield Weds,West Brom,0,3
-E1,2020-07-02,1900-01-01 17:00:00,Hull,Middlesbrough,2,1
-E1,2020-07-03,1900-01-01 20:15:00,Charlton,Millwall,0,1
-E1,2020-07-04,1900-01-01 12:30:00,Derby,Nott'm Forest,1,1
-E1,2020-07-04,1900-01-01 15:00:00,Blackburn,Leeds,1,3
-E1,2020-07-04,1900-01-01 15:00:00,Brentford,Wigan,3,0
-E1,2020-07-04,1900-01-01 15:00:00,Bristol City,Cardiff,0,1
-E1,2020-07-04,1900-01-01 15:00:00,Fulham,Birmingham,1,0
-E1,2020-07-04,1900-01-01 15:00:00,Huddersfield,Preston,0,0
-E1,2020-07-04,1900-01-01 15:00:00,Luton,Reading,0,5
-E1,2020-07-04,1900-01-01 15:00:00,Stoke,Barnsley,4,0
-E1,2020-07-05,1900-01-01 12:00:00,Swansea,Sheffield Weds,2,1
-E1,2020-07-05,1900-01-01 14:00:00,Middlesbrough,QPR,0,1
-E1,2020-07-05,1900-01-01 15:00:00,West Brom,Hull,4,2
-E1,2020-07-07,1900-01-01 17:00:00,Nott'm Forest,Fulham,0,1
-E1,2020-07-07,1900-01-01 18:00:00,Brentford,Charlton,2,1
-E1,2020-07-07,1900-01-01 18:00:00,Luton,Barnsley,1,1
-E1,2020-07-07,1900-01-01 18:00:00,Reading,Huddersfield,0,0
-E1,2020-07-07,1900-01-01 19:45:00,Cardiff,Blackburn,2,3
-E1,2020-07-08,1900-01-01 15:00:00,Millwall,Middlesbrough,0,2
-E1,2020-07-08,1900-01-01 17:00:00,West Brom,Derby,2,0
-E1,2020-07-08,1900-01-01 18:00:00,Birmingham,Swansea,1,3
-E1,2020-07-08,1900-01-01 18:00:00,Bristol City,Hull,2,1
-E1,2020-07-08,1900-01-01 18:00:00,Wigan,QPR,1,0
-E1,2020-07-08,1900-01-01 19:45:00,Sheffield Weds,Preston,1,3
-E1,2020-07-09,1900-01-01 17:00:00,Leeds,Stoke,5,0
-E1,2020-07-10,1900-01-01 18:00:00,Huddersfield,Luton,0,2
-E1,2020-07-10,1900-01-01 20:15:00,Fulham,Cardiff,2,0
-E1,2020-07-11,1900-01-01 12:30:00,Charlton,Reading,0,1
-E1,2020-07-11,1900-01-01 12:30:00,Derby,Brentford,1,3
-E1,2020-07-11,1900-01-01 15:00:00,Barnsley,Wigan,0,0
-E1,2020-07-11,1900-01-01 15:00:00,Blackburn,West Brom,1,1
-E1,2020-07-11,1900-01-01 15:00:00,Hull,Millwall,0,1
-E1,2020-07-11,1900-01-01 15:00:00,Middlesbrough,Bristol City,1,3
-E1,2020-07-11,1900-01-01 15:00:00,Preston,Nott'm Forest,1,1
-E1,2020-07-11,1900-01-01 15:00:00,QPR,Sheffield Weds,0,3
-E1,2020-07-12,1900-01-01 13:30:00,Stoke,Birmingham,2,0
-E1,2020-07-12,1900-01-01 13:30:00,Swansea,Leeds,0,1
-E1,2020-07-14,1900-01-01 17:00:00,West Brom,Fulham,0,0
-E1,2020-07-14,1900-01-01 18:00:00,Reading,Middlesbrough,1,2
-E1,2020-07-14,1900-01-01 18:00:00,Wigan,Hull,8,0
-E1,2020-07-14,1900-01-01 19:45:00,Cardiff,Derby,2,1
-E1,2020-07-14,1900-01-01 19:45:00,Luton,QPR,1,1
-E1,2020-07-14,1900-01-01 19:45:00,Millwall,Blackburn,1,0
-E1,2020-07-14,1900-01-01 19:45:00,Sheffield Weds,Huddersfield,0,0
-E1,2020-07-15,1900-01-01 17:00:00,Brentford,Preston,1,0
-E1,2020-07-15,1900-01-01 17:00:00,Bristol City,Stoke,1,1
-E1,2020-07-15,1900-01-01 18:00:00,Birmingham,Charlton,1,1
-E1,2020-07-15,1900-01-01 18:00:00,Nott'm Forest,Swansea,2,2
-E1,2020-07-16,1900-01-01 17:00:00,Leeds,Barnsley,1,0
-E1,2020-07-17,1900-01-01 17:30:00,Huddersfield,West Brom,2,1
-E1,2020-07-18,1900-01-01 12:30:00,Charlton,Wigan,2,2
-E1,2020-07-18,1900-01-01 12:30:00,Stoke,Brentford,1,0
-E1,2020-07-18,1900-01-01 15:00:00,Blackburn,Reading,4,3
-E1,2020-07-18,1900-01-01 15:00:00,Fulham,Sheffield Weds,5,3
-E1,2020-07-18,1900-01-01 15:00:00,Hull,Luton,0,1
-E1,2020-07-18,1900-01-01 15:00:00,Middlesbrough,Cardiff,1,3
-E1,2020-07-18,1900-01-01 15:00:00,Preston,Birmingham,2,0
-E1,2020-07-18,1900-01-01 15:00:00,QPR,Millwall,4,3
-E1,2020-07-18,1900-01-01 15:00:00,Swansea,Bristol City,1,0
-E1,2020-07-19,1900-01-01 14:00:00,Derby,Leeds,1,3
-E1,2020-07-19,1900-01-01 15:00:00,Barnsley,Nott'm Forest,1,0
-E1,2020-07-22,1900-01-01 19:30:00,Birmingham,Derby,1,3
-E1,2020-07-22,1900-01-01 19:30:00,Brentford,Barnsley,1,2
-E1,2020-07-22,1900-01-01 19:30:00,Bristol City,Preston,1,1
-E1,2020-07-22,1900-01-01 19:30:00,Cardiff,Hull,3,0
-E1,2020-07-22,1900-01-01 19:30:00,Leeds,Charlton,4,0
-E1,2020-07-22,1900-01-01 19:30:00,Luton,Blackburn,3,2
-E1,2020-07-22,1900-01-01 19:30:00,Millwall,Huddersfield,4,1
-E1,2020-07-22,1900-01-01 19:30:00,Nott'm Forest,Stoke,1,4
-E1,2020-07-22,1900-01-01 19:30:00,Reading,Swansea,1,4
-E1,2020-07-22,1900-01-01 19:30:00,Sheffield Weds,Middlesbrough,1,2
-E1,2020-07-22,1900-01-01 19:30:00,West Brom,QPR,2,2
-E1,2020-07-22,1900-01-01 19:30:00,Wigan,Fulham,1,1
-E2,2019-08-03,1900-01-01 15:00:00,AFC Wimbledon,Rotherham,1,2
-E2,2019-08-03,1900-01-01 15:00:00,Blackpool,Bristol Rvs,2,0
-E2,2019-08-03,1900-01-01 15:00:00,Burton,Ipswich,0,1
-E2,2019-08-03,1900-01-01 15:00:00,Coventry,Southend,1,0
-E2,2019-08-03,1900-01-01 15:00:00,Doncaster,Gillingham,1,1
-E2,2019-08-03,1900-01-01 15:00:00,Lincoln,Accrington,2,0
-E2,2019-08-03,1900-01-01 15:00:00,Peterboro,Fleetwood Town,1,3
-E2,2019-08-03,1900-01-01 15:00:00,Shrewsbury,Portsmouth,1,0
-E2,2019-08-03,1900-01-01 15:00:00,Sunderland,Oxford,1,1
-E2,2019-08-03,1900-01-01 15:00:00,Tranmere,Rochdale,2,3
-E2,2019-08-03,1900-01-01 15:00:00,Wycombe,Bolton,2,0
-E2,2019-08-10,1900-01-01 15:00:00,Bolton,Coventry,0,0
-E2,2019-08-10,1900-01-01 15:00:00,Bristol Rvs,Wycombe,0,0
-E2,2019-08-10,1900-01-01 15:00:00,Fleetwood Town,AFC Wimbledon,2,1
-E2,2019-08-10,1900-01-01 15:00:00,Gillingham,Burton,1,2
-E2,2019-08-10,1900-01-01 15:00:00,Ipswich,Sunderland,1,1
-E2,2019-08-10,1900-01-01 15:00:00,Milton Keynes Dons,Shrewsbury,1,0
-E2,2019-08-10,1900-01-01 15:00:00,Oxford,Peterboro,1,0
-E2,2019-08-10,1900-01-01 15:00:00,Portsmouth,Tranmere,2,0
-E2,2019-08-10,1900-01-01 15:00:00,Rochdale,Doncaster,1,1
-E2,2019-08-10,1900-01-01 15:00:00,Rotherham,Lincoln,0,2
-E2,2019-08-10,1900-01-01 15:00:00,Southend,Blackpool,1,3
-E2,2019-08-17,1900-01-01 12:30:00,Sunderland,Portsmouth,2,1
-E2,2019-08-17,1900-01-01 15:00:00,AFC Wimbledon,Accrington,1,1
-E2,2019-08-17,1900-01-01 15:00:00,Blackpool,Oxford,2,1
-E2,2019-08-17,1900-01-01 15:00:00,Burton,Rotherham,0,1
-E2,2019-08-17,1900-01-01 15:00:00,Coventry,Bristol Rvs,2,0
-E2,2019-08-17,1900-01-01 15:00:00,Doncaster,Fleetwood Town,3,2
-E2,2019-08-17,1900-01-01 15:00:00,Lincoln,Southend,4,0
-E2,2019-08-17,1900-01-01 15:00:00,Peterboro,Ipswich,2,2
-E2,2019-08-17,1900-01-01 15:00:00,Shrewsbury,Rochdale,0,0
-E2,2019-08-17,1900-01-01 15:00:00,Tranmere,Bolton,5,0
-E2,2019-08-17,1900-01-01 15:00:00,Wycombe,Milton Keynes Dons,3,2
-E2,2019-08-20,1900-01-01 19:45:00,Accrington,Shrewsbury,2,3
-E2,2019-08-20,1900-01-01 19:45:00,Bristol Rvs,Tranmere,2,0
-E2,2019-08-20,1900-01-01 19:45:00,Fleetwood Town,Wycombe,1,1
-E2,2019-08-20,1900-01-01 19:45:00,Gillingham,Blackpool,2,2
-E2,2019-08-20,1900-01-01 19:45:00,Ipswich,AFC Wimbledon,2,1
-E2,2019-08-20,1900-01-01 19:45:00,Milton Keynes Dons,Lincoln,2,1
-E2,2019-08-20,1900-01-01 19:45:00,Oxford,Burton,2,4
-E2,2019-08-20,1900-01-01 19:45:00,Portsmouth,Coventry,3,3
-E2,2019-08-20,1900-01-01 19:45:00,Rochdale,Sunderland,1,2
-E2,2019-08-20,1900-01-01 19:45:00,Southend,Peterboro,0,2
-E2,2019-08-24,1900-01-01 12:30:00,Doncaster,Lincoln,2,1
-E2,2019-08-24,1900-01-01 15:00:00,Bolton,Ipswich,0,5
-E2,2019-08-24,1900-01-01 15:00:00,Bristol Rvs,Oxford,3,1
-E2,2019-08-24,1900-01-01 15:00:00,Coventry,Gillingham,1,0
-E2,2019-08-24,1900-01-01 15:00:00,Fleetwood Town,Accrington,2,0
-E2,2019-08-24,1900-01-01 15:00:00,Milton Keynes Dons,Peterboro,0,4
-E2,2019-08-24,1900-01-01 15:00:00,Rochdale,Blackpool,0,0
-E2,2019-08-24,1900-01-01 15:00:00,Shrewsbury,Burton,0,0
-E2,2019-08-24,1900-01-01 15:00:00,Sunderland,AFC Wimbledon,3,1
-E2,2019-08-24,1900-01-01 15:00:00,Wycombe,Southend,4,3
-E2,2019-08-31,1900-01-01 15:00:00,Accrington,Milton Keynes Dons,2,1
-E2,2019-08-31,1900-01-01 15:00:00,AFC Wimbledon,Wycombe,0,0
-E2,2019-08-31,1900-01-01 15:00:00,Blackpool,Portsmouth,1,1
-E2,2019-08-31,1900-01-01 15:00:00,Burton,Bristol Rvs,2,0
-E2,2019-08-31,1900-01-01 15:00:00,Gillingham,Bolton,5,0
-E2,2019-08-31,1900-01-01 15:00:00,Ipswich,Shrewsbury,3,0
-E2,2019-08-31,1900-01-01 15:00:00,Lincoln,Fleetwood Town,2,0
-E2,2019-08-31,1900-01-01 15:00:00,Oxford,Coventry,3,3
-E2,2019-08-31,1900-01-01 15:00:00,Peterboro,Sunderland,3,0
-E2,2019-08-31,1900-01-01 15:00:00,Rotherham,Tranmere,1,1
-E2,2019-08-31,1900-01-01 15:00:00,Southend,Rochdale,0,3
-E2,2019-09-07,1900-01-01 12:00:00,Milton Keynes Dons,AFC Wimbledon,2,1
-E2,2019-09-07,1900-01-01 12:30:00,Doncaster,Rotherham,2,1
-E2,2019-09-07,1900-01-01 15:00:00,Bristol Rvs,Accrington,3,3
-E2,2019-09-07,1900-01-01 15:00:00,Coventry,Blackpool,3,2
-E2,2019-09-07,1900-01-01 15:00:00,Fleetwood Town,Oxford,2,1
-E2,2019-09-07,1900-01-01 15:00:00,Tranmere,Gillingham,2,2
-E2,2019-09-07,1900-01-01 15:00:00,Wycombe,Lincoln,3,1
-E2,2019-09-14,1900-01-01 15:00:00,Accrington,Sunderland,1,3
-E2,2019-09-14,1900-01-01 15:00:00,AFC Wimbledon,Shrewsbury,1,1
-E2,2019-09-14,1900-01-01 15:00:00,Blackpool,Milton Keynes Dons,0,3
-E2,2019-09-14,1900-01-01 15:00:00,Burton,Coventry,0,0
-E2,2019-09-14,1900-01-01 15:00:00,Gillingham,Wycombe,2,0
-E2,2019-09-14,1900-01-01 15:00:00,Ipswich,Doncaster,0,0
-E2,2019-09-14,1900-01-01 15:00:00,Lincoln,Bristol Rvs,0,1
-E2,2019-09-14,1900-01-01 15:00:00,Oxford,Tranmere,3,0
-E2,2019-09-14,1900-01-01 15:00:00,Peterboro,Rochdale,6,0
-E2,2019-09-14,1900-01-01 15:00:00,Rotherham,Bolton,6,1
-E2,2019-09-14,1900-01-01 15:00:00,Southend,Fleetwood Town,3,3
-E2,2019-09-17,1900-01-01 19:45:00,Bristol Rvs,Gillingham,1,1
-E2,2019-09-17,1900-01-01 19:45:00,Coventry,AFC Wimbledon,2,1
-E2,2019-09-17,1900-01-01 19:45:00,Doncaster,Blackpool,0,1
-E2,2019-09-17,1900-01-01 19:45:00,Milton Keynes Dons,Ipswich,0,1
-E2,2019-09-17,1900-01-01 19:45:00,Portsmouth,Burton,2,2
-E2,2019-09-17,1900-01-01 19:45:00,Rochdale,Lincoln,1,1
-E2,2019-09-17,1900-01-01 19:45:00,Shrewsbury,Southend,4,3
-E2,2019-09-17,1900-01-01 19:45:00,Sunderland,Rotherham,1,1
-E2,2019-09-17,1900-01-01 19:45:00,Tranmere,Peterboro,2,2
-E2,2019-09-17,1900-01-01 19:45:00,Wycombe,Accrington,1,1
-E2,2019-09-17,1900-01-01 20:00:00,Bolton,Oxford,0,0
-E2,2019-09-21,1900-01-01 15:00:00,Accrington,Blackpool,1,1
-E2,2019-09-21,1900-01-01 15:00:00,AFC Wimbledon,Bristol Rvs,1,3
-E2,2019-09-21,1900-01-01 15:00:00,Bolton,Sunderland,1,1
-E2,2019-09-21,1900-01-01 15:00:00,Doncaster,Peterboro,2,0
-E2,2019-09-21,1900-01-01 15:00:00,Fleetwood Town,Rochdale,2,1
-E2,2019-09-21,1900-01-01 15:00:00,Gillingham,Ipswich,0,1
-E2,2019-09-21,1900-01-01 15:00:00,Lincoln,Oxford,0,6
-E2,2019-09-21,1900-01-01 15:00:00,Milton Keynes Dons,Southend,0,1
-E2,2019-09-21,1900-01-01 15:00:00,Rotherham,Shrewsbury,0,0
-E2,2019-09-21,1900-01-01 15:00:00,Tranmere,Burton,2,1
-E2,2019-09-21,1900-01-01 15:00:00,Wycombe,Portsmouth,1,0
-E2,2019-09-27,1900-01-01 19:45:00,Blackpool,Lincoln,2,1
-E2,2019-09-28,1900-01-01 15:00:00,Bristol Rvs,Rotherham,1,0
-E2,2019-09-28,1900-01-01 15:00:00,Coventry,Doncaster,1,1
-E2,2019-09-28,1900-01-01 15:00:00,Ipswich,Tranmere,4,1
-E2,2019-09-28,1900-01-01 15:00:00,Oxford,Gillingham,3,0
-E2,2019-09-28,1900-01-01 15:00:00,Peterboro,AFC Wimbledon,3,2
-E2,2019-09-28,1900-01-01 15:00:00,Portsmouth,Bolton,1,0
-E2,2019-09-28,1900-01-01 15:00:00,Rochdale,Wycombe,0,3
-E2,2019-09-28,1900-01-01 15:00:00,Shrewsbury,Fleetwood Town,0,3
-E2,2019-09-28,1900-01-01 15:00:00,Southend,Accrington,0,1
-E2,2019-09-28,1900-01-01 15:00:00,Sunderland,Milton Keynes Dons,2,1
-E2,2019-10-05,1900-01-01 15:00:00,Accrington,Oxford,2,2
-E2,2019-10-05,1900-01-01 15:00:00,AFC Wimbledon,Rochdale,3,2
-E2,2019-10-05,1900-01-01 15:00:00,Doncaster,Portsmouth,1,2
-E2,2019-10-05,1900-01-01 15:00:00,Fleetwood Town,Ipswich,0,1
-E2,2019-10-05,1900-01-01 15:00:00,Gillingham,Southend,3,1
-E2,2019-10-05,1900-01-01 15:00:00,Lincoln,Sunderland,2,0
-E2,2019-10-05,1900-01-01 15:00:00,Milton Keynes Dons,Burton,0,3
-E2,2019-10-05,1900-01-01 15:00:00,Rotherham,Coventry,4,0
-E2,2019-10-05,1900-01-01 15:00:00,Tranmere,Shrewsbury,0,1
-E2,2019-10-05,1900-01-01 15:00:00,Wycombe,Peterboro,3,3
-E2,2019-10-07,1900-01-01 20:00:00,Bolton,Blackpool,0,0
-E2,2019-10-12,1900-01-01 15:00:00,Blackpool,Rotherham,1,2
-E2,2019-10-12,1900-01-01 15:00:00,Bristol Rvs,Milton Keynes Dons,1,0
-E2,2019-10-12,1900-01-01 15:00:00,Oxford,Doncaster,3,0
-E2,2019-10-12,1900-01-01 15:00:00,Peterboro,Lincoln,2,0
-E2,2019-10-12,1900-01-01 15:00:00,Portsmouth,Gillingham,0,0
-E2,2019-10-12,1900-01-01 15:00:00,Rochdale,Accrington,2,1
-E2,2019-10-12,1900-01-01 15:00:00,Southend,AFC Wimbledon,1,4
-E2,2019-10-13,1900-01-01 12:00:00,Coventry,Tranmere,0,1
-E2,2019-10-18,1900-01-01 19:45:00,Lincoln,Shrewsbury,0,0
-E2,2019-10-18,1900-01-01 19:45:00,Tranmere,Southend,1,1
-E2,2019-10-19,1900-01-01 15:00:00,AFC Wimbledon,Portsmouth,1,0
-E2,2019-10-19,1900-01-01 15:00:00,Bolton,Rochdale,1,3
-E2,2019-10-19,1900-01-01 15:00:00,Doncaster,Bristol Rvs,2,0
-E2,2019-10-19,1900-01-01 15:00:00,Fleetwood Town,Burton,4,1
-E2,2019-10-19,1900-01-01 15:00:00,Gillingham,Peterboro,1,2
-E2,2019-10-19,1900-01-01 15:00:00,Milton Keynes Dons,Coventry,0,0
-E2,2019-10-19,1900-01-01 15:00:00,Rotherham,Oxford,1,2
-E2,2019-10-19,1900-01-01 15:00:00,Wycombe,Sunderland,1,0
-E2,2019-10-20,1900-01-01 12:00:00,Accrington,Ipswich,2,0
-E2,2019-10-22,1900-01-01 19:45:00,Blackpool,Wycombe,1,1
-E2,2019-10-22,1900-01-01 19:45:00,Bristol Rvs,Bolton,0,2
-E2,2019-10-22,1900-01-01 19:45:00,Burton,AFC Wimbledon,1,0
-E2,2019-10-22,1900-01-01 19:45:00,Portsmouth,Lincoln,1,0
-E2,2019-10-22,1900-01-01 19:45:00,Rochdale,Milton Keynes Dons,2,0
-E2,2019-10-22,1900-01-01 19:45:00,Shrewsbury,Gillingham,1,1
-E2,2019-10-22,1900-01-01 19:45:00,Southend,Doncaster,1,7
-E2,2019-10-22,1900-01-01 19:45:00,Sunderland,Tranmere,5,0
-E2,2019-10-23,1900-01-01 19:45:00,Coventry,Fleetwood Town,2,1
-E2,2019-10-23,1900-01-01 19:45:00,Ipswich,Rotherham,0,2
-E2,2019-10-23,1900-01-01 19:45:00,Peterboro,Accrington,4,0
-E2,2019-10-26,1900-01-01 15:00:00,Accrington,Gillingham,0,1
-E2,2019-10-26,1900-01-01 15:00:00,Bristol Rvs,Portsmouth,2,2
-E2,2019-10-26,1900-01-01 15:00:00,Burton,Blackpool,0,0
-E2,2019-10-26,1900-01-01 15:00:00,Fleetwood Town,Milton Keynes Dons,1,0
-E2,2019-10-26,1900-01-01 15:00:00,Oxford,Rochdale,3,0
-E2,2019-10-26,1900-01-01 15:00:00,Peterboro,Coventry,2,2
-E2,2019-10-26,1900-01-01 15:00:00,Rotherham,Wycombe,0,1
-E2,2019-10-26,1900-01-01 15:00:00,Shrewsbury,Sunderland,1,0
-E2,2019-10-26,1900-01-01 15:00:00,Southend,Ipswich,1,3
-E2,2019-11-02,1900-01-01 15:00:00,AFC Wimbledon,Lincoln,1,1
-E2,2019-11-02,1900-01-01 15:00:00,Blackpool,Peterboro,4,3
-E2,2019-11-02,1900-01-01 15:00:00,Bolton,Fleetwood Town,2,1
-E2,2019-11-02,1900-01-01 15:00:00,Coventry,Accrington,0,0
-E2,2019-11-02,1900-01-01 15:00:00,Doncaster,Burton,2,2
-E2,2019-11-02,1900-01-01 15:00:00,Gillingham,Rotherham,0,3
-E2,2019-11-02,1900-01-01 15:00:00,Milton Keynes Dons,Tranmere,1,3
-E2,2019-11-02,1900-01-01 15:00:00,Portsmouth,Oxford,1,1
-E2,2019-11-02,1900-01-01 15:00:00,Rochdale,Bristol Rvs,1,2
-E2,2019-11-02,1900-01-01 15:00:00,Sunderland,Southend,1,0
-E2,2019-11-02,1900-01-01 15:00:00,Wycombe,Shrewsbury,1,0
-E2,2019-11-05,1900-01-01 19:45:00,Portsmouth,Southend,4,1
-E2,2019-11-05,1900-01-01 19:45:00,Rochdale,Ipswich,0,1
-E2,2019-11-05,1900-01-01 19:45:00,Shrewsbury,Peterboro,1,0
-E2,2019-11-16,1900-01-01 15:00:00,Blackpool,AFC Wimbledon,2,0
-E2,2019-11-16,1900-01-01 15:00:00,Bolton,Milton Keynes Dons,1,0
-E2,2019-11-16,1900-01-01 15:00:00,Coventry,Rochdale,2,1
-E2,2019-11-16,1900-01-01 15:00:00,Gillingham,Lincoln,1,0
-E2,2019-11-16,1900-01-01 15:00:00,Rotherham,Accrington,1,0
-E2,2019-11-17,1900-01-01 12:00:00,Tranmere,Wycombe,0,2
-E2,2019-11-23,1900-01-01 15:00:00,Accrington,Bolton,7,1
-E2,2019-11-23,1900-01-01 15:00:00,AFC Wimbledon,Gillingham,1,0
-E2,2019-11-23,1900-01-01 15:00:00,Fleetwood Town,Tranmere,2,1
-E2,2019-11-23,1900-01-01 15:00:00,Ipswich,Blackpool,2,2
-E2,2019-11-23,1900-01-01 15:00:00,Milton Keynes Dons,Rotherham,2,3
-E2,2019-11-23,1900-01-01 15:00:00,Peterboro,Burton,1,0
-E2,2019-11-23,1900-01-01 15:00:00,Rochdale,Portsmouth,0,3
-E2,2019-11-23,1900-01-01 15:00:00,Shrewsbury,Bristol Rvs,3,4
-E2,2019-11-23,1900-01-01 15:00:00,Southend,Oxford,0,4
-E2,2019-11-23,1900-01-01 15:00:00,Sunderland,Coventry,1,1
-E2,2019-11-23,1900-01-01 15:00:00,Wycombe,Doncaster,1,0
-E2,2019-11-26,1900-01-01 19:45:00,Ipswich,Wycombe,0,0
-E2,2019-11-26,1900-01-01 19:45:00,Portsmouth,Rotherham,3,2
-E2,2019-11-26,1900-01-01 19:45:00,Sunderland,Burton,1,2
-E2,2019-12-03,1900-01-01 19:45:00,Burton,Southend,1,1
-E2,2019-12-07,1900-01-01 15:00:00,Blackpool,Fleetwood Town,3,1
-E2,2019-12-07,1900-01-01 15:00:00,Bolton,AFC Wimbledon,2,2
-E2,2019-12-07,1900-01-01 15:00:00,Bristol Rvs,Southend,4,2
-E2,2019-12-07,1900-01-01 15:00:00,Burton,Lincoln,0,2
-E2,2019-12-07,1900-01-01 15:00:00,Coventry,Ipswich,1,1
-E2,2019-12-07,1900-01-01 15:00:00,Doncaster,Milton Keynes Dons,1,1
-E2,2019-12-07,1900-01-01 15:00:00,Gillingham,Sunderland,1,0
-E2,2019-12-07,1900-01-01 15:00:00,Oxford,Shrewsbury,0,0
-E2,2019-12-07,1900-01-01 15:00:00,Portsmouth,Peterboro,2,2
-E2,2019-12-07,1900-01-01 15:00:00,Rotherham,Rochdale,0,1
-E2,2019-12-07,1900-01-01 15:00:00,Tranmere,Accrington,1,1
-E2,2019-12-14,1900-01-01 15:00:00,Accrington,Portsmouth,4,1
-E2,2019-12-14,1900-01-01 15:00:00,AFC Wimbledon,Doncaster,2,1
-E2,2019-12-14,1900-01-01 15:00:00,Fleetwood Town,Gillingham,1,1
-E2,2019-12-14,1900-01-01 15:00:00,Ipswich,Bristol Rvs,1,2
-E2,2019-12-14,1900-01-01 15:00:00,Lincoln,Tranmere,1,0
-E2,2019-12-14,1900-01-01 15:00:00,Milton Keynes Dons,Oxford,1,0
-E2,2019-12-14,1900-01-01 15:00:00,Peterboro,Bolton,1,0
-E2,2019-12-14,1900-01-01 15:00:00,Shrewsbury,Coventry,2,1
-E2,2019-12-14,1900-01-01 15:00:00,Southend,Rotherham,2,2
-E2,2019-12-14,1900-01-01 15:00:00,Sunderland,Blackpool,1,1
-E2,2019-12-14,1900-01-01 15:00:00,Wycombe,Burton,2,0
-E2,2019-12-21,1900-01-01 13:00:00,Gillingham,Milton Keynes Dons,3,1
-E2,2019-12-21,1900-01-01 15:00:00,Blackpool,Shrewsbury,0,1
-E2,2019-12-21,1900-01-01 15:00:00,Bolton,Southend,3,2
-E2,2019-12-21,1900-01-01 15:00:00,Bristol Rvs,Peterboro,0,0
-E2,2019-12-21,1900-01-01 15:00:00,Burton,Rochdale,3,1
-E2,2019-12-21,1900-01-01 15:00:00,Coventry,Lincoln,1,0
-E2,2019-12-21,1900-01-01 15:00:00,Doncaster,Accrington,1,1
-E2,2019-12-21,1900-01-01 15:00:00,Oxford,Wycombe,1,0
-E2,2019-12-21,1900-01-01 15:00:00,Portsmouth,Ipswich,1,0
-E2,2019-12-21,1900-01-01 15:00:00,Rotherham,Fleetwood Town,2,2
-E2,2019-12-21,1900-01-01 15:00:00,Tranmere,AFC Wimbledon,1,0
-E2,2019-12-26,1900-01-01 15:00:00,Blackpool,Accrington,0,1
-E2,2019-12-26,1900-01-01 15:00:00,Bristol Rvs,AFC Wimbledon,1,2
-E2,2019-12-26,1900-01-01 15:00:00,Burton,Tranmere,4,2
-E2,2019-12-26,1900-01-01 15:00:00,Ipswich,Gillingham,0,0
-E2,2019-12-26,1900-01-01 15:00:00,Oxford,Lincoln,1,0
-E2,2019-12-26,1900-01-01 15:00:00,Peterboro,Doncaster,0,3
-E2,2019-12-26,1900-01-01 15:00:00,Portsmouth,Wycombe,2,0
-E2,2019-12-26,1900-01-01 15:00:00,Rochdale,Fleetwood Town,2,3
-E2,2019-12-26,1900-01-01 15:00:00,Shrewsbury,Rotherham,1,2
-E2,2019-12-26,1900-01-01 15:00:00,Southend,Milton Keynes Dons,2,2
-E2,2019-12-26,1900-01-01 15:00:00,Sunderland,Bolton,0,0
-E2,2019-12-29,1900-01-01 13:00:00,Gillingham,Rochdale,1,0
-E2,2019-12-29,1900-01-01 15:00:00,Accrington,Burton,2,0
-E2,2019-12-29,1900-01-01 15:00:00,AFC Wimbledon,Oxford,1,2
-E2,2019-12-29,1900-01-01 15:00:00,Bolton,Shrewsbury,1,1
-E2,2019-12-29,1900-01-01 15:00:00,Doncaster,Sunderland,1,2
-E2,2019-12-29,1900-01-01 15:00:00,Fleetwood Town,Bristol Rvs,0,0
-E2,2019-12-29,1900-01-01 15:00:00,Lincoln,Ipswich,5,3
-E2,2019-12-29,1900-01-01 15:00:00,Milton Keynes Dons,Portsmouth,3,1
-E2,2019-12-29,1900-01-01 15:00:00,Rotherham,Peterboro,4,0
-E2,2019-12-29,1900-01-01 15:00:00,Tranmere,Blackpool,1,1
-E2,2019-12-29,1900-01-01 15:00:00,Wycombe,Coventry,1,4
-E2,2020-01-01,1900-01-01 15:00:00,Accrington,Rochdale,1,2
-E2,2020-01-01,1900-01-01 15:00:00,AFC Wimbledon,Southend,1,1
-E2,2020-01-01,1900-01-01 15:00:00,Bolton,Burton,3,4
-E2,2020-01-01,1900-01-01 15:00:00,Doncaster,Oxford,1,0
-E2,2020-01-01,1900-01-01 15:00:00,Fleetwood Town,Sunderland,1,1
-E2,2020-01-01,1900-01-01 15:00:00,Gillingham,Portsmouth,1,1
-E2,2020-01-01,1900-01-01 15:00:00,Lincoln,Peterboro,2,1
-E2,2020-01-01,1900-01-01 15:00:00,Milton Keynes Dons,Bristol Rvs,3,0
-E2,2020-01-01,1900-01-01 15:00:00,Rotherham,Blackpool,2,1
-E2,2020-01-01,1900-01-01 15:00:00,Tranmere,Coventry,1,4
-E2,2020-01-01,1900-01-01 15:00:00,Wycombe,Ipswich,1,1
-E2,2020-01-04,1900-01-01 15:00:00,Sunderland,Lincoln,3,1
-E2,2020-01-07,1900-01-01 19:45:00,Doncaster,Shrewsbury,2,0
-E2,2020-01-11,1900-01-01 15:00:00,Bristol Rvs,Doncaster,0,2
-E2,2020-01-11,1900-01-01 15:00:00,Burton,Fleetwood Town,1,0
-E2,2020-01-11,1900-01-01 15:00:00,Coventry,Milton Keynes Dons,1,1
-E2,2020-01-11,1900-01-01 15:00:00,Ipswich,Accrington,4,1
-E2,2020-01-11,1900-01-01 15:00:00,Oxford,Rotherham,1,3
-E2,2020-01-11,1900-01-01 15:00:00,Peterboro,Gillingham,0,0
-E2,2020-01-11,1900-01-01 15:00:00,Portsmouth,AFC Wimbledon,2,1
-E2,2020-01-11,1900-01-01 15:00:00,Rochdale,Bolton,2,0
-E2,2020-01-11,1900-01-01 15:00:00,Shrewsbury,Lincoln,1,1
-E2,2020-01-11,1900-01-01 15:00:00,Southend,Tranmere,0,0
-E2,2020-01-11,1900-01-01 15:00:00,Sunderland,Wycombe,4,0
-E2,2020-01-14,1900-01-01 19:45:00,Burton,Milton Keynes Dons,1,0
-E2,2020-01-14,1900-01-01 19:45:00,Lincoln,Bolton,5,1
-E2,2020-01-14,1900-01-01 19:45:00,Oxford,Ipswich,0,0
-E2,2020-01-18,1900-01-01 15:00:00,Accrington,Southend,1,2
-E2,2020-01-18,1900-01-01 15:00:00,AFC Wimbledon,Peterboro,1,0
-E2,2020-01-18,1900-01-01 15:00:00,Bolton,Portsmouth,0,1
-E2,2020-01-18,1900-01-01 15:00:00,Doncaster,Coventry,0,1
-E2,2020-01-18,1900-01-01 15:00:00,Fleetwood Town,Shrewsbury,2,2
-E2,2020-01-18,1900-01-01 15:00:00,Gillingham,Oxford,1,1
-E2,2020-01-18,1900-01-01 15:00:00,Lincoln,Blackpool,1,0
-E2,2020-01-18,1900-01-01 15:00:00,Milton Keynes Dons,Sunderland,0,1
-E2,2020-01-18,1900-01-01 15:00:00,Rotherham,Bristol Rvs,3,0
-E2,2020-01-18,1900-01-01 15:00:00,Tranmere,Ipswich,1,2
-E2,2020-01-18,1900-01-01 15:00:00,Wycombe,Rochdale,2,1
-E2,2020-01-21,1900-01-01 19:45:00,Peterboro,Wycombe,4,0
-E2,2020-01-24,1900-01-01 19:45:00,Sunderland,Doncaster,0,0
-E2,2020-01-25,1900-01-01 15:00:00,Bristol Rvs,Fleetwood Town,0,0
-E2,2020-01-25,1900-01-01 15:00:00,Burton,Accrington,1,1
-E2,2020-01-25,1900-01-01 15:00:00,Ipswich,Lincoln,1,0
-E2,2020-01-25,1900-01-01 15:00:00,Peterboro,Rotherham,2,1
-E2,2020-01-25,1900-01-01 15:00:00,Rochdale,Gillingham,2,2
-E2,2020-01-28,1900-01-01 19:45:00,Accrington,Peterboro,0,2
-E2,2020-01-28,1900-01-01 19:45:00,AFC Wimbledon,Burton,2,2
-E2,2020-01-28,1900-01-01 19:45:00,Doncaster,Southend,3,1
-E2,2020-01-28,1900-01-01 19:45:00,Fleetwood Town,Coventry,0,0
-E2,2020-01-28,1900-01-01 19:45:00,Lincoln,Portsmouth,0,2
-E2,2020-01-28,1900-01-01 19:45:00,Milton Keynes Dons,Rochdale,2,1
-E2,2020-01-28,1900-01-01 19:45:00,Rotherham,Ipswich,1,0
-E2,2020-01-28,1900-01-01 19:45:00,Wycombe,Blackpool,2,1
-E2,2020-01-28,1900-01-01 20:00:00,Bolton,Bristol Rvs,1,1
-E2,2020-01-29,1900-01-01 19:45:00,Gillingham,Shrewsbury,2,0
-E2,2020-01-29,1900-01-01 19:45:00,Tranmere,Sunderland,0,1
-E2,2020-02-01,1900-01-01 15:00:00,Accrington,AFC Wimbledon,2,1
-E2,2020-02-01,1900-01-01 15:00:00,Bolton,Tranmere,2,0
-E2,2020-02-01,1900-01-01 15:00:00,Bristol Rvs,Coventry,1,2
-E2,2020-02-01,1900-01-01 15:00:00,Fleetwood Town,Doncaster,2,1
-E2,2020-02-01,1900-01-01 15:00:00,Ipswich,Peterboro,1,4
-E2,2020-02-01,1900-01-01 15:00:00,Milton Keynes Dons,Wycombe,2,0
-E2,2020-02-01,1900-01-01 15:00:00,Oxford,Blackpool,2,1
-E2,2020-02-01,1900-01-01 15:00:00,Portsmouth,Sunderland,2,0
-E2,2020-02-01,1900-01-01 15:00:00,Rochdale,Shrewsbury,1,0
-E2,2020-02-01,1900-01-01 15:00:00,Rotherham,Burton,3,2
-E2,2020-02-01,1900-01-01 15:00:00,Southend,Lincoln,2,1
-E2,2020-02-04,1900-01-01 19:45:00,Tranmere,Doncaster,0,3
-E2,2020-02-07,1900-01-01 19:45:00,Lincoln,Rotherham,0,1
-E2,2020-02-08,1900-01-01 15:00:00,AFC Wimbledon,Fleetwood Town,1,2
-E2,2020-02-08,1900-01-01 15:00:00,Blackpool,Southend,2,1
-E2,2020-02-08,1900-01-01 15:00:00,Burton,Gillingham,0,0
-E2,2020-02-08,1900-01-01 15:00:00,Coventry,Bolton,2,1
-E2,2020-02-08,1900-01-01 15:00:00,Doncaster,Rochdale,1,1
-E2,2020-02-08,1900-01-01 15:00:00,Peterboro,Oxford,4,0
-E2,2020-02-08,1900-01-01 15:00:00,Shrewsbury,Milton Keynes Dons,1,1
-E2,2020-02-08,1900-01-01 15:00:00,Sunderland,Ipswich,1,0
-E2,2020-02-08,1900-01-01 15:00:00,Tranmere,Portsmouth,0,2
-E2,2020-02-08,1900-01-01 15:00:00,Wycombe,Bristol Rvs,3,1
-E2,2020-02-11,1900-01-01 19:45:00,AFC Wimbledon,Ipswich,0,0
-E2,2020-02-11,1900-01-01 19:45:00,Blackpool,Gillingham,2,3
-E2,2020-02-11,1900-01-01 19:45:00,Burton,Oxford,2,2
-E2,2020-02-11,1900-01-01 19:45:00,Coventry,Portsmouth,1,0
-E2,2020-02-11,1900-01-01 19:45:00,Doncaster,Bolton,2,1
-E2,2020-02-11,1900-01-01 19:45:00,Lincoln,Milton Keynes Dons,1,1
-E2,2020-02-11,1900-01-01 19:45:00,Peterboro,Southend,4,0
-E2,2020-02-11,1900-01-01 19:45:00,Shrewsbury,Accrington,0,2
-E2,2020-02-11,1900-01-01 19:45:00,Sunderland,Rochdale,3,0
-E2,2020-02-11,1900-01-01 19:45:00,Tranmere,Bristol Rvs,0,0
-E2,2020-02-11,1900-01-01 19:45:00,Wycombe,Fleetwood Town,0,1
-E2,2020-02-15,1900-01-01 15:00:00,Accrington,Lincoln,4,3
-E2,2020-02-15,1900-01-01 15:00:00,Bolton,Wycombe,0,2
-E2,2020-02-15,1900-01-01 15:00:00,Bristol Rvs,Blackpool,2,1
-E2,2020-02-15,1900-01-01 15:00:00,Fleetwood Town,Peterboro,2,1
-E2,2020-02-15,1900-01-01 15:00:00,Gillingham,Doncaster,2,1
-E2,2020-02-15,1900-01-01 15:00:00,Ipswich,Burton,4,1
-E2,2020-02-15,1900-01-01 15:00:00,Oxford,Sunderland,0,1
-E2,2020-02-15,1900-01-01 15:00:00,Portsmouth,Shrewsbury,2,0
-E2,2020-02-15,1900-01-01 15:00:00,Rotherham,AFC Wimbledon,2,2
-E2,2020-02-15,1900-01-01 15:00:00,Southend,Coventry,0,2
-E2,2020-02-18,1900-01-01 19:45:00,Oxford,AFC Wimbledon,5,0
-E2,2020-02-18,1900-01-01 19:45:00,Southend,Gillingham,0,1
-E2,2020-02-22,1900-01-01 15:00:00,Accrington,Rotherham,1,2
-E2,2020-02-22,1900-01-01 15:00:00,AFC Wimbledon,Blackpool,0,0
-E2,2020-02-22,1900-01-01 15:00:00,Fleetwood Town,Portsmouth,1,0
-E2,2020-02-22,1900-01-01 15:00:00,Ipswich,Oxford,0,1
-E2,2020-02-22,1900-01-01 15:00:00,Lincoln,Gillingham,0,0
-E2,2020-02-22,1900-01-01 15:00:00,Milton Keynes Dons,Bolton,1,0
-E2,2020-02-22,1900-01-01 15:00:00,Rochdale,Coventry,1,2
-E2,2020-02-22,1900-01-01 15:00:00,Shrewsbury,Doncaster,1,0
-E2,2020-02-22,1900-01-01 15:00:00,Southend,Burton,2,3
-E2,2020-02-22,1900-01-01 15:00:00,Sunderland,Bristol Rvs,3,0
-E2,2020-02-22,1900-01-01 15:00:00,Wycombe,Tranmere,3,1
-E2,2020-02-25,1900-01-01 19:45:00,Blackpool,Bolton,2,1
-E2,2020-02-25,1900-01-01 19:45:00,Coventry,Rotherham,1,1
-E2,2020-02-25,1900-01-01 19:45:00,Oxford,Accrington,3,0
-E2,2020-02-25,1900-01-01 19:45:00,Portsmouth,Milton Keynes Dons,3,1
-E2,2020-02-25,1900-01-01 19:45:00,Shrewsbury,Tranmere,2,3
-E2,2020-02-25,1900-01-01 19:45:00,Sunderland,Fleetwood Town,1,1
-E2,2020-02-28,1900-01-01 19:45:00,Portsmouth,Rochdale,3,0
-E2,2020-02-29,1900-01-01 15:00:00,Blackpool,Ipswich,2,1
-E2,2020-02-29,1900-01-01 15:00:00,Bolton,Accrington,0,0
-E2,2020-02-29,1900-01-01 15:00:00,Bristol Rvs,Shrewsbury,0,1
-E2,2020-02-29,1900-01-01 15:00:00,Burton,Peterboro,1,1
-E2,2020-02-29,1900-01-01 15:00:00,Doncaster,Wycombe,3,1
-E2,2020-02-29,1900-01-01 15:00:00,Gillingham,AFC Wimbledon,1,2
-E2,2020-02-29,1900-01-01 15:00:00,Oxford,Southend,2,1
-E2,2020-02-29,1900-01-01 15:00:00,Rotherham,Milton Keynes Dons,1,1
-E2,2020-03-01,1900-01-01 12:00:00,Coventry,Sunderland,1,0
-E2,2020-03-03,1900-01-01 19:45:00,Ipswich,Fleetwood Town,0,1
-E2,2020-03-07,1900-01-01 15:00:00,Accrington,Tranmere,1,2
-E2,2020-03-07,1900-01-01 15:00:00,AFC Wimbledon,Bolton,0,0
-E2,2020-03-07,1900-01-01 15:00:00,Fleetwood Town,Blackpool,0,0
-E2,2020-03-07,1900-01-01 15:00:00,Ipswich,Coventry,0,1
-E2,2020-03-07,1900-01-01 15:00:00,Lincoln,Burton,3,2
-E2,2020-03-07,1900-01-01 15:00:00,Milton Keynes Dons,Doncaster,0,1
-E2,2020-03-07,1900-01-01 15:00:00,Peterboro,Portsmouth,2,0
-E2,2020-03-07,1900-01-01 15:00:00,Rochdale,Rotherham,3,1
-E2,2020-03-07,1900-01-01 15:00:00,Shrewsbury,Oxford,2,3
-E2,2020-03-07,1900-01-01 15:00:00,Southend,Bristol Rvs,3,1
-E2,2020-03-07,1900-01-01 15:00:00,Sunderland,Gillingham,2,2
-E2,2020-03-10,1900-01-01 19:45:00,Blackpool,Tranmere,1,2
-E2,2020-03-10,1900-01-01 19:45:00,Bristol Rvs,Sunderland,2,0
-E2,2020-03-10,1900-01-01 19:45:00,Burton,Bolton,2,2
-E2,2020-03-10,1900-01-01 19:45:00,Portsmouth,Fleetwood Town,2,2
+E0,2019-08-09,20:00:00,Liverpool,Norwich,4,1
+E0,2019-08-10,12:30:00,West Ham,Man City,0,5
+E0,2019-08-10,15:00:00,Bournemouth,Sheffield United,1,1
+E0,2019-08-10,15:00:00,Burnley,Southampton,3,0
+E0,2019-08-10,15:00:00,Crystal Palace,Everton,0,0
+E0,2019-08-10,15:00:00,Watford,Brighton,0,3
+E0,2019-08-10,17:30:00,Tottenham,Aston Villa,3,1
+E0,2019-08-11,14:00:00,Leicester,Wolves,0,0
+E0,2019-08-11,14:00:00,Newcastle,Arsenal,0,1
+E0,2019-08-11,16:30:00,Man United,Chelsea,4,0
+E0,2019-08-17,12:30:00,Arsenal,Burnley,2,1
+E0,2019-08-17,15:00:00,Aston Villa,Bournemouth,1,2
+E0,2019-08-17,15:00:00,Brighton,West Ham,1,1
+E0,2019-08-17,15:00:00,Everton,Watford,1,0
+E0,2019-08-17,15:00:00,Norwich,Newcastle,3,1
+E0,2019-08-17,15:00:00,Southampton,Liverpool,1,2
+E0,2019-08-17,17:30:00,Man City,Tottenham,2,2
+E0,2019-08-18,14:00:00,Sheffield United,Crystal Palace,1,0
+E0,2019-08-18,16:30:00,Chelsea,Leicester,1,1
+E0,2019-08-19,20:00:00,Wolves,Man United,1,1
+E0,2019-08-23,20:00:00,Aston Villa,Everton,2,0
+E0,2019-08-24,12:30:00,Norwich,Chelsea,2,3
+E0,2019-08-24,15:00:00,Brighton,Southampton,0,2
+E0,2019-08-24,15:00:00,Man United,Crystal Palace,1,2
+E0,2019-08-24,15:00:00,Sheffield United,Leicester,1,2
+E0,2019-08-24,15:00:00,Watford,West Ham,1,3
+E0,2019-08-24,17:30:00,Liverpool,Arsenal,3,1
+E0,2019-08-25,14:00:00,Bournemouth,Man City,1,3
+E0,2019-08-25,16:30:00,Tottenham,Newcastle,0,1
+E0,2019-08-25,16:30:00,Wolves,Burnley,1,1
+E0,2019-08-31,12:30:00,Southampton,Man United,1,1
+E0,2019-08-31,15:00:00,Chelsea,Sheffield United,2,2
+E0,2019-08-31,15:00:00,Crystal Palace,Aston Villa,1,0
+E0,2019-08-31,15:00:00,Leicester,Bournemouth,3,1
+E0,2019-08-31,15:00:00,Man City,Brighton,4,0
+E0,2019-08-31,15:00:00,Newcastle,Watford,1,1
+E0,2019-08-31,15:00:00,West Ham,Norwich,2,0
+E0,2019-08-31,17:30:00,Burnley,Liverpool,0,3
+E0,2019-09-01,14:00:00,Everton,Wolves,3,2
+E0,2019-09-01,16:30:00,Arsenal,Tottenham,2,2
+E0,2019-09-14,12:30:00,Liverpool,Newcastle,3,1
+E0,2019-09-14,15:00:00,Brighton,Burnley,1,1
+E0,2019-09-14,15:00:00,Man United,Leicester,1,0
+E0,2019-09-14,15:00:00,Sheffield United,Southampton,0,1
+E0,2019-09-14,15:00:00,Tottenham,Crystal Palace,4,0
+E0,2019-09-14,15:00:00,Wolves,Chelsea,2,5
+E0,2019-09-14,17:30:00,Norwich,Man City,3,2
+E0,2019-09-15,14:00:00,Bournemouth,Everton,3,1
+E0,2019-09-15,16:30:00,Watford,Arsenal,2,2
+E0,2019-09-16,20:00:00,Aston Villa,West Ham,0,0
+E0,2019-09-20,20:00:00,Southampton,Bournemouth,1,3
+E0,2019-09-21,12:30:00,Leicester,Tottenham,2,1
+E0,2019-09-21,15:00:00,Burnley,Norwich,2,0
+E0,2019-09-21,15:00:00,Everton,Sheffield United,0,2
+E0,2019-09-21,15:00:00,Man City,Watford,8,0
+E0,2019-09-21,17:30:00,Newcastle,Brighton,0,0
+E0,2019-09-22,14:00:00,Crystal Palace,Wolves,1,1
+E0,2019-09-22,14:00:00,West Ham,Man United,2,0
+E0,2019-09-22,16:30:00,Arsenal,Aston Villa,3,2
+E0,2019-09-22,16:30:00,Chelsea,Liverpool,1,2
+E0,2019-09-28,12:30:00,Sheffield United,Liverpool,0,1
+E0,2019-09-28,15:00:00,Aston Villa,Burnley,2,2
+E0,2019-09-28,15:00:00,Bournemouth,West Ham,2,2
+E0,2019-09-28,15:00:00,Chelsea,Brighton,2,0
+E0,2019-09-28,15:00:00,Crystal Palace,Norwich,2,0
+E0,2019-09-28,15:00:00,Tottenham,Southampton,2,1
+E0,2019-09-28,15:00:00,Wolves,Watford,2,0
+E0,2019-09-28,17:30:00,Everton,Man City,1,3
+E0,2019-09-29,16:30:00,Leicester,Newcastle,5,0
+E0,2019-09-30,20:00:00,Man United,Arsenal,1,1
+E0,2019-10-05,12:30:00,Brighton,Tottenham,3,0
+E0,2019-10-05,15:00:00,Burnley,Everton,1,0
+E0,2019-10-05,15:00:00,Liverpool,Leicester,2,1
+E0,2019-10-05,15:00:00,Norwich,Aston Villa,1,5
+E0,2019-10-05,15:00:00,Watford,Sheffield United,0,0
+E0,2019-10-05,17:30:00,West Ham,Crystal Palace,1,2
+E0,2019-10-06,14:00:00,Arsenal,Bournemouth,1,0
+E0,2019-10-06,14:00:00,Man City,Wolves,0,2
+E0,2019-10-06,14:00:00,Southampton,Chelsea,1,4
+E0,2019-10-06,16:30:00,Newcastle,Man United,1,0
+E0,2019-10-19,12:30:00,Everton,West Ham,2,0
+E0,2019-10-19,15:00:00,Aston Villa,Brighton,2,1
+E0,2019-10-19,15:00:00,Bournemouth,Norwich,0,0
+E0,2019-10-19,15:00:00,Chelsea,Newcastle,1,0
+E0,2019-10-19,15:00:00,Leicester,Burnley,2,1
+E0,2019-10-19,15:00:00,Tottenham,Watford,1,1
+E0,2019-10-19,15:00:00,Wolves,Southampton,1,1
+E0,2019-10-19,17:30:00,Crystal Palace,Man City,0,2
+E0,2019-10-20,16:30:00,Man United,Liverpool,1,1
+E0,2019-10-21,20:00:00,Sheffield United,Arsenal,1,0
+E0,2019-10-25,20:00:00,Southampton,Leicester,0,9
+E0,2019-10-26,12:30:00,Man City,Aston Villa,3,0
+E0,2019-10-26,15:00:00,Brighton,Everton,3,2
+E0,2019-10-26,15:00:00,Watford,Bournemouth,0,0
+E0,2019-10-26,15:00:00,West Ham,Sheffield United,1,1
+E0,2019-10-26,17:30:00,Burnley,Chelsea,2,4
+E0,2019-10-27,14:00:00,Newcastle,Wolves,1,1
+E0,2019-10-27,16:30:00,Arsenal,Crystal Palace,2,2
+E0,2019-10-27,16:30:00,Liverpool,Tottenham,2,1
+E0,2019-10-27,16:30:00,Norwich,Man United,1,3
+E0,2019-11-02,12:30:00,Bournemouth,Man United,1,0
+E0,2019-11-02,15:00:00,Arsenal,Wolves,1,1
+E0,2019-11-02,15:00:00,Aston Villa,Liverpool,1,2
+E0,2019-11-02,15:00:00,Brighton,Norwich,2,0
+E0,2019-11-02,15:00:00,Man City,Southampton,2,1
+E0,2019-11-02,15:00:00,Sheffield United,Burnley,3,0
+E0,2019-11-02,15:00:00,West Ham,Newcastle,2,3
+E0,2019-11-02,17:30:00,Watford,Chelsea,1,2
+E0,2019-11-03,14:00:00,Crystal Palace,Leicester,0,2
+E0,2019-11-03,16:30:00,Everton,Tottenham,1,1
+E0,2019-11-08,20:00:00,Norwich,Watford,0,2
+E0,2019-11-09,12:30:00,Chelsea,Crystal Palace,2,0
+E0,2019-11-09,15:00:00,Burnley,West Ham,3,0
+E0,2019-11-09,15:00:00,Newcastle,Bournemouth,2,1
+E0,2019-11-09,15:00:00,Southampton,Everton,1,2
+E0,2019-11-09,15:00:00,Tottenham,Sheffield United,1,1
+E0,2019-11-09,17:30:00,Leicester,Arsenal,2,0
+E0,2019-11-10,14:00:00,Man United,Brighton,3,1
+E0,2019-11-10,14:00:00,Wolves,Aston Villa,2,1
+E0,2019-11-10,16:30:00,Liverpool,Man City,3,1
+E0,2019-11-23,12:30:00,West Ham,Tottenham,2,3
+E0,2019-11-23,15:00:00,Arsenal,Southampton,2,2
+E0,2019-11-23,15:00:00,Bournemouth,Wolves,1,2
+E0,2019-11-23,15:00:00,Brighton,Leicester,0,2
+E0,2019-11-23,15:00:00,Crystal Palace,Liverpool,1,2
+E0,2019-11-23,15:00:00,Everton,Norwich,0,2
+E0,2019-11-23,15:00:00,Watford,Burnley,0,3
+E0,2019-11-23,17:30:00,Man City,Chelsea,2,1
+E0,2019-11-24,16:30:00,Sheffield United,Man United,3,3
+E0,2019-11-25,20:00:00,Aston Villa,Newcastle,2,0
+E0,2019-11-30,12:30:00,Newcastle,Man City,2,2
+E0,2019-11-30,15:00:00,Burnley,Crystal Palace,0,2
+E0,2019-11-30,15:00:00,Chelsea,West Ham,0,1
+E0,2019-11-30,15:00:00,Liverpool,Brighton,2,1
+E0,2019-11-30,15:00:00,Tottenham,Bournemouth,3,2
+E0,2019-11-30,17:30:00,Southampton,Watford,2,1
+E0,2019-12-01,14:00:00,Norwich,Arsenal,2,2
+E0,2019-12-01,14:00:00,Wolves,Sheffield United,1,1
+E0,2019-12-01,16:30:00,Leicester,Everton,2,1
+E0,2019-12-01,16:30:00,Man United,Aston Villa,2,2
+E0,2019-12-03,19:30:00,Crystal Palace,Bournemouth,1,0
+E0,2019-12-03,20:15:00,Burnley,Man City,1,4
+E0,2019-12-04,19:30:00,Chelsea,Aston Villa,2,1
+E0,2019-12-04,19:30:00,Leicester,Watford,2,0
+E0,2019-12-04,19:30:00,Man United,Tottenham,2,1
+E0,2019-12-04,19:30:00,Southampton,Norwich,2,1
+E0,2019-12-04,19:30:00,Wolves,West Ham,2,0
+E0,2019-12-04,20:15:00,Liverpool,Everton,5,2
+E0,2019-12-05,19:30:00,Sheffield United,Newcastle,0,2
+E0,2019-12-05,20:15:00,Arsenal,Brighton,1,2
+E0,2019-12-07,12:30:00,Everton,Chelsea,3,1
+E0,2019-12-07,15:00:00,Bournemouth,Liverpool,0,3
+E0,2019-12-07,15:00:00,Tottenham,Burnley,5,0
+E0,2019-12-07,15:00:00,Watford,Crystal Palace,0,0
+E0,2019-12-07,17:30:00,Man City,Man United,1,2
+E0,2019-12-08,14:00:00,Aston Villa,Leicester,1,4
+E0,2019-12-08,14:00:00,Newcastle,Southampton,2,1
+E0,2019-12-08,14:00:00,Norwich,Sheffield United,1,2
+E0,2019-12-08,16:30:00,Brighton,Wolves,2,2
+E0,2019-12-09,20:00:00,West Ham,Arsenal,1,3
+E0,2019-12-14,12:30:00,Liverpool,Watford,2,0
+E0,2019-12-14,15:00:00,Burnley,Newcastle,1,0
+E0,2019-12-14,15:00:00,Chelsea,Bournemouth,0,1
+E0,2019-12-14,15:00:00,Leicester,Norwich,1,1
+E0,2019-12-14,15:00:00,Sheffield United,Aston Villa,2,0
+E0,2019-12-14,17:30:00,Southampton,West Ham,0,1
+E0,2019-12-15,14:00:00,Man United,Everton,1,1
+E0,2019-12-15,14:00:00,Wolves,Tottenham,1,2
+E0,2019-12-15,16:30:00,Arsenal,Man City,0,3
+E0,2019-12-16,19:45:00,Crystal Palace,Brighton,1,1
+E0,2019-12-21,12:30:00,Everton,Arsenal,0,0
+E0,2019-12-21,15:00:00,Aston Villa,Southampton,1,3
+E0,2019-12-21,15:00:00,Bournemouth,Burnley,0,1
+E0,2019-12-21,15:00:00,Brighton,Sheffield United,0,1
+E0,2019-12-21,15:00:00,Newcastle,Crystal Palace,1,0
+E0,2019-12-21,15:00:00,Norwich,Wolves,1,2
+E0,2019-12-21,17:30:00,Man City,Leicester,3,1
+E0,2019-12-22,14:00:00,Watford,Man United,2,0
+E0,2019-12-22,16:30:00,Tottenham,Chelsea,0,2
+E0,2019-12-26,12:30:00,Tottenham,Brighton,2,1
+E0,2019-12-26,15:00:00,Aston Villa,Norwich,1,0
+E0,2019-12-26,15:00:00,Bournemouth,Arsenal,1,1
+E0,2019-12-26,15:00:00,Chelsea,Southampton,0,2
+E0,2019-12-26,15:00:00,Crystal Palace,West Ham,2,1
+E0,2019-12-26,15:00:00,Everton,Burnley,1,0
+E0,2019-12-26,15:00:00,Sheffield United,Watford,1,1
+E0,2019-12-26,17:30:00,Man United,Newcastle,4,1
+E0,2019-12-26,20:00:00,Leicester,Liverpool,0,4
+E0,2019-12-27,19:45:00,Wolves,Man City,3,2
+E0,2019-12-28,12:30:00,Brighton,Bournemouth,2,0
+E0,2019-12-28,15:00:00,Newcastle,Everton,1,2
+E0,2019-12-28,15:00:00,Southampton,Crystal Palace,1,1
+E0,2019-12-28,15:00:00,Watford,Aston Villa,3,0
+E0,2019-12-28,17:30:00,Norwich,Tottenham,2,2
+E0,2019-12-28,17:30:00,West Ham,Leicester,1,2
+E0,2019-12-28,19:45:00,Burnley,Man United,0,2
+E0,2019-12-29,14:00:00,Arsenal,Chelsea,1,2
+E0,2019-12-29,16:30:00,Liverpool,Wolves,1,0
+E0,2019-12-29,18:00:00,Man City,Sheffield United,2,0
+E0,2020-01-01,12:30:00,Brighton,Chelsea,1,1
+E0,2020-01-01,12:30:00,Burnley,Aston Villa,1,2
+E0,2020-01-01,15:00:00,Newcastle,Leicester,0,3
+E0,2020-01-01,15:00:00,Southampton,Tottenham,1,0
+E0,2020-01-01,15:00:00,Watford,Wolves,2,1
+E0,2020-01-01,17:30:00,Man City,Everton,2,1
+E0,2020-01-01,17:30:00,Norwich,Crystal Palace,1,1
+E0,2020-01-01,17:30:00,West Ham,Bournemouth,4,0
+E0,2020-01-01,20:00:00,Arsenal,Man United,2,0
+E0,2020-01-02,20:00:00,Liverpool,Sheffield United,2,0
+E0,2020-01-10,20:00:00,Sheffield United,West Ham,1,0
+E0,2020-01-11,12:30:00,Crystal Palace,Arsenal,1,1
+E0,2020-01-11,15:00:00,Chelsea,Burnley,3,0
+E0,2020-01-11,15:00:00,Everton,Brighton,1,0
+E0,2020-01-11,15:00:00,Leicester,Southampton,1,2
+E0,2020-01-11,15:00:00,Man United,Norwich,4,0
+E0,2020-01-11,15:00:00,Wolves,Newcastle,1,1
+E0,2020-01-11,17:30:00,Tottenham,Liverpool,0,1
+E0,2020-01-12,14:00:00,Bournemouth,Watford,0,3
+E0,2020-01-12,16:30:00,Aston Villa,Man City,1,6
+E0,2020-01-18,12:30:00,Watford,Tottenham,0,0
+E0,2020-01-18,15:00:00,Arsenal,Sheffield United,1,1
+E0,2020-01-18,15:00:00,Brighton,Aston Villa,1,1
+E0,2020-01-18,15:00:00,Man City,Crystal Palace,2,2
+E0,2020-01-18,15:00:00,Norwich,Bournemouth,1,0
+E0,2020-01-18,15:00:00,Southampton,Wolves,2,3
+E0,2020-01-18,15:00:00,West Ham,Everton,1,1
+E0,2020-01-18,17:30:00,Newcastle,Chelsea,1,0
+E0,2020-01-19,14:00:00,Burnley,Leicester,2,1
+E0,2020-01-19,16:30:00,Liverpool,Man United,2,0
+E0,2020-01-21,19:30:00,Aston Villa,Watford,2,1
+E0,2020-01-21,19:30:00,Bournemouth,Brighton,3,1
+E0,2020-01-21,19:30:00,Crystal Palace,Southampton,0,2
+E0,2020-01-21,19:30:00,Everton,Newcastle,2,2
+E0,2020-01-21,19:30:00,Sheffield United,Man City,0,1
+E0,2020-01-21,20:15:00,Chelsea,Arsenal,2,2
+E0,2020-01-22,19:30:00,Leicester,West Ham,4,1
+E0,2020-01-22,19:30:00,Tottenham,Norwich,2,1
+E0,2020-01-22,20:15:00,Man United,Burnley,0,2
+E0,2020-01-23,20:00:00,Wolves,Liverpool,1,2
+E0,2020-01-29,19:45:00,West Ham,Liverpool,0,2
+E0,2020-02-01,12:30:00,Leicester,Chelsea,2,2
+E0,2020-02-01,15:00:00,Bournemouth,Aston Villa,2,1
+E0,2020-02-01,15:00:00,Crystal Palace,Sheffield United,0,1
+E0,2020-02-01,15:00:00,Liverpool,Southampton,4,0
+E0,2020-02-01,15:00:00,Newcastle,Norwich,0,0
+E0,2020-02-01,15:00:00,Watford,Everton,2,3
+E0,2020-02-01,15:00:00,West Ham,Brighton,3,3
+E0,2020-02-01,17:30:00,Man United,Wolves,0,0
+E0,2020-02-02,14:00:00,Burnley,Arsenal,0,0
+E0,2020-02-02,16:30:00,Tottenham,Man City,2,0
+E0,2020-02-08,12:30:00,Everton,Crystal Palace,3,1
+E0,2020-02-08,17:30:00,Brighton,Watford,1,1
+E0,2020-02-09,14:00:00,Sheffield United,Bournemouth,2,1
+E0,2020-02-14,20:00:00,Wolves,Leicester,0,0
+E0,2020-02-15,12:30:00,Southampton,Burnley,1,2
+E0,2020-02-15,17:30:00,Norwich,Liverpool,0,1
+E0,2020-02-16,14:00:00,Aston Villa,Tottenham,2,3
+E0,2020-02-16,16:30:00,Arsenal,Newcastle,4,0
+E0,2020-02-17,20:00:00,Chelsea,Man United,0,2
+E0,2020-02-19,19:30:00,Man City,West Ham,2,0
+E0,2020-02-22,12:30:00,Chelsea,Tottenham,2,1
+E0,2020-02-22,15:00:00,Burnley,Bournemouth,3,0
+E0,2020-02-22,15:00:00,Crystal Palace,Newcastle,1,0
+E0,2020-02-22,15:00:00,Sheffield United,Brighton,1,1
+E0,2020-02-22,15:00:00,Southampton,Aston Villa,2,0
+E0,2020-02-22,17:30:00,Leicester,Man City,0,1
+E0,2020-02-23,14:00:00,Man United,Watford,3,0
+E0,2020-02-23,14:00:00,Wolves,Norwich,3,0
+E0,2020-02-23,16:30:00,Arsenal,Everton,3,2
+E0,2020-02-24,20:00:00,Liverpool,West Ham,3,2
+E0,2020-02-28,20:00:00,Norwich,Leicester,1,0
+E0,2020-02-29,12:30:00,Brighton,Crystal Palace,0,1
+E0,2020-02-29,15:00:00,Bournemouth,Chelsea,2,2
+E0,2020-02-29,15:00:00,Newcastle,Burnley,0,0
+E0,2020-02-29,15:00:00,West Ham,Southampton,3,1
+E0,2020-02-29,17:30:00,Watford,Liverpool,3,0
+E0,2020-03-01,14:00:00,Everton,Man United,1,1
+E0,2020-03-01,14:00:00,Tottenham,Wolves,2,3
+E0,2020-03-07,12:30:00,Liverpool,Bournemouth,2,1
+E0,2020-03-07,15:00:00,Arsenal,West Ham,1,0
+E0,2020-03-07,15:00:00,Crystal Palace,Watford,1,0
+E0,2020-03-07,15:00:00,Sheffield United,Norwich,1,0
+E0,2020-03-07,15:00:00,Southampton,Newcastle,0,1
+E0,2020-03-07,15:00:00,Wolves,Brighton,0,0
+E0,2020-03-07,17:30:00,Burnley,Tottenham,1,1
+E0,2020-03-08,14:00:00,Chelsea,Everton,4,0
+E0,2020-03-08,16:30:00,Man United,Man City,2,0
+E0,2020-03-09,20:00:00,Leicester,Aston Villa,4,0
+E0,2020-06-17,18:00:00,Aston Villa,Sheffield United,0,0
+E0,2020-06-17,20:15:00,Man City,Arsenal,3,0
+E0,2020-06-19,18:00:00,Norwich,Southampton,0,3
+E0,2020-06-19,20:15:00,Tottenham,Man United,1,1
+E0,2020-06-20,12:30:00,Watford,Leicester,1,1
+E0,2020-06-20,15:00:00,Brighton,Arsenal,2,1
+E0,2020-06-20,17:30:00,West Ham,Wolves,0,2
+E0,2020-06-20,19:45:00,Bournemouth,Crystal Palace,0,2
+E0,2020-06-21,14:00:00,Newcastle,Sheffield United,3,0
+E0,2020-06-21,16:15:00,Aston Villa,Chelsea,1,2
+E0,2020-06-21,19:00:00,Everton,Liverpool,0,0
+E0,2020-06-22,20:00:00,Man City,Burnley,5,0
+E0,2020-06-23,18:00:00,Leicester,Brighton,0,0
+E0,2020-06-23,20:15:00,Tottenham,West Ham,2,0
+E0,2020-06-24,18:00:00,Man United,Sheffield United,3,0
+E0,2020-06-24,18:00:00,Newcastle,Aston Villa,1,1
+E0,2020-06-24,18:00:00,Norwich,Everton,0,1
+E0,2020-06-24,18:00:00,Wolves,Bournemouth,1,0
+E0,2020-06-24,20:15:00,Liverpool,Crystal Palace,4,0
+E0,2020-06-25,18:00:00,Burnley,Watford,1,0
+E0,2020-06-25,18:00:00,Southampton,Arsenal,0,2
+E0,2020-06-25,20:15:00,Chelsea,Man City,2,1
+E0,2020-06-27,12:30:00,Aston Villa,Wolves,0,1
+E0,2020-06-28,16:30:00,Watford,Southampton,1,3
+E0,2020-06-29,20:00:00,Crystal Palace,Burnley,0,1
+E0,2020-06-30,20:15:00,Brighton,Man United,0,3
+E0,2020-07-01,18:00:00,Arsenal,Norwich,4,0
+E0,2020-07-01,18:00:00,Bournemouth,Newcastle,1,4
+E0,2020-07-01,18:00:00,Everton,Leicester,2,1
+E0,2020-07-01,20:15:00,West Ham,Chelsea,3,2
+E0,2020-07-02,18:00:00,Sheffield United,Tottenham,3,1
+E0,2020-07-02,20:15:00,Man City,Liverpool,4,0
+E0,2020-07-04,12:30:00,Norwich,Brighton,0,1
+E0,2020-07-04,15:00:00,Leicester,Crystal Palace,3,0
+E0,2020-07-04,15:00:00,Man United,Bournemouth,5,2
+E0,2020-07-04,17:30:00,Wolves,Arsenal,0,2
+E0,2020-07-04,20:00:00,Chelsea,Watford,3,0
+E0,2020-07-05,12:00:00,Burnley,Sheffield United,1,1
+E0,2020-07-05,14:15:00,Newcastle,West Ham,2,2
+E0,2020-07-05,16:30:00,Liverpool,Aston Villa,2,0
+E0,2020-07-05,19:00:00,Southampton,Man City,1,0
+E0,2020-07-06,20:00:00,Tottenham,Everton,1,0
+E0,2020-07-07,18:00:00,Crystal Palace,Chelsea,2,3
+E0,2020-07-07,18:00:00,Watford,Norwich,2,1
+E0,2020-07-07,20:15:00,Arsenal,Leicester,1,1
+E0,2020-07-08,18:00:00,Man City,Newcastle,5,0
+E0,2020-07-08,18:00:00,Sheffield United,Wolves,1,0
+E0,2020-07-08,18:00:00,West Ham,Burnley,0,1
+E0,2020-07-08,20:15:00,Brighton,Liverpool,1,3
+E0,2020-07-09,18:00:00,Bournemouth,Tottenham,0,0
+E0,2020-07-09,18:00:00,Everton,Southampton,1,1
+E0,2020-07-09,20:15:00,Aston Villa,Man United,0,3
+E0,2020-07-11,12:30:00,Norwich,West Ham,0,4
+E0,2020-07-11,12:30:00,Watford,Newcastle,2,1
+E0,2020-07-11,15:00:00,Liverpool,Burnley,1,1
+E0,2020-07-11,17:30:00,Sheffield United,Chelsea,3,0
+E0,2020-07-11,20:00:00,Brighton,Man City,0,5
+E0,2020-07-12,12:00:00,Wolves,Everton,3,0
+E0,2020-07-12,14:15:00,Aston Villa,Crystal Palace,2,0
+E0,2020-07-12,16:30:00,Tottenham,Arsenal,2,1
+E0,2020-07-12,19:00:00,Bournemouth,Leicester,4,1
+E0,2020-07-13,20:00:00,Man United,Southampton,2,2
+E0,2020-07-14,20:15:00,Chelsea,Norwich,1,0
+E0,2020-07-15,18:00:00,Burnley,Wolves,1,1
+E0,2020-07-15,18:00:00,Man City,Bournemouth,2,1
+E0,2020-07-15,18:00:00,Newcastle,Tottenham,1,3
+E0,2020-07-15,20:15:00,Arsenal,Liverpool,2,1
+E0,2020-07-16,18:00:00,Everton,Aston Villa,1,1
+E0,2020-07-16,18:00:00,Leicester,Sheffield United,2,0
+E0,2020-07-16,20:15:00,Crystal Palace,Man United,0,2
+E0,2020-07-16,20:15:00,Southampton,Brighton,1,1
+E0,2020-07-17,20:00:00,West Ham,Watford,3,1
+E0,2020-07-18,17:30:00,Norwich,Burnley,0,2
+E0,2020-07-19,14:00:00,Bournemouth,Southampton,0,2
+E0,2020-07-19,16:00:00,Tottenham,Leicester,3,0
+E0,2020-07-20,18:00:00,Brighton,Newcastle,0,0
+E0,2020-07-20,18:00:00,Sheffield United,Everton,0,1
+E0,2020-07-20,20:15:00,Wolves,Crystal Palace,2,0
+E0,2020-07-21,18:00:00,Watford,Man City,0,4
+E0,2020-07-21,20:15:00,Aston Villa,Arsenal,1,0
+E0,2020-07-22,18:00:00,Man United,West Ham,1,1
+E0,2020-07-22,20:15:00,Liverpool,Chelsea,5,3
+E0,2020-07-26,16:00:00,Arsenal,Watford,3,2
+E0,2020-07-26,16:00:00,Burnley,Brighton,1,2
+E0,2020-07-26,16:00:00,Chelsea,Wolves,2,0
+E0,2020-07-26,16:00:00,Crystal Palace,Tottenham,1,1
+E0,2020-07-26,16:00:00,Everton,Bournemouth,1,3
+E0,2020-07-26,16:00:00,Leicester,Man United,0,2
+E0,2020-07-26,16:00:00,Man City,Norwich,5,0
+E0,2020-07-26,16:00:00,Newcastle,Liverpool,1,3
+E0,2020-07-26,16:00:00,Southampton,Sheffield United,3,1
+E0,2020-07-26,16:00:00,West Ham,Aston Villa,1,1
+E1,2019-08-02,19:45:00,Luton,Middlesbrough,3,3
+E1,2019-08-03,15:00:00,Barnsley,Fulham,1,0
+E1,2019-08-03,15:00:00,Blackburn,Charlton,1,2
+E1,2019-08-03,15:00:00,Brentford,Birmingham,0,1
+E1,2019-08-03,15:00:00,Millwall,Preston,1,0
+E1,2019-08-03,15:00:00,Reading,Sheffield Weds,1,3
+E1,2019-08-03,15:00:00,Stoke,QPR,1,2
+E1,2019-08-03,15:00:00,Swansea,Hull,2,1
+E1,2019-08-03,15:00:00,Wigan,Cardiff,3,2
+E1,2019-08-03,17:30:00,Nott'm Forest,West Brom,1,2
+E1,2019-08-04,16:30:00,Bristol City,Leeds,1,3
+E1,2019-08-05,19:45:00,Huddersfield,Derby,1,2
+E1,2019-08-10,12:30:00,Leeds,Nott'm Forest,1,1
+E1,2019-08-10,15:00:00,Birmingham,Bristol City,1,1
+E1,2019-08-10,15:00:00,Cardiff,Luton,2,1
+E1,2019-08-10,15:00:00,Charlton,Stoke,3,1
+E1,2019-08-10,15:00:00,Derby,Swansea,0,0
+E1,2019-08-10,15:00:00,Fulham,Blackburn,2,0
+E1,2019-08-10,15:00:00,Hull,Reading,2,1
+E1,2019-08-10,15:00:00,Middlesbrough,Brentford,0,1
+E1,2019-08-10,15:00:00,Preston,Wigan,3,0
+E1,2019-08-10,15:00:00,QPR,Huddersfield,1,1
+E1,2019-08-10,15:00:00,Sheffield Weds,Barnsley,2,0
+E1,2019-08-10,15:00:00,West Brom,Millwall,1,1
+E1,2019-08-16,19:45:00,Huddersfield,Fulham,1,2
+E1,2019-08-17,15:00:00,Barnsley,Charlton,2,2
+E1,2019-08-17,15:00:00,Blackburn,Middlesbrough,1,0
+E1,2019-08-17,15:00:00,Brentford,Hull,1,1
+E1,2019-08-17,15:00:00,Bristol City,QPR,2,0
+E1,2019-08-17,15:00:00,Luton,West Brom,1,2
+E1,2019-08-17,15:00:00,Millwall,Sheffield Weds,1,0
+E1,2019-08-17,15:00:00,Nott'm Forest,Birmingham,3,0
+E1,2019-08-17,15:00:00,Stoke,Derby,2,2
+E1,2019-08-17,15:00:00,Swansea,Preston,3,2
+E1,2019-08-17,15:00:00,Wigan,Leeds,0,2
+E1,2019-08-18,12:00:00,Reading,Cardiff,3,0
+E1,2019-08-20,19:45:00,Birmingham,Barnsley,2,0
+E1,2019-08-20,19:45:00,Derby,Bristol City,1,2
+E1,2019-08-20,19:45:00,Hull,Blackburn,0,1
+E1,2019-08-20,19:45:00,Middlesbrough,Wigan,1,0
+E1,2019-08-20,19:45:00,Sheffield Weds,Luton,1,0
+E1,2019-08-21,19:45:00,Cardiff,Huddersfield,2,1
+E1,2019-08-21,19:45:00,Charlton,Nott'm Forest,1,1
+E1,2019-08-21,19:45:00,Fulham,Millwall,4,0
+E1,2019-08-21,19:45:00,Leeds,Brentford,1,0
+E1,2019-08-21,19:45:00,Preston,Stoke,3,1
+E1,2019-08-21,19:45:00,QPR,Swansea,1,3
+E1,2019-08-21,20:00:00,West Brom,Reading,1,1
+E1,2019-08-24,12:30:00,Derby,West Brom,1,1
+E1,2019-08-24,15:00:00,Barnsley,Luton,1,3
+E1,2019-08-24,15:00:00,Blackburn,Cardiff,0,0
+E1,2019-08-24,15:00:00,Charlton,Brentford,1,0
+E1,2019-08-24,15:00:00,Fulham,Nott'm Forest,1,2
+E1,2019-08-24,15:00:00,Huddersfield,Reading,0,2
+E1,2019-08-24,15:00:00,Hull,Bristol City,1,3
+E1,2019-08-24,15:00:00,Middlesbrough,Millwall,1,1
+E1,2019-08-24,15:00:00,Preston,Sheffield Weds,2,1
+E1,2019-08-24,15:00:00,QPR,Wigan,3,1
+E1,2019-08-24,15:00:00,Stoke,Leeds,0,3
+E1,2019-08-25,12:00:00,Swansea,Birmingham,3,0
+E1,2019-08-30,19:45:00,Cardiff,Fulham,1,1
+E1,2019-08-31,12:30:00,Bristol City,Middlesbrough,2,2
+E1,2019-08-31,15:00:00,Birmingham,Stoke,2,1
+E1,2019-08-31,15:00:00,Brentford,Derby,3,0
+E1,2019-08-31,15:00:00,Leeds,Swansea,0,1
+E1,2019-08-31,15:00:00,Luton,Huddersfield,2,1
+E1,2019-08-31,15:00:00,Millwall,Hull,1,1
+E1,2019-08-31,15:00:00,Nott'm Forest,Preston,1,1
+E1,2019-08-31,15:00:00,Reading,Charlton,0,2
+E1,2019-08-31,15:00:00,Sheffield Weds,QPR,1,2
+E1,2019-08-31,15:00:00,West Brom,Blackburn,3,2
+E1,2019-08-31,15:00:00,Wigan,Barnsley,0,0
+E1,2019-09-13,19:45:00,Derby,Cardiff,1,1
+E1,2019-09-14,12:30:00,Fulham,West Brom,1,1
+E1,2019-09-14,15:00:00,Blackburn,Millwall,2,0
+E1,2019-09-14,15:00:00,Charlton,Birmingham,0,1
+E1,2019-09-14,15:00:00,Hull,Wigan,2,2
+E1,2019-09-14,15:00:00,Middlesbrough,Reading,1,0
+E1,2019-09-14,15:00:00,Preston,Brentford,2,0
+E1,2019-09-14,15:00:00,QPR,Luton,3,2
+E1,2019-09-14,15:00:00,Stoke,Bristol City,1,2
+E1,2019-09-14,15:00:00,Swansea,Nott'm Forest,0,1
+E1,2019-09-15,12:00:00,Huddersfield,Sheffield Weds,0,2
+E1,2019-09-15,12:30:00,Barnsley,Leeds,0,2
+E1,2019-09-21,12:30:00,Leeds,Derby,1,1
+E1,2019-09-21,15:00:00,Birmingham,Preston,0,1
+E1,2019-09-21,15:00:00,Brentford,Stoke,0,0
+E1,2019-09-21,15:00:00,Bristol City,Swansea,0,0
+E1,2019-09-21,15:00:00,Cardiff,Middlesbrough,1,0
+E1,2019-09-21,15:00:00,Luton,Hull,0,3
+E1,2019-09-21,15:00:00,Millwall,QPR,1,2
+E1,2019-09-21,15:00:00,Nott'm Forest,Barnsley,1,0
+E1,2019-09-21,15:00:00,Reading,Blackburn,1,2
+E1,2019-09-21,15:00:00,Sheffield Weds,Fulham,1,1
+E1,2019-09-21,15:00:00,Wigan,Charlton,2,0
+E1,2019-09-22,12:00:00,West Brom,Huddersfield,4,2
+E1,2019-09-27,19:45:00,Fulham,Wigan,2,0
+E1,2019-09-27,20:00:00,Stoke,Nott'm Forest,2,3
+E1,2019-09-28,12:30:00,QPR,West Brom,0,2
+E1,2019-09-28,15:00:00,Blackburn,Luton,1,2
+E1,2019-09-28,15:00:00,Charlton,Leeds,1,0
+E1,2019-09-28,15:00:00,Derby,Birmingham,3,2
+E1,2019-09-28,15:00:00,Huddersfield,Millwall,1,1
+E1,2019-09-28,15:00:00,Hull,Cardiff,2,2
+E1,2019-09-28,15:00:00,Middlesbrough,Sheffield Weds,1,4
+E1,2019-09-28,15:00:00,Preston,Bristol City,3,3
+E1,2019-09-28,15:00:00,Swansea,Reading,1,1
+E1,2019-09-29,13:30:00,Barnsley,Brentford,1,3
+E1,2019-10-01,19:45:00,Blackburn,Nott'm Forest,1,1
+E1,2019-10-01,19:45:00,Hull,Sheffield Weds,1,0
+E1,2019-10-01,19:45:00,Leeds,West Brom,1,0
+E1,2019-10-01,19:45:00,Middlesbrough,Preston,1,1
+E1,2019-10-01,19:45:00,Wigan,Birmingham,1,0
+E1,2019-10-01,20:00:00,Reading,Fulham,1,4
+E1,2019-10-01,20:00:00,Stoke,Huddersfield,0,1
+E1,2019-10-02,19:45:00,Barnsley,Derby,2,2
+E1,2019-10-02,19:45:00,Brentford,Bristol City,1,1
+E1,2019-10-02,19:45:00,Cardiff,QPR,3,0
+E1,2019-10-02,19:45:00,Charlton,Swansea,1,2
+E1,2019-10-02,19:45:00,Luton,Millwall,1,1
+E1,2019-10-04,19:45:00,Birmingham,Middlesbrough,2,1
+E1,2019-10-05,12:30:00,Fulham,Charlton,2,2
+E1,2019-10-05,15:00:00,Bristol City,Reading,1,0
+E1,2019-10-05,15:00:00,Derby,Luton,2,0
+E1,2019-10-05,15:00:00,Huddersfield,Hull,3,0
+E1,2019-10-05,15:00:00,Millwall,Leeds,2,1
+E1,2019-10-05,15:00:00,Nott'm Forest,Brentford,1,0
+E1,2019-10-05,15:00:00,Preston,Barnsley,5,1
+E1,2019-10-05,15:00:00,QPR,Blackburn,4,2
+E1,2019-10-05,15:00:00,Sheffield Weds,Wigan,1,0
+E1,2019-10-05,15:00:00,Swansea,Stoke,1,2
+E1,2019-10-05,15:00:00,West Brom,Cardiff,4,2
+E1,2019-10-18,19:45:00,Cardiff,Sheffield Weds,1,1
+E1,2019-10-19,12:30:00,Blackburn,Huddersfield,2,2
+E1,2019-10-19,15:00:00,Barnsley,Swansea,1,1
+E1,2019-10-19,15:00:00,Brentford,Millwall,3,2
+E1,2019-10-19,15:00:00,Charlton,Derby,3,0
+E1,2019-10-19,15:00:00,Hull,QPR,2,3
+E1,2019-10-19,15:00:00,Leeds,Birmingham,1,0
+E1,2019-10-19,15:00:00,Luton,Bristol City,3,0
+E1,2019-10-19,15:00:00,Middlesbrough,West Brom,0,1
+E1,2019-10-19,15:00:00,Reading,Preston,1,0
+E1,2019-10-19,15:00:00,Stoke,Fulham,2,0
+E1,2019-10-20,14:00:00,Wigan,Nott'm Forest,1,0
+E1,2019-10-22,19:45:00,Birmingham,Blackburn,1,0
+E1,2019-10-22,19:45:00,Millwall,Cardiff,2,2
+E1,2019-10-22,19:45:00,Preston,Leeds,1,1
+E1,2019-10-22,19:45:00,QPR,Reading,2,2
+E1,2019-10-22,19:45:00,Sheffield Weds,Stoke,1,0
+E1,2019-10-22,19:45:00,Swansea,Brentford,0,3
+E1,2019-10-22,20:00:00,West Brom,Barnsley,2,2
+E1,2019-10-23,19:45:00,Bristol City,Charlton,2,1
+E1,2019-10-23,19:45:00,Derby,Wigan,1,0
+E1,2019-10-23,19:45:00,Fulham,Luton,3,2
+E1,2019-10-23,19:45:00,Huddersfield,Middlesbrough,0,0
+E1,2019-10-23,19:45:00,Nott'm Forest,Hull,1,2
+E1,2019-10-26,12:30:00,Sheffield Weds,Leeds,0,0
+E1,2019-10-26,15:00:00,Birmingham,Luton,2,1
+E1,2019-10-26,15:00:00,Huddersfield,Barnsley,2,1
+E1,2019-10-26,15:00:00,Hull,Derby,2,0
+E1,2019-10-26,15:00:00,Middlesbrough,Fulham,0,0
+E1,2019-10-26,15:00:00,Millwall,Stoke,2,0
+E1,2019-10-26,15:00:00,Preston,Blackburn,3,2
+E1,2019-10-26,15:00:00,West Brom,Charlton,2,2
+E1,2019-10-27,12:00:00,Swansea,Cardiff,1,0
+E1,2019-10-27,13:30:00,Bristol City,Wigan,2,2
+E1,2019-10-28,19:45:00,QPR,Brentford,1,3
+E1,2019-11-01,19:45:00,Barnsley,Bristol City,2,2
+E1,2019-11-02,12:30:00,Wigan,Swansea,1,2
+E1,2019-11-02,15:00:00,Blackburn,Sheffield Weds,2,1
+E1,2019-11-02,15:00:00,Brentford,Huddersfield,0,1
+E1,2019-11-02,15:00:00,Cardiff,Birmingham,4,2
+E1,2019-11-02,15:00:00,Derby,Middlesbrough,2,0
+E1,2019-11-02,15:00:00,Fulham,Hull,0,3
+E1,2019-11-02,15:00:00,Leeds,QPR,2,0
+E1,2019-11-02,15:00:00,Luton,Nott'm Forest,1,2
+E1,2019-11-02,15:00:00,Reading,Millwall,2,1
+E1,2019-11-03,12:00:00,Charlton,Preston,0,1
+E1,2019-11-04,20:00:00,Stoke,West Brom,0,2
+E1,2019-11-09,12:30:00,Nott'm Forest,Derby,1,0
+E1,2019-11-09,15:00:00,Barnsley,Stoke,2,4
+E1,2019-11-09,15:00:00,Birmingham,Fulham,0,1
+E1,2019-11-09,15:00:00,Hull,West Brom,0,1
+E1,2019-11-09,15:00:00,Leeds,Blackburn,2,1
+E1,2019-11-09,15:00:00,Millwall,Charlton,2,1
+E1,2019-11-09,15:00:00,Preston,Huddersfield,3,1
+E1,2019-11-09,15:00:00,QPR,Middlesbrough,2,2
+E1,2019-11-09,15:00:00,Reading,Luton,3,0
+E1,2019-11-09,15:00:00,Sheffield Weds,Swansea,2,2
+E1,2019-11-09,15:00:00,Wigan,Brentford,0,3
+E1,2019-11-10,12:00:00,Cardiff,Bristol City,0,1
+E1,2019-11-22,19:45:00,Fulham,QPR,2,1
+E1,2019-11-23,12:30:00,Charlton,Cardiff,2,2
+E1,2019-11-23,15:00:00,Blackburn,Barnsley,3,2
+E1,2019-11-23,15:00:00,Brentford,Reading,1,0
+E1,2019-11-23,15:00:00,Bristol City,Nott'm Forest,0,0
+E1,2019-11-23,15:00:00,Derby,Preston,1,0
+E1,2019-11-23,15:00:00,Huddersfield,Birmingham,1,1
+E1,2019-11-23,15:00:00,Luton,Leeds,1,2
+E1,2019-11-23,15:00:00,Stoke,Wigan,2,1
+E1,2019-11-23,15:00:00,Swansea,Millwall,0,1
+E1,2019-11-23,15:00:00,West Brom,Sheffield Weds,2,1
+E1,2019-11-24,12:00:00,Middlesbrough,Hull,2,2
+E1,2019-11-26,19:45:00,Cardiff,Stoke,1,0
+E1,2019-11-26,19:45:00,Fulham,Derby,3,0
+E1,2019-11-26,19:45:00,Huddersfield,Swansea,1,1
+E1,2019-11-26,19:45:00,Luton,Charlton,2,1
+E1,2019-11-26,19:45:00,Millwall,Wigan,2,2
+E1,2019-11-26,20:00:00,Reading,Leeds,0,1
+E1,2019-11-27,19:45:00,Blackburn,Brentford,1,0
+E1,2019-11-27,19:45:00,Hull,Preston,4,0
+E1,2019-11-27,19:45:00,Middlesbrough,Barnsley,1,0
+E1,2019-11-27,19:45:00,QPR,Nott'm Forest,0,4
+E1,2019-11-27,19:45:00,Sheffield Weds,Birmingham,1,1
+E1,2019-11-27,20:00:00,West Brom,Bristol City,4,1
+E1,2019-11-29,19:45:00,Swansea,Fulham,1,2
+E1,2019-11-30,12:30:00,Charlton,Sheffield Weds,1,3
+E1,2019-11-30,15:00:00,Barnsley,Hull,3,1
+E1,2019-11-30,15:00:00,Birmingham,Millwall,1,1
+E1,2019-11-30,15:00:00,Brentford,Luton,7,0
+E1,2019-11-30,15:00:00,Bristol City,Huddersfield,5,2
+E1,2019-11-30,15:00:00,Derby,QPR,1,1
+E1,2019-11-30,15:00:00,Leeds,Middlesbrough,4,0
+E1,2019-11-30,15:00:00,Nott'm Forest,Cardiff,0,1
+E1,2019-11-30,15:00:00,Stoke,Blackburn,1,2
+E1,2019-11-30,15:00:00,Wigan,Reading,1,3
+E1,2019-12-02,19:45:00,Preston,West Brom,0,1
+E1,2019-12-06,19:45:00,Millwall,Nott'm Forest,2,2
+E1,2019-12-07,12:30:00,Huddersfield,Leeds,0,2
+E1,2019-12-07,15:00:00,Blackburn,Derby,1,0
+E1,2019-12-07,15:00:00,Cardiff,Barnsley,3,2
+E1,2019-12-07,15:00:00,Fulham,Bristol City,1,2
+E1,2019-12-07,15:00:00,Hull,Stoke,2,1
+E1,2019-12-07,15:00:00,Luton,Wigan,2,1
+E1,2019-12-07,15:00:00,Middlesbrough,Charlton,1,0
+E1,2019-12-07,15:00:00,QPR,Preston,2,0
+E1,2019-12-07,15:00:00,Reading,Birmingham,2,3
+E1,2019-12-07,15:00:00,Sheffield Weds,Brentford,2,1
+E1,2019-12-08,12:00:00,West Brom,Swansea,5,1
+E1,2019-12-10,19:45:00,Bristol City,Millwall,1,2
+E1,2019-12-10,19:45:00,Charlton,Huddersfield,0,1
+E1,2019-12-10,19:45:00,Leeds,Hull,2,0
+E1,2019-12-10,19:45:00,Nott'm Forest,Middlesbrough,1,1
+E1,2019-12-10,19:45:00,Preston,Fulham,2,1
+E1,2019-12-10,20:00:00,Stoke,Luton,3,0
+E1,2019-12-11,19:45:00,Barnsley,Reading,1,1
+E1,2019-12-11,19:45:00,Birmingham,QPR,0,2
+E1,2019-12-11,19:45:00,Brentford,Cardiff,2,1
+E1,2019-12-11,19:45:00,Derby,Sheffield Weds,1,1
+E1,2019-12-11,19:45:00,Swansea,Blackburn,1,1
+E1,2019-12-11,19:45:00,Wigan,West Brom,1,1
+E1,2019-12-13,19:45:00,Charlton,Hull,2,2
+E1,2019-12-14,12:30:00,Birmingham,West Brom,2,3
+E1,2019-12-14,15:00:00,Barnsley,QPR,5,3
+E1,2019-12-14,15:00:00,Brentford,Fulham,1,0
+E1,2019-12-14,15:00:00,Bristol City,Blackburn,0,2
+E1,2019-12-14,15:00:00,Derby,Millwall,0,1
+E1,2019-12-14,15:00:00,Leeds,Cardiff,3,3
+E1,2019-12-14,15:00:00,Nott'm Forest,Sheffield Weds,0,4
+E1,2019-12-14,15:00:00,Preston,Luton,2,1
+E1,2019-12-14,15:00:00,Stoke,Reading,0,0
+E1,2019-12-14,15:00:00,Swansea,Middlesbrough,3,1
+E1,2019-12-14,15:00:00,Wigan,Huddersfield,1,1
+E1,2019-12-20,19:45:00,Middlesbrough,Stoke,2,1
+E1,2019-12-21,12:30:00,Cardiff,Preston,0,0
+E1,2019-12-21,15:00:00,Fulham,Leeds,2,1
+E1,2019-12-21,15:00:00,Huddersfield,Nott'm Forest,2,1
+E1,2019-12-21,15:00:00,Hull,Birmingham,3,0
+E1,2019-12-21,15:00:00,Luton,Swansea,0,1
+E1,2019-12-21,15:00:00,Millwall,Barnsley,1,2
+E1,2019-12-21,15:00:00,QPR,Charlton,2,2
+E1,2019-12-21,15:00:00,Reading,Derby,3,0
+E1,2019-12-21,15:00:00,West Brom,Brentford,1,1
+E1,2019-12-22,12:00:00,Sheffield Weds,Bristol City,1,0
+E1,2019-12-23,19:45:00,Blackburn,Wigan,0,0
+E1,2019-12-26,15:00:00,Barnsley,West Brom,1,1
+E1,2019-12-26,15:00:00,Blackburn,Birmingham,1,1
+E1,2019-12-26,15:00:00,Brentford,Swansea,3,1
+E1,2019-12-26,15:00:00,Cardiff,Millwall,1,1
+E1,2019-12-26,15:00:00,Charlton,Bristol City,3,2
+E1,2019-12-26,15:00:00,Hull,Nott'm Forest,0,2
+E1,2019-12-26,15:00:00,Luton,Fulham,3,3
+E1,2019-12-26,15:00:00,Middlesbrough,Huddersfield,1,0
+E1,2019-12-26,15:00:00,Stoke,Sheffield Weds,3,2
+E1,2019-12-26,15:00:00,Wigan,Derby,1,1
+E1,2019-12-26,17:15:00,Leeds,Preston,1,1
+E1,2019-12-26,19:30:00,Reading,QPR,1,0
+E1,2019-12-29,15:00:00,Birmingham,Leeds,4,5
+E1,2019-12-29,15:00:00,Bristol City,Luton,3,0
+E1,2019-12-29,15:00:00,Fulham,Stoke,1,0
+E1,2019-12-29,15:00:00,Huddersfield,Blackburn,2,1
+E1,2019-12-29,15:00:00,Millwall,Brentford,1,0
+E1,2019-12-29,15:00:00,Nott'm Forest,Wigan,1,0
+E1,2019-12-29,15:00:00,Preston,Reading,0,2
+E1,2019-12-29,15:00:00,QPR,Hull,1,2
+E1,2019-12-29,15:00:00,Sheffield Weds,Cardiff,1,2
+E1,2019-12-29,15:00:00,Swansea,Barnsley,0,0
+E1,2019-12-29,15:00:00,West Brom,Middlesbrough,0,2
+E1,2019-12-30,19:45:00,Derby,Charlton,2,1
+E1,2020-01-01,12:45:00,Millwall,Luton,3,1
+E1,2020-01-01,15:00:00,Birmingham,Wigan,2,3
+E1,2020-01-01,15:00:00,Bristol City,Brentford,0,4
+E1,2020-01-01,15:00:00,Fulham,Reading,1,2
+E1,2020-01-01,15:00:00,Huddersfield,Stoke,2,5
+E1,2020-01-01,15:00:00,Nott'm Forest,Blackburn,3,2
+E1,2020-01-01,15:00:00,Preston,Middlesbrough,0,2
+E1,2020-01-01,15:00:00,QPR,Cardiff,6,1
+E1,2020-01-01,15:00:00,Sheffield Weds,Hull,0,1
+E1,2020-01-01,17:15:00,West Brom,Leeds,1,1
+E1,2020-01-02,19:45:00,Derby,Barnsley,2,1
+E1,2020-01-02,19:45:00,Swansea,Charlton,1,0
+E1,2020-01-11,12:30:00,Brentford,QPR,3,1
+E1,2020-01-11,15:00:00,Barnsley,Huddersfield,2,1
+E1,2020-01-11,15:00:00,Blackburn,Preston,1,1
+E1,2020-01-11,15:00:00,Charlton,West Brom,2,2
+E1,2020-01-11,15:00:00,Hull,Fulham,0,1
+E1,2020-01-11,15:00:00,Leeds,Sheffield Weds,0,2
+E1,2020-01-11,15:00:00,Luton,Birmingham,1,2
+E1,2020-01-11,15:00:00,Middlesbrough,Derby,2,2
+E1,2020-01-11,15:00:00,Reading,Nott'm Forest,1,1
+E1,2020-01-11,15:00:00,Stoke,Millwall,0,0
+E1,2020-01-11,15:00:00,Wigan,Bristol City,0,2
+E1,2020-01-12,12:00:00,Cardiff,Swansea,0,0
+E1,2020-01-17,19:45:00,Fulham,Middlesbrough,1,0
+E1,2020-01-18,12:30:00,QPR,Leeds,1,0
+E1,2020-01-18,15:00:00,Birmingham,Cardiff,1,1
+E1,2020-01-18,15:00:00,Bristol City,Barnsley,1,0
+E1,2020-01-18,15:00:00,Derby,Hull,1,0
+E1,2020-01-18,15:00:00,Huddersfield,Brentford,0,0
+E1,2020-01-18,15:00:00,Millwall,Reading,2,0
+E1,2020-01-18,15:00:00,Preston,Charlton,2,1
+E1,2020-01-18,15:00:00,Sheffield Weds,Blackburn,0,5
+E1,2020-01-18,15:00:00,Swansea,Wigan,2,1
+E1,2020-01-19,12:00:00,Nott'm Forest,Luton,3,1
+E1,2020-01-20,20:00:00,West Brom,Stoke,0,1
+E1,2020-01-21,19:45:00,Barnsley,Preston,0,3
+E1,2020-01-21,19:45:00,Middlesbrough,Birmingham,1,1
+E1,2020-01-22,19:45:00,Charlton,Fulham,0,0
+E1,2020-01-22,19:45:00,Nott'm Forest,Reading,1,1
+E1,2020-01-25,15:00:00,Stoke,Swansea,2,0
+E1,2020-01-28,19:45:00,Blackburn,QPR,2,1
+E1,2020-01-28,19:45:00,Brentford,Nott'm Forest,0,1
+E1,2020-01-28,19:45:00,Cardiff,West Brom,2,1
+E1,2020-01-28,19:45:00,Hull,Huddersfield,1,2
+E1,2020-01-28,19:45:00,Leeds,Millwall,3,2
+E1,2020-01-28,19:45:00,Luton,Derby,3,2
+E1,2020-01-28,19:45:00,Wigan,Sheffield Weds,2,1
+E1,2020-01-28,20:00:00,Reading,Bristol City,0,1
+E1,2020-01-31,19:45:00,Cardiff,Reading,1,1
+E1,2020-01-31,19:45:00,Derby,Stoke,4,0
+E1,2020-02-01,12:30:00,Hull,Brentford,1,5
+E1,2020-02-01,15:00:00,Birmingham,Nott'm Forest,2,1
+E1,2020-02-01,15:00:00,Charlton,Barnsley,2,1
+E1,2020-02-01,15:00:00,Fulham,Huddersfield,3,2
+E1,2020-02-01,15:00:00,Leeds,Wigan,0,1
+E1,2020-02-01,15:00:00,Middlesbrough,Blackburn,1,1
+E1,2020-02-01,15:00:00,Preston,Swansea,1,1
+E1,2020-02-01,15:00:00,QPR,Bristol City,0,1
+E1,2020-02-01,15:00:00,Sheffield Weds,Millwall,0,0
+E1,2020-02-01,15:00:00,West Brom,Luton,2,0
+E1,2020-02-07,19:45:00,Bristol City,Birmingham,1,3
+E1,2020-02-08,12:30:00,Wigan,Preston,1,2
+E1,2020-02-08,13:30:00,Barnsley,Sheffield Weds,1,1
+E1,2020-02-08,15:00:00,Blackburn,Fulham,0,1
+E1,2020-02-08,15:00:00,Brentford,Middlesbrough,3,2
+E1,2020-02-08,15:00:00,Huddersfield,QPR,2,0
+E1,2020-02-08,15:00:00,Luton,Cardiff,0,1
+E1,2020-02-08,15:00:00,Reading,Hull,1,1
+E1,2020-02-08,15:00:00,Stoke,Charlton,3,1
+E1,2020-02-08,15:00:00,Swansea,Derby,2,3
+E1,2020-02-08,17:30:00,Nott'm Forest,Leeds,2,0
+E1,2020-02-09,13:30:00,Millwall,West Brom,0,2
+E1,2020-02-11,19:45:00,Barnsley,Birmingham,0,1
+E1,2020-02-11,19:45:00,Blackburn,Hull,3,0
+E1,2020-02-11,19:45:00,Brentford,Leeds,1,1
+E1,2020-02-11,19:45:00,Nott'm Forest,Charlton,0,1
+E1,2020-02-11,19:45:00,Swansea,QPR,0,0
+E1,2020-02-11,19:45:00,Wigan,Middlesbrough,2,2
+E1,2020-02-12,19:45:00,Bristol City,Derby,3,2
+E1,2020-02-12,19:45:00,Huddersfield,Cardiff,0,3
+E1,2020-02-12,19:45:00,Luton,Sheffield Weds,1,0
+E1,2020-02-12,19:45:00,Millwall,Fulham,1,1
+E1,2020-02-12,20:00:00,Reading,West Brom,1,2
+E1,2020-02-12,20:00:00,Stoke,Preston,0,2
+E1,2020-02-14,19:45:00,Hull,Swansea,4,4
+E1,2020-02-15,12:30:00,West Brom,Nott'm Forest,2,2
+E1,2020-02-15,15:00:00,Birmingham,Brentford,1,1
+E1,2020-02-15,15:00:00,Cardiff,Wigan,2,2
+E1,2020-02-15,15:00:00,Charlton,Blackburn,0,2
+E1,2020-02-15,15:00:00,Derby,Huddersfield,1,1
+E1,2020-02-15,15:00:00,Fulham,Barnsley,0,3
+E1,2020-02-15,15:00:00,Leeds,Bristol City,1,0
+E1,2020-02-15,15:00:00,Middlesbrough,Luton,0,1
+E1,2020-02-15,15:00:00,Preston,Millwall,0,1
+E1,2020-02-15,15:00:00,QPR,Stoke,4,2
+E1,2020-02-15,15:00:00,Sheffield Weds,Reading,0,3
+E1,2020-02-21,19:45:00,Derby,Fulham,1,1
+E1,2020-02-22,12:30:00,Brentford,Blackburn,2,2
+E1,2020-02-22,15:00:00,Barnsley,Middlesbrough,1,0
+E1,2020-02-22,15:00:00,Birmingham,Sheffield Weds,3,3
+E1,2020-02-22,15:00:00,Bristol City,West Brom,0,3
+E1,2020-02-22,15:00:00,Charlton,Luton,3,1
+E1,2020-02-22,15:00:00,Leeds,Reading,1,0
+E1,2020-02-22,15:00:00,Nott'm Forest,QPR,0,0
+E1,2020-02-22,15:00:00,Preston,Hull,2,1
+E1,2020-02-22,15:00:00,Stoke,Cardiff,2,0
+E1,2020-02-22,15:00:00,Swansea,Huddersfield,3,1
+E1,2020-02-22,15:00:00,Wigan,Millwall,1,0
+E1,2020-02-25,19:45:00,Cardiff,Nott'm Forest,0,1
+E1,2020-02-25,19:45:00,Huddersfield,Bristol City,2,1
+E1,2020-02-25,19:45:00,Luton,Brentford,2,1
+E1,2020-02-25,19:45:00,QPR,Derby,2,1
+E1,2020-02-25,20:00:00,West Brom,Preston,2,0
+E1,2020-02-26,19:45:00,Blackburn,Stoke,0,0
+E1,2020-02-26,19:45:00,Fulham,Swansea,1,0
+E1,2020-02-26,19:45:00,Hull,Barnsley,0,1
+E1,2020-02-26,19:45:00,Middlesbrough,Leeds,0,1
+E1,2020-02-26,19:45:00,Millwall,Birmingham,0,0
+E1,2020-02-26,19:45:00,Sheffield Weds,Charlton,1,0
+E1,2020-02-26,20:00:00,Reading,Wigan,0,3
+E1,2020-02-29,12:30:00,Hull,Leeds,0,4
+E1,2020-02-29,15:00:00,Blackburn,Swansea,2,2
+E1,2020-02-29,15:00:00,Cardiff,Brentford,2,2
+E1,2020-02-29,15:00:00,Fulham,Preston,2,0
+E1,2020-02-29,15:00:00,Huddersfield,Charlton,4,0
+E1,2020-02-29,15:00:00,Luton,Stoke,1,1
+E1,2020-02-29,15:00:00,Millwall,Bristol City,1,1
+E1,2020-02-29,15:00:00,QPR,Birmingham,2,2
+E1,2020-02-29,15:00:00,Reading,Barnsley,2,0
+E1,2020-02-29,15:00:00,Sheffield Weds,Derby,1,3
+E1,2020-02-29,15:00:00,West Brom,Wigan,0,1
+E1,2020-03-02,19:45:00,Middlesbrough,Nott'm Forest,2,2
+E1,2020-03-06,19:45:00,Nott'm Forest,Millwall,0,3
+E1,2020-03-07,12:30:00,Bristol City,Fulham,1,1
+E1,2020-03-07,15:00:00,Barnsley,Cardiff,0,2
+E1,2020-03-07,15:00:00,Birmingham,Reading,1,3
+E1,2020-03-07,15:00:00,Brentford,Sheffield Weds,5,0
+E1,2020-03-07,15:00:00,Charlton,Middlesbrough,0,1
+E1,2020-03-07,15:00:00,Leeds,Huddersfield,2,0
+E1,2020-03-07,15:00:00,Preston,QPR,1,3
+E1,2020-03-07,15:00:00,Stoke,Hull,5,1
+E1,2020-03-07,15:00:00,Swansea,West Brom,0,0
+E1,2020-03-07,15:00:00,Wigan,Luton,0,0
+E1,2020-03-08,15:00:00,Derby,Blackburn,3,0
+E1,2020-06-20,12:30:00,Fulham,Brentford,0,2
+E1,2020-06-20,12:30:00,Middlesbrough,Swansea,0,3
+E1,2020-06-20,13:00:00,Millwall,Derby,2,3
+E1,2020-06-20,15:00:00,Blackburn,Bristol City,3,1
+E1,2020-06-20,15:00:00,Huddersfield,Wigan,0,2
+E1,2020-06-20,15:00:00,Hull,Charlton,0,1
+E1,2020-06-20,15:00:00,Luton,Preston,1,1
+E1,2020-06-20,15:00:00,QPR,Barnsley,0,1
+E1,2020-06-20,15:00:00,Reading,Stoke,1,1
+E1,2020-06-20,15:00:00,Sheffield Weds,Nott'm Forest,1,1
+E1,2020-06-20,15:00:00,West Brom,Birmingham,0,0
+E1,2020-06-21,12:00:00,Cardiff,Leeds,2,0
+E1,2020-06-26,19:45:00,Brentford,West Brom,1,0
+E1,2020-06-27,12:30:00,Charlton,QPR,1,0
+E1,2020-06-27,12:30:00,Preston,Cardiff,1,3
+E1,2020-06-27,12:30:00,Swansea,Luton,0,1
+E1,2020-06-27,13:00:00,Barnsley,Millwall,0,0
+E1,2020-06-27,13:00:00,Derby,Reading,2,1
+E1,2020-06-27,15:00:00,Birmingham,Hull,3,3
+E1,2020-06-27,15:00:00,Leeds,Fulham,3,0
+E1,2020-06-27,15:00:00,Stoke,Middlesbrough,0,2
+E1,2020-06-27,15:00:00,Wigan,Blackburn,2,0
+E1,2020-06-28,12:00:00,Bristol City,Sheffield Weds,1,2
+E1,2020-06-28,14:15:00,Nott'm Forest,Huddersfield,3,1
+E1,2020-06-30,17:00:00,Millwall,Swansea,1,1
+E1,2020-06-30,18:00:00,Barnsley,Blackburn,2,0
+E1,2020-06-30,18:00:00,Cardiff,Charlton,0,0
+E1,2020-06-30,18:00:00,Reading,Brentford,0,3
+E1,2020-06-30,18:30:00,QPR,Fulham,1,2
+E1,2020-06-30,19:45:00,Leeds,Luton,1,1
+E1,2020-06-30,19:45:00,Wigan,Stoke,3,0
+E1,2020-07-01,17:00:00,Preston,Derby,0,1
+E1,2020-07-01,18:00:00,Birmingham,Huddersfield,0,3
+E1,2020-07-01,18:00:00,Nott'm Forest,Bristol City,1,0
+E1,2020-07-01,19:45:00,Sheffield Weds,West Brom,0,3
+E1,2020-07-02,17:00:00,Hull,Middlesbrough,2,1
+E1,2020-07-03,20:15:00,Charlton,Millwall,0,1
+E1,2020-07-04,12:30:00,Derby,Nott'm Forest,1,1
+E1,2020-07-04,15:00:00,Blackburn,Leeds,1,3
+E1,2020-07-04,15:00:00,Brentford,Wigan,3,0
+E1,2020-07-04,15:00:00,Bristol City,Cardiff,0,1
+E1,2020-07-04,15:00:00,Fulham,Birmingham,1,0
+E1,2020-07-04,15:00:00,Huddersfield,Preston,0,0
+E1,2020-07-04,15:00:00,Luton,Reading,0,5
+E1,2020-07-04,15:00:00,Stoke,Barnsley,4,0
+E1,2020-07-05,12:00:00,Swansea,Sheffield Weds,2,1
+E1,2020-07-05,14:00:00,Middlesbrough,QPR,0,1
+E1,2020-07-05,15:00:00,West Brom,Hull,4,2
+E1,2020-07-07,17:00:00,Nott'm Forest,Fulham,0,1
+E1,2020-07-07,18:00:00,Brentford,Charlton,2,1
+E1,2020-07-07,18:00:00,Luton,Barnsley,1,1
+E1,2020-07-07,18:00:00,Reading,Huddersfield,0,0
+E1,2020-07-07,19:45:00,Cardiff,Blackburn,2,3
+E1,2020-07-08,15:00:00,Millwall,Middlesbrough,0,2
+E1,2020-07-08,17:00:00,West Brom,Derby,2,0
+E1,2020-07-08,18:00:00,Birmingham,Swansea,1,3
+E1,2020-07-08,18:00:00,Bristol City,Hull,2,1
+E1,2020-07-08,18:00:00,Wigan,QPR,1,0
+E1,2020-07-08,19:45:00,Sheffield Weds,Preston,1,3
+E1,2020-07-09,17:00:00,Leeds,Stoke,5,0
+E1,2020-07-10,18:00:00,Huddersfield,Luton,0,2
+E1,2020-07-10,20:15:00,Fulham,Cardiff,2,0
+E1,2020-07-11,12:30:00,Charlton,Reading,0,1
+E1,2020-07-11,12:30:00,Derby,Brentford,1,3
+E1,2020-07-11,15:00:00,Barnsley,Wigan,0,0
+E1,2020-07-11,15:00:00,Blackburn,West Brom,1,1
+E1,2020-07-11,15:00:00,Hull,Millwall,0,1
+E1,2020-07-11,15:00:00,Middlesbrough,Bristol City,1,3
+E1,2020-07-11,15:00:00,Preston,Nott'm Forest,1,1
+E1,2020-07-11,15:00:00,QPR,Sheffield Weds,0,3
+E1,2020-07-12,13:30:00,Stoke,Birmingham,2,0
+E1,2020-07-12,13:30:00,Swansea,Leeds,0,1
+E1,2020-07-14,17:00:00,West Brom,Fulham,0,0
+E1,2020-07-14,18:00:00,Reading,Middlesbrough,1,2
+E1,2020-07-14,18:00:00,Wigan,Hull,8,0
+E1,2020-07-14,19:45:00,Cardiff,Derby,2,1
+E1,2020-07-14,19:45:00,Luton,QPR,1,1
+E1,2020-07-14,19:45:00,Millwall,Blackburn,1,0
+E1,2020-07-14,19:45:00,Sheffield Weds,Huddersfield,0,0
+E1,2020-07-15,17:00:00,Brentford,Preston,1,0
+E1,2020-07-15,17:00:00,Bristol City,Stoke,1,1
+E1,2020-07-15,18:00:00,Birmingham,Charlton,1,1
+E1,2020-07-15,18:00:00,Nott'm Forest,Swansea,2,2
+E1,2020-07-16,17:00:00,Leeds,Barnsley,1,0
+E1,2020-07-17,17:30:00,Huddersfield,West Brom,2,1
+E1,2020-07-18,12:30:00,Charlton,Wigan,2,2
+E1,2020-07-18,12:30:00,Stoke,Brentford,1,0
+E1,2020-07-18,15:00:00,Blackburn,Reading,4,3
+E1,2020-07-18,15:00:00,Fulham,Sheffield Weds,5,3
+E1,2020-07-18,15:00:00,Hull,Luton,0,1
+E1,2020-07-18,15:00:00,Middlesbrough,Cardiff,1,3
+E1,2020-07-18,15:00:00,Preston,Birmingham,2,0
+E1,2020-07-18,15:00:00,QPR,Millwall,4,3
+E1,2020-07-18,15:00:00,Swansea,Bristol City,1,0
+E1,2020-07-19,14:00:00,Derby,Leeds,1,3
+E1,2020-07-19,15:00:00,Barnsley,Nott'm Forest,1,0
+E1,2020-07-22,19:30:00,Birmingham,Derby,1,3
+E1,2020-07-22,19:30:00,Brentford,Barnsley,1,2
+E1,2020-07-22,19:30:00,Bristol City,Preston,1,1
+E1,2020-07-22,19:30:00,Cardiff,Hull,3,0
+E1,2020-07-22,19:30:00,Leeds,Charlton,4,0
+E1,2020-07-22,19:30:00,Luton,Blackburn,3,2
+E1,2020-07-22,19:30:00,Millwall,Huddersfield,4,1
+E1,2020-07-22,19:30:00,Nott'm Forest,Stoke,1,4
+E1,2020-07-22,19:30:00,Reading,Swansea,1,4
+E1,2020-07-22,19:30:00,Sheffield Weds,Middlesbrough,1,2
+E1,2020-07-22,19:30:00,West Brom,QPR,2,2
+E1,2020-07-22,19:30:00,Wigan,Fulham,1,1
+E2,2019-08-03,15:00:00,AFC Wimbledon,Rotherham,1,2
+E2,2019-08-03,15:00:00,Blackpool,Bristol Rvs,2,0
+E2,2019-08-03,15:00:00,Burton,Ipswich,0,1
+E2,2019-08-03,15:00:00,Coventry,Southend,1,0
+E2,2019-08-03,15:00:00,Doncaster,Gillingham,1,1
+E2,2019-08-03,15:00:00,Lincoln,Accrington,2,0
+E2,2019-08-03,15:00:00,Peterboro,Fleetwood Town,1,3
+E2,2019-08-03,15:00:00,Shrewsbury,Portsmouth,1,0
+E2,2019-08-03,15:00:00,Sunderland,Oxford,1,1
+E2,2019-08-03,15:00:00,Tranmere,Rochdale,2,3
+E2,2019-08-03,15:00:00,Wycombe,Bolton,2,0
+E2,2019-08-10,15:00:00,Bolton,Coventry,0,0
+E2,2019-08-10,15:00:00,Bristol Rvs,Wycombe,0,0
+E2,2019-08-10,15:00:00,Fleetwood Town,AFC Wimbledon,2,1
+E2,2019-08-10,15:00:00,Gillingham,Burton,1,2
+E2,2019-08-10,15:00:00,Ipswich,Sunderland,1,1
+E2,2019-08-10,15:00:00,Milton Keynes Dons,Shrewsbury,1,0
+E2,2019-08-10,15:00:00,Oxford,Peterboro,1,0
+E2,2019-08-10,15:00:00,Portsmouth,Tranmere,2,0
+E2,2019-08-10,15:00:00,Rochdale,Doncaster,1,1
+E2,2019-08-10,15:00:00,Rotherham,Lincoln,0,2
+E2,2019-08-10,15:00:00,Southend,Blackpool,1,3
+E2,2019-08-17,12:30:00,Sunderland,Portsmouth,2,1
+E2,2019-08-17,15:00:00,AFC Wimbledon,Accrington,1,1
+E2,2019-08-17,15:00:00,Blackpool,Oxford,2,1
+E2,2019-08-17,15:00:00,Burton,Rotherham,0,1
+E2,2019-08-17,15:00:00,Coventry,Bristol Rvs,2,0
+E2,2019-08-17,15:00:00,Doncaster,Fleetwood Town,3,2
+E2,2019-08-17,15:00:00,Lincoln,Southend,4,0
+E2,2019-08-17,15:00:00,Peterboro,Ipswich,2,2
+E2,2019-08-17,15:00:00,Shrewsbury,Rochdale,0,0
+E2,2019-08-17,15:00:00,Tranmere,Bolton,5,0
+E2,2019-08-17,15:00:00,Wycombe,Milton Keynes Dons,3,2
+E2,2019-08-20,19:45:00,Accrington,Shrewsbury,2,3
+E2,2019-08-20,19:45:00,Bristol Rvs,Tranmere,2,0
+E2,2019-08-20,19:45:00,Fleetwood Town,Wycombe,1,1
+E2,2019-08-20,19:45:00,Gillingham,Blackpool,2,2
+E2,2019-08-20,19:45:00,Ipswich,AFC Wimbledon,2,1
+E2,2019-08-20,19:45:00,Milton Keynes Dons,Lincoln,2,1
+E2,2019-08-20,19:45:00,Oxford,Burton,2,4
+E2,2019-08-20,19:45:00,Portsmouth,Coventry,3,3
+E2,2019-08-20,19:45:00,Rochdale,Sunderland,1,2
+E2,2019-08-20,19:45:00,Southend,Peterboro,0,2
+E2,2019-08-24,12:30:00,Doncaster,Lincoln,2,1
+E2,2019-08-24,15:00:00,Bolton,Ipswich,0,5
+E2,2019-08-24,15:00:00,Bristol Rvs,Oxford,3,1
+E2,2019-08-24,15:00:00,Coventry,Gillingham,1,0
+E2,2019-08-24,15:00:00,Fleetwood Town,Accrington,2,0
+E2,2019-08-24,15:00:00,Milton Keynes Dons,Peterboro,0,4
+E2,2019-08-24,15:00:00,Rochdale,Blackpool,0,0
+E2,2019-08-24,15:00:00,Shrewsbury,Burton,0,0
+E2,2019-08-24,15:00:00,Sunderland,AFC Wimbledon,3,1
+E2,2019-08-24,15:00:00,Wycombe,Southend,4,3
+E2,2019-08-31,15:00:00,Accrington,Milton Keynes Dons,2,1
+E2,2019-08-31,15:00:00,AFC Wimbledon,Wycombe,0,0
+E2,2019-08-31,15:00:00,Blackpool,Portsmouth,1,1
+E2,2019-08-31,15:00:00,Burton,Bristol Rvs,2,0
+E2,2019-08-31,15:00:00,Gillingham,Bolton,5,0
+E2,2019-08-31,15:00:00,Ipswich,Shrewsbury,3,0
+E2,2019-08-31,15:00:00,Lincoln,Fleetwood Town,2,0
+E2,2019-08-31,15:00:00,Oxford,Coventry,3,3
+E2,2019-08-31,15:00:00,Peterboro,Sunderland,3,0
+E2,2019-08-31,15:00:00,Rotherham,Tranmere,1,1
+E2,2019-08-31,15:00:00,Southend,Rochdale,0,3
+E2,2019-09-07,12:00:00,Milton Keynes Dons,AFC Wimbledon,2,1
+E2,2019-09-07,12:30:00,Doncaster,Rotherham,2,1
+E2,2019-09-07,15:00:00,Bristol Rvs,Accrington,3,3
+E2,2019-09-07,15:00:00,Coventry,Blackpool,3,2
+E2,2019-09-07,15:00:00,Fleetwood Town,Oxford,2,1
+E2,2019-09-07,15:00:00,Tranmere,Gillingham,2,2
+E2,2019-09-07,15:00:00,Wycombe,Lincoln,3,1
+E2,2019-09-14,15:00:00,Accrington,Sunderland,1,3
+E2,2019-09-14,15:00:00,AFC Wimbledon,Shrewsbury,1,1
+E2,2019-09-14,15:00:00,Blackpool,Milton Keynes Dons,0,3
+E2,2019-09-14,15:00:00,Burton,Coventry,0,0
+E2,2019-09-14,15:00:00,Gillingham,Wycombe,2,0
+E2,2019-09-14,15:00:00,Ipswich,Doncaster,0,0
+E2,2019-09-14,15:00:00,Lincoln,Bristol Rvs,0,1
+E2,2019-09-14,15:00:00,Oxford,Tranmere,3,0
+E2,2019-09-14,15:00:00,Peterboro,Rochdale,6,0
+E2,2019-09-14,15:00:00,Rotherham,Bolton,6,1
+E2,2019-09-14,15:00:00,Southend,Fleetwood Town,3,3
+E2,2019-09-17,19:45:00,Bristol Rvs,Gillingham,1,1
+E2,2019-09-17,19:45:00,Coventry,AFC Wimbledon,2,1
+E2,2019-09-17,19:45:00,Doncaster,Blackpool,0,1
+E2,2019-09-17,19:45:00,Milton Keynes Dons,Ipswich,0,1
+E2,2019-09-17,19:45:00,Portsmouth,Burton,2,2
+E2,2019-09-17,19:45:00,Rochdale,Lincoln,1,1
+E2,2019-09-17,19:45:00,Shrewsbury,Southend,4,3
+E2,2019-09-17,19:45:00,Sunderland,Rotherham,1,1
+E2,2019-09-17,19:45:00,Tranmere,Peterboro,2,2
+E2,2019-09-17,19:45:00,Wycombe,Accrington,1,1
+E2,2019-09-17,20:00:00,Bolton,Oxford,0,0
+E2,2019-09-21,15:00:00,Accrington,Blackpool,1,1
+E2,2019-09-21,15:00:00,AFC Wimbledon,Bristol Rvs,1,3
+E2,2019-09-21,15:00:00,Bolton,Sunderland,1,1
+E2,2019-09-21,15:00:00,Doncaster,Peterboro,2,0
+E2,2019-09-21,15:00:00,Fleetwood Town,Rochdale,2,1
+E2,2019-09-21,15:00:00,Gillingham,Ipswich,0,1
+E2,2019-09-21,15:00:00,Lincoln,Oxford,0,6
+E2,2019-09-21,15:00:00,Milton Keynes Dons,Southend,0,1
+E2,2019-09-21,15:00:00,Rotherham,Shrewsbury,0,0
+E2,2019-09-21,15:00:00,Tranmere,Burton,2,1
+E2,2019-09-21,15:00:00,Wycombe,Portsmouth,1,0
+E2,2019-09-27,19:45:00,Blackpool,Lincoln,2,1
+E2,2019-09-28,15:00:00,Bristol Rvs,Rotherham,1,0
+E2,2019-09-28,15:00:00,Coventry,Doncaster,1,1
+E2,2019-09-28,15:00:00,Ipswich,Tranmere,4,1
+E2,2019-09-28,15:00:00,Oxford,Gillingham,3,0
+E2,2019-09-28,15:00:00,Peterboro,AFC Wimbledon,3,2
+E2,2019-09-28,15:00:00,Portsmouth,Bolton,1,0
+E2,2019-09-28,15:00:00,Rochdale,Wycombe,0,3
+E2,2019-09-28,15:00:00,Shrewsbury,Fleetwood Town,0,3
+E2,2019-09-28,15:00:00,Southend,Accrington,0,1
+E2,2019-09-28,15:00:00,Sunderland,Milton Keynes Dons,2,1
+E2,2019-10-05,15:00:00,Accrington,Oxford,2,2
+E2,2019-10-05,15:00:00,AFC Wimbledon,Rochdale,3,2
+E2,2019-10-05,15:00:00,Doncaster,Portsmouth,1,2
+E2,2019-10-05,15:00:00,Fleetwood Town,Ipswich,0,1
+E2,2019-10-05,15:00:00,Gillingham,Southend,3,1
+E2,2019-10-05,15:00:00,Lincoln,Sunderland,2,0
+E2,2019-10-05,15:00:00,Milton Keynes Dons,Burton,0,3
+E2,2019-10-05,15:00:00,Rotherham,Coventry,4,0
+E2,2019-10-05,15:00:00,Tranmere,Shrewsbury,0,1
+E2,2019-10-05,15:00:00,Wycombe,Peterboro,3,3
+E2,2019-10-07,20:00:00,Bolton,Blackpool,0,0
+E2,2019-10-12,15:00:00,Blackpool,Rotherham,1,2
+E2,2019-10-12,15:00:00,Bristol Rvs,Milton Keynes Dons,1,0
+E2,2019-10-12,15:00:00,Oxford,Doncaster,3,0
+E2,2019-10-12,15:00:00,Peterboro,Lincoln,2,0
+E2,2019-10-12,15:00:00,Portsmouth,Gillingham,0,0
+E2,2019-10-12,15:00:00,Rochdale,Accrington,2,1
+E2,2019-10-12,15:00:00,Southend,AFC Wimbledon,1,4
+E2,2019-10-13,12:00:00,Coventry,Tranmere,0,1
+E2,2019-10-18,19:45:00,Lincoln,Shrewsbury,0,0
+E2,2019-10-18,19:45:00,Tranmere,Southend,1,1
+E2,2019-10-19,15:00:00,AFC Wimbledon,Portsmouth,1,0
+E2,2019-10-19,15:00:00,Bolton,Rochdale,1,3
+E2,2019-10-19,15:00:00,Doncaster,Bristol Rvs,2,0
+E2,2019-10-19,15:00:00,Fleetwood Town,Burton,4,1
+E2,2019-10-19,15:00:00,Gillingham,Peterboro,1,2
+E2,2019-10-19,15:00:00,Milton Keynes Dons,Coventry,0,0
+E2,2019-10-19,15:00:00,Rotherham,Oxford,1,2
+E2,2019-10-19,15:00:00,Wycombe,Sunderland,1,0
+E2,2019-10-20,12:00:00,Accrington,Ipswich,2,0
+E2,2019-10-22,19:45:00,Blackpool,Wycombe,1,1
+E2,2019-10-22,19:45:00,Bristol Rvs,Bolton,0,2
+E2,2019-10-22,19:45:00,Burton,AFC Wimbledon,1,0
+E2,2019-10-22,19:45:00,Portsmouth,Lincoln,1,0
+E2,2019-10-22,19:45:00,Rochdale,Milton Keynes Dons,2,0
+E2,2019-10-22,19:45:00,Shrewsbury,Gillingham,1,1
+E2,2019-10-22,19:45:00,Southend,Doncaster,1,7
+E2,2019-10-22,19:45:00,Sunderland,Tranmere,5,0
+E2,2019-10-23,19:45:00,Coventry,Fleetwood Town,2,1
+E2,2019-10-23,19:45:00,Ipswich,Rotherham,0,2
+E2,2019-10-23,19:45:00,Peterboro,Accrington,4,0
+E2,2019-10-26,15:00:00,Accrington,Gillingham,0,1
+E2,2019-10-26,15:00:00,Bristol Rvs,Portsmouth,2,2
+E2,2019-10-26,15:00:00,Burton,Blackpool,0,0
+E2,2019-10-26,15:00:00,Fleetwood Town,Milton Keynes Dons,1,0
+E2,2019-10-26,15:00:00,Oxford,Rochdale,3,0
+E2,2019-10-26,15:00:00,Peterboro,Coventry,2,2
+E2,2019-10-26,15:00:00,Rotherham,Wycombe,0,1
+E2,2019-10-26,15:00:00,Shrewsbury,Sunderland,1,0
+E2,2019-10-26,15:00:00,Southend,Ipswich,1,3
+E2,2019-11-02,15:00:00,AFC Wimbledon,Lincoln,1,1
+E2,2019-11-02,15:00:00,Blackpool,Peterboro,4,3
+E2,2019-11-02,15:00:00,Bolton,Fleetwood Town,2,1
+E2,2019-11-02,15:00:00,Coventry,Accrington,0,0
+E2,2019-11-02,15:00:00,Doncaster,Burton,2,2
+E2,2019-11-02,15:00:00,Gillingham,Rotherham,0,3
+E2,2019-11-02,15:00:00,Milton Keynes Dons,Tranmere,1,3
+E2,2019-11-02,15:00:00,Portsmouth,Oxford,1,1
+E2,2019-11-02,15:00:00,Rochdale,Bristol Rvs,1,2
+E2,2019-11-02,15:00:00,Sunderland,Southend,1,0
+E2,2019-11-02,15:00:00,Wycombe,Shrewsbury,1,0
+E2,2019-11-05,19:45:00,Portsmouth,Southend,4,1
+E2,2019-11-05,19:45:00,Rochdale,Ipswich,0,1
+E2,2019-11-05,19:45:00,Shrewsbury,Peterboro,1,0
+E2,2019-11-16,15:00:00,Blackpool,AFC Wimbledon,2,0
+E2,2019-11-16,15:00:00,Bolton,Milton Keynes Dons,1,0
+E2,2019-11-16,15:00:00,Coventry,Rochdale,2,1
+E2,2019-11-16,15:00:00,Gillingham,Lincoln,1,0
+E2,2019-11-16,15:00:00,Rotherham,Accrington,1,0
+E2,2019-11-17,12:00:00,Tranmere,Wycombe,0,2
+E2,2019-11-23,15:00:00,Accrington,Bolton,7,1
+E2,2019-11-23,15:00:00,AFC Wimbledon,Gillingham,1,0
+E2,2019-11-23,15:00:00,Fleetwood Town,Tranmere,2,1
+E2,2019-11-23,15:00:00,Ipswich,Blackpool,2,2
+E2,2019-11-23,15:00:00,Milton Keynes Dons,Rotherham,2,3
+E2,2019-11-23,15:00:00,Peterboro,Burton,1,0
+E2,2019-11-23,15:00:00,Rochdale,Portsmouth,0,3
+E2,2019-11-23,15:00:00,Shrewsbury,Bristol Rvs,3,4
+E2,2019-11-23,15:00:00,Southend,Oxford,0,4
+E2,2019-11-23,15:00:00,Sunderland,Coventry,1,1
+E2,2019-11-23,15:00:00,Wycombe,Doncaster,1,0
+E2,2019-11-26,19:45:00,Ipswich,Wycombe,0,0
+E2,2019-11-26,19:45:00,Portsmouth,Rotherham,3,2
+E2,2019-11-26,19:45:00,Sunderland,Burton,1,2
+E2,2019-12-03,19:45:00,Burton,Southend,1,1
+E2,2019-12-07,15:00:00,Blackpool,Fleetwood Town,3,1
+E2,2019-12-07,15:00:00,Bolton,AFC Wimbledon,2,2
+E2,2019-12-07,15:00:00,Bristol Rvs,Southend,4,2
+E2,2019-12-07,15:00:00,Burton,Lincoln,0,2
+E2,2019-12-07,15:00:00,Coventry,Ipswich,1,1
+E2,2019-12-07,15:00:00,Doncaster,Milton Keynes Dons,1,1
+E2,2019-12-07,15:00:00,Gillingham,Sunderland,1,0
+E2,2019-12-07,15:00:00,Oxford,Shrewsbury,0,0
+E2,2019-12-07,15:00:00,Portsmouth,Peterboro,2,2
+E2,2019-12-07,15:00:00,Rotherham,Rochdale,0,1
+E2,2019-12-07,15:00:00,Tranmere,Accrington,1,1
+E2,2019-12-14,15:00:00,Accrington,Portsmouth,4,1
+E2,2019-12-14,15:00:00,AFC Wimbledon,Doncaster,2,1
+E2,2019-12-14,15:00:00,Fleetwood Town,Gillingham,1,1
+E2,2019-12-14,15:00:00,Ipswich,Bristol Rvs,1,2
+E2,2019-12-14,15:00:00,Lincoln,Tranmere,1,0
+E2,2019-12-14,15:00:00,Milton Keynes Dons,Oxford,1,0
+E2,2019-12-14,15:00:00,Peterboro,Bolton,1,0
+E2,2019-12-14,15:00:00,Shrewsbury,Coventry,2,1
+E2,2019-12-14,15:00:00,Southend,Rotherham,2,2
+E2,2019-12-14,15:00:00,Sunderland,Blackpool,1,1
+E2,2019-12-14,15:00:00,Wycombe,Burton,2,0
+E2,2019-12-21,13:00:00,Gillingham,Milton Keynes Dons,3,1
+E2,2019-12-21,15:00:00,Blackpool,Shrewsbury,0,1
+E2,2019-12-21,15:00:00,Bolton,Southend,3,2
+E2,2019-12-21,15:00:00,Bristol Rvs,Peterboro,0,0
+E2,2019-12-21,15:00:00,Burton,Rochdale,3,1
+E2,2019-12-21,15:00:00,Coventry,Lincoln,1,0
+E2,2019-12-21,15:00:00,Doncaster,Accrington,1,1
+E2,2019-12-21,15:00:00,Oxford,Wycombe,1,0
+E2,2019-12-21,15:00:00,Portsmouth,Ipswich,1,0
+E2,2019-12-21,15:00:00,Rotherham,Fleetwood Town,2,2
+E2,2019-12-21,15:00:00,Tranmere,AFC Wimbledon,1,0
+E2,2019-12-26,15:00:00,Blackpool,Accrington,0,1
+E2,2019-12-26,15:00:00,Bristol Rvs,AFC Wimbledon,1,2
+E2,2019-12-26,15:00:00,Burton,Tranmere,4,2
+E2,2019-12-26,15:00:00,Ipswich,Gillingham,0,0
+E2,2019-12-26,15:00:00,Oxford,Lincoln,1,0
+E2,2019-12-26,15:00:00,Peterboro,Doncaster,0,3
+E2,2019-12-26,15:00:00,Portsmouth,Wycombe,2,0
+E2,2019-12-26,15:00:00,Rochdale,Fleetwood Town,2,3
+E2,2019-12-26,15:00:00,Shrewsbury,Rotherham,1,2
+E2,2019-12-26,15:00:00,Southend,Milton Keynes Dons,2,2
+E2,2019-12-26,15:00:00,Sunderland,Bolton,0,0
+E2,2019-12-29,13:00:00,Gillingham,Rochdale,1,0
+E2,2019-12-29,15:00:00,Accrington,Burton,2,0
+E2,2019-12-29,15:00:00,AFC Wimbledon,Oxford,1,2
+E2,2019-12-29,15:00:00,Bolton,Shrewsbury,1,1
+E2,2019-12-29,15:00:00,Doncaster,Sunderland,1,2
+E2,2019-12-29,15:00:00,Fleetwood Town,Bristol Rvs,0,0
+E2,2019-12-29,15:00:00,Lincoln,Ipswich,5,3
+E2,2019-12-29,15:00:00,Milton Keynes Dons,Portsmouth,3,1
+E2,2019-12-29,15:00:00,Rotherham,Peterboro,4,0
+E2,2019-12-29,15:00:00,Tranmere,Blackpool,1,1
+E2,2019-12-29,15:00:00,Wycombe,Coventry,1,4
+E2,2020-01-01,15:00:00,Accrington,Rochdale,1,2
+E2,2020-01-01,15:00:00,AFC Wimbledon,Southend,1,1
+E2,2020-01-01,15:00:00,Bolton,Burton,3,4
+E2,2020-01-01,15:00:00,Doncaster,Oxford,1,0
+E2,2020-01-01,15:00:00,Fleetwood Town,Sunderland,1,1
+E2,2020-01-01,15:00:00,Gillingham,Portsmouth,1,1
+E2,2020-01-01,15:00:00,Lincoln,Peterboro,2,1
+E2,2020-01-01,15:00:00,Milton Keynes Dons,Bristol Rvs,3,0
+E2,2020-01-01,15:00:00,Rotherham,Blackpool,2,1
+E2,2020-01-01,15:00:00,Tranmere,Coventry,1,4
+E2,2020-01-01,15:00:00,Wycombe,Ipswich,1,1
+E2,2020-01-04,15:00:00,Sunderland,Lincoln,3,1
+E2,2020-01-07,19:45:00,Doncaster,Shrewsbury,2,0
+E2,2020-01-11,15:00:00,Bristol Rvs,Doncaster,0,2
+E2,2020-01-11,15:00:00,Burton,Fleetwood Town,1,0
+E2,2020-01-11,15:00:00,Coventry,Milton Keynes Dons,1,1
+E2,2020-01-11,15:00:00,Ipswich,Accrington,4,1
+E2,2020-01-11,15:00:00,Oxford,Rotherham,1,3
+E2,2020-01-11,15:00:00,Peterboro,Gillingham,0,0
+E2,2020-01-11,15:00:00,Portsmouth,AFC Wimbledon,2,1
+E2,2020-01-11,15:00:00,Rochdale,Bolton,2,0
+E2,2020-01-11,15:00:00,Shrewsbury,Lincoln,1,1
+E2,2020-01-11,15:00:00,Southend,Tranmere,0,0
+E2,2020-01-11,15:00:00,Sunderland,Wycombe,4,0
+E2,2020-01-14,19:45:00,Burton,Milton Keynes Dons,1,0
+E2,2020-01-14,19:45:00,Lincoln,Bolton,5,1
+E2,2020-01-14,19:45:00,Oxford,Ipswich,0,0
+E2,2020-01-18,15:00:00,Accrington,Southend,1,2
+E2,2020-01-18,15:00:00,AFC Wimbledon,Peterboro,1,0
+E2,2020-01-18,15:00:00,Bolton,Portsmouth,0,1
+E2,2020-01-18,15:00:00,Doncaster,Coventry,0,1
+E2,2020-01-18,15:00:00,Fleetwood Town,Shrewsbury,2,2
+E2,2020-01-18,15:00:00,Gillingham,Oxford,1,1
+E2,2020-01-18,15:00:00,Lincoln,Blackpool,1,0
+E2,2020-01-18,15:00:00,Milton Keynes Dons,Sunderland,0,1
+E2,2020-01-18,15:00:00,Rotherham,Bristol Rvs,3,0
+E2,2020-01-18,15:00:00,Tranmere,Ipswich,1,2
+E2,2020-01-18,15:00:00,Wycombe,Rochdale,2,1
+E2,2020-01-21,19:45:00,Peterboro,Wycombe,4,0
+E2,2020-01-24,19:45:00,Sunderland,Doncaster,0,0
+E2,2020-01-25,15:00:00,Bristol Rvs,Fleetwood Town,0,0
+E2,2020-01-25,15:00:00,Burton,Accrington,1,1
+E2,2020-01-25,15:00:00,Ipswich,Lincoln,1,0
+E2,2020-01-25,15:00:00,Peterboro,Rotherham,2,1
+E2,2020-01-25,15:00:00,Rochdale,Gillingham,2,2
+E2,2020-01-28,19:45:00,Accrington,Peterboro,0,2
+E2,2020-01-28,19:45:00,AFC Wimbledon,Burton,2,2
+E2,2020-01-28,19:45:00,Doncaster,Southend,3,1
+E2,2020-01-28,19:45:00,Fleetwood Town,Coventry,0,0
+E2,2020-01-28,19:45:00,Lincoln,Portsmouth,0,2
+E2,2020-01-28,19:45:00,Milton Keynes Dons,Rochdale,2,1
+E2,2020-01-28,19:45:00,Rotherham,Ipswich,1,0
+E2,2020-01-28,19:45:00,Wycombe,Blackpool,2,1
+E2,2020-01-28,20:00:00,Bolton,Bristol Rvs,1,1
+E2,2020-01-29,19:45:00,Gillingham,Shrewsbury,2,0
+E2,2020-01-29,19:45:00,Tranmere,Sunderland,0,1
+E2,2020-02-01,15:00:00,Accrington,AFC Wimbledon,2,1
+E2,2020-02-01,15:00:00,Bolton,Tranmere,2,0
+E2,2020-02-01,15:00:00,Bristol Rvs,Coventry,1,2
+E2,2020-02-01,15:00:00,Fleetwood Town,Doncaster,2,1
+E2,2020-02-01,15:00:00,Ipswich,Peterboro,1,4
+E2,2020-02-01,15:00:00,Milton Keynes Dons,Wycombe,2,0
+E2,2020-02-01,15:00:00,Oxford,Blackpool,2,1
+E2,2020-02-01,15:00:00,Portsmouth,Sunderland,2,0
+E2,2020-02-01,15:00:00,Rochdale,Shrewsbury,1,0
+E2,2020-02-01,15:00:00,Rotherham,Burton,3,2
+E2,2020-02-01,15:00:00,Southend,Lincoln,2,1
+E2,2020-02-04,19:45:00,Tranmere,Doncaster,0,3
+E2,2020-02-07,19:45:00,Lincoln,Rotherham,0,1
+E2,2020-02-08,15:00:00,AFC Wimbledon,Fleetwood Town,1,2
+E2,2020-02-08,15:00:00,Blackpool,Southend,2,1
+E2,2020-02-08,15:00:00,Burton,Gillingham,0,0
+E2,2020-02-08,15:00:00,Coventry,Bolton,2,1
+E2,2020-02-08,15:00:00,Doncaster,Rochdale,1,1
+E2,2020-02-08,15:00:00,Peterboro,Oxford,4,0
+E2,2020-02-08,15:00:00,Shrewsbury,Milton Keynes Dons,1,1
+E2,2020-02-08,15:00:00,Sunderland,Ipswich,1,0
+E2,2020-02-08,15:00:00,Tranmere,Portsmouth,0,2
+E2,2020-02-08,15:00:00,Wycombe,Bristol Rvs,3,1
+E2,2020-02-11,19:45:00,AFC Wimbledon,Ipswich,0,0
+E2,2020-02-11,19:45:00,Blackpool,Gillingham,2,3
+E2,2020-02-11,19:45:00,Burton,Oxford,2,2
+E2,2020-02-11,19:45:00,Coventry,Portsmouth,1,0
+E2,2020-02-11,19:45:00,Doncaster,Bolton,2,1
+E2,2020-02-11,19:45:00,Lincoln,Milton Keynes Dons,1,1
+E2,2020-02-11,19:45:00,Peterboro,Southend,4,0
+E2,2020-02-11,19:45:00,Shrewsbury,Accrington,0,2
+E2,2020-02-11,19:45:00,Sunderland,Rochdale,3,0
+E2,2020-02-11,19:45:00,Tranmere,Bristol Rvs,0,0
+E2,2020-02-11,19:45:00,Wycombe,Fleetwood Town,0,1
+E2,2020-02-15,15:00:00,Accrington,Lincoln,4,3
+E2,2020-02-15,15:00:00,Bolton,Wycombe,0,2
+E2,2020-02-15,15:00:00,Bristol Rvs,Blackpool,2,1
+E2,2020-02-15,15:00:00,Fleetwood Town,Peterboro,2,1
+E2,2020-02-15,15:00:00,Gillingham,Doncaster,2,1
+E2,2020-02-15,15:00:00,Ipswich,Burton,4,1
+E2,2020-02-15,15:00:00,Oxford,Sunderland,0,1
+E2,2020-02-15,15:00:00,Portsmouth,Shrewsbury,2,0
+E2,2020-02-15,15:00:00,Rotherham,AFC Wimbledon,2,2
+E2,2020-02-15,15:00:00,Southend,Coventry,0,2
+E2,2020-02-18,19:45:00,Oxford,AFC Wimbledon,5,0
+E2,2020-02-18,19:45:00,Southend,Gillingham,0,1
+E2,2020-02-22,15:00:00,Accrington,Rotherham,1,2
+E2,2020-02-22,15:00:00,AFC Wimbledon,Blackpool,0,0
+E2,2020-02-22,15:00:00,Fleetwood Town,Portsmouth,1,0
+E2,2020-02-22,15:00:00,Ipswich,Oxford,0,1
+E2,2020-02-22,15:00:00,Lincoln,Gillingham,0,0
+E2,2020-02-22,15:00:00,Milton Keynes Dons,Bolton,1,0
+E2,2020-02-22,15:00:00,Rochdale,Coventry,1,2
+E2,2020-02-22,15:00:00,Shrewsbury,Doncaster,1,0
+E2,2020-02-22,15:00:00,Southend,Burton,2,3
+E2,2020-02-22,15:00:00,Sunderland,Bristol Rvs,3,0
+E2,2020-02-22,15:00:00,Wycombe,Tranmere,3,1
+E2,2020-02-25,19:45:00,Blackpool,Bolton,2,1
+E2,2020-02-25,19:45:00,Coventry,Rotherham,1,1
+E2,2020-02-25,19:45:00,Oxford,Accrington,3,0
+E2,2020-02-25,19:45:00,Portsmouth,Milton Keynes Dons,3,1
+E2,2020-02-25,19:45:00,Shrewsbury,Tranmere,2,3
+E2,2020-02-25,19:45:00,Sunderland,Fleetwood Town,1,1
+E2,2020-02-28,19:45:00,Portsmouth,Rochdale,3,0
+E2,2020-02-29,15:00:00,Blackpool,Ipswich,2,1
+E2,2020-02-29,15:00:00,Bolton,Accrington,0,0
+E2,2020-02-29,15:00:00,Bristol Rvs,Shrewsbury,0,1
+E2,2020-02-29,15:00:00,Burton,Peterboro,1,1
+E2,2020-02-29,15:00:00,Doncaster,Wycombe,3,1
+E2,2020-02-29,15:00:00,Gillingham,AFC Wimbledon,1,2
+E2,2020-02-29,15:00:00,Oxford,Southend,2,1
+E2,2020-02-29,15:00:00,Rotherham,Milton Keynes Dons,1,1
+E2,2020-03-01,12:00:00,Coventry,Sunderland,1,0
+E2,2020-03-03,19:45:00,Ipswich,Fleetwood Town,0,1
+E2,2020-03-07,15:00:00,Accrington,Tranmere,1,2
+E2,2020-03-07,15:00:00,AFC Wimbledon,Bolton,0,0
+E2,2020-03-07,15:00:00,Fleetwood Town,Blackpool,0,0
+E2,2020-03-07,15:00:00,Ipswich,Coventry,0,1
+E2,2020-03-07,15:00:00,Lincoln,Burton,3,2
+E2,2020-03-07,15:00:00,Milton Keynes Dons,Doncaster,0,1
+E2,2020-03-07,15:00:00,Peterboro,Portsmouth,2,0
+E2,2020-03-07,15:00:00,Rochdale,Rotherham,3,1
+E2,2020-03-07,15:00:00,Shrewsbury,Oxford,2,3
+E2,2020-03-07,15:00:00,Southend,Bristol Rvs,3,1
+E2,2020-03-07,15:00:00,Sunderland,Gillingham,2,2
+E2,2020-03-10,19:45:00,Blackpool,Tranmere,1,2
+E2,2020-03-10,19:45:00,Bristol Rvs,Sunderland,2,0
+E2,2020-03-10,19:45:00,Burton,Bolton,2,2
+E2,2020-03-10,19:45:00,Portsmouth,Fleetwood Town,2,2
