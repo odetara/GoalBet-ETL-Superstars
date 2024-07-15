@@ -25,7 +25,7 @@ GoalBet is a sports data analytics company that builds predictive models based o
     pip install -r requirements.txt
     ```
 
-3. **Configure the database**: Update `config/config.yaml` with your database credentials and data source URLs.
+3. **Configure the database**: Update `.env` file with your database credentials and data source URLs.
 
 4. **Run the ETL pipeline**:
     ```sh
