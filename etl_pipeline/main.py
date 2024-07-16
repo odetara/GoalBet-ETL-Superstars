@@ -11,6 +11,20 @@ from etl_modules.extract_transform import extract_and_transform_data
 from etl_modules.load import load_to_postgres, load_to_snowflake
 
 def main():
+    '''
+    An ETL Data Pipeline That Fetch Football Data from URL , extract desired columns, 
+    transform the data , and load to a Postgres DB.
+
+    ETL Stages:
+
+    - fetch_all_data(urls, staging_dir) : Fetches data from URL source using requests. Returns raw csv data in the staging_dir
+
+    - extract_and_transform_data(staging_dir, columns, output_path) : Extract desired columns and transform data, 
+                                                                      returns a transformed and processed data.
+
+    - load_to_postgres(output_path,table_name) : Load transformed data from file explorer to Potsgres DB.
+
+    '''
     urls = [
         "https://www.football-data.co.uk/mmz4281/1920/E0.csv",
         "https://www.football-data.co.uk/mmz4281/1920/E2.csv",
